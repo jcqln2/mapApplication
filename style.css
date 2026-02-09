@@ -8,3 +8,148 @@ body {
     font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
     background-color: #f8f9fa;
 }
+
+#map {
+    height: 600px;
+    width: 100%;
+    border-radius: 8px;
+    box-shadow: 0 2px 8px rgba(0,0,0,0.1);
+}
+
+.header-section {
+    background: linear-gradient(135deg, var(--primary-color) 0%, var(--secondary-color) 100%);
+    color: white;
+    padding: 2rem 0;
+    margin-bottom: 2rem;
+    box-shadow: 0 2px 4px rgba(0,0,0,0.1);
+}
+
+.info-card {
+    background: white;
+    border-radius: 8px;
+    padding: 1.5rem;
+    margin-bottom: 1.5rem;
+    box-shadow: 0 2px 4px rgba(0,0,0,0.08);
+}
+
+.filter-buttons .btn {
+    margin: 0.25rem;
+    border-radius: 20px;
+    padding: 0.5rem 1.5rem;
+    font-weight: 500;
+    transition: all 0.3s ease;
+}
+
+.filter-buttons .btn:hover {
+    transform: translateY(-2px);
+    box-shadow: 0 4px 8px rgba(0,0,0,0.15);
+}
+
+.btn-primary {
+    background-color: var(--primary-color);
+    border-color: var(--primary-color);
+}
+
+.btn-primary:hover {
+    background-color: #1e4559;
+    border-color: #1e4559;
+}
+
+.stat-card {
+    background: white;
+    border-radius: 8px;
+    padding: 1rem;
+    text-align: center;
+    box-shadow: 0 2px 4px rgba(0,0,0,0.08);
+    margin-bottom: 1rem;
+}
+
+.stat-number {
+    font-size: 2rem;
+    font-weight: bold;
+    color: var(--primary-color);
+}
+
+.stat-label {
+    color: #6c757d;
+    font-size: 0.9rem;
+}
+
+.form-section {
+    background: white;
+    border-radius: 8px;
+    padding: 1.5rem;
+    margin-bottom: 1.5rem;
+    box-shadow: 0 2px 4px rgba(0,0,0,0.08);
+}
+
+.icon-badge {
+    display: inline-block;
+    width: 30px;
+    height: 30px;
+    border-radius: 50%;
+    text-align: center;
+    line-height: 30px;
+    margin-right: 0.5rem;
+}
+
+.cushion-badge {
+    background-color: #ffc107;
+    color: white;
+}
+
+.permanent-badge {
+    background-color: #dc3545;
+    color: white;
+}
+
+.legend {
+    background: white;
+    border-radius: 8px;
+    padding: 1rem;
+    box-shadow: 0 2px 4px rgba(0,0,0,0.08);
+}
+
+.legend-item {
+    margin-bottom: 0.5rem;
+    display: flex;
+    align-items: center;
+}
+
+@media (max-width: 768px) {
+    #map {
+        height: 400px;
+        margin-bottom: 1rem;
+    }
+
+    .header-section {
+        padding: 1rem 0;
+    }
+
+    .header-section h1 {
+        font-size: 1.5rem;
+    }
+
+    .filter-buttons .btn {
+        width: 100%;
+        margin: 0.25rem 0;
+    }
+
+    .stat-card {
+        margin-bottom: 0.5rem;
+    }
+
+    .form-section {
+        padding: 1rem;
+    }
+}
+
+@media (max-width: 576px) {
+    .stat-number {
+        font-size: 1.5rem;
+    }
+
+    .info-card {
+        padding: 1rem;
+    }
+}
