@@ -1,211 +1,204 @@
 <!DOCTYPE html>
-<!--
-"StAuth10244: I Jacqueline Robinson, 000967585 certify that this material is my original work. No other person's work has been used without due acknowledgement. I have not made my work available to anyone else."
--->
 <html lang="en">
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>Hamilton Traffic Speed Hump Viewer</title>
-        <!-- Bootstrap CSS -->
-        <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.3.0/dist/css/bootstrap.min.css" rel="stylesheet">
-        <!-- Bootstrap Icons -->
-        <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/bootstrap-icons@1.10.0/font/bootstrap-icons.css">
+    <script src="app.js" defer></script>
+
+    <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.3.0/dist/css/bootstrap.min.css" rel="stylesheet">
+
+    <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/bootstrap-icons@1.10.0/font/bootstrap-icons.css">
+    
     <link rel="stylesheet" href="style.css">
 </head>
-<!--  
-current issue:Google Maps JavaScript API error: RefererNotAllowedMapError
-update: needed to add localhost to whitelist on google api key security side
--->
+<body>
+    <!-- Header -->
+    <div class="header-section">
+        <div class="container">
+            <div class="row align-items-center">
+                <div class="col-md-8">
+                    <h1><i class="bi bi-sign-stop"></i> Hamilton Traffic Speed Hump Finder</h1>
+                    <p class="mb-0">Discover traffic calming measures across Hamilton, Ontario</p>
+                </div>
+                <div class="col-md-4 text-md-end mt-3 mt-md-0">
+                    <button class="btn btn-light" data-bs-toggle="modal" data-bs-target="#aboutModal">
+                        <i class="bi bi-info-circle"></i> About
+                    </button>
+                </div>
+            </div>
+        </div>
+    </div>
 
-    <body>
-        <!-- Header -->
-        <div class="header-section">
-            <div class="container">
-                <div class="row align-items-center">
-                    <div class="col-md-8">
-                        <h1><i class="bi bi-sign-stop"></i> Hamilton Traffic Speed Hump Finder</h1>
-                        <p class="mb-0">Discover traffic calming measures across Hamilton, Ontario</p>
+    <div class="container-fluid">
+        <div class="row">
+            <!-- Sidebar -->
+            <div class="col-lg-3 col-md-4 mb-4">
+                <!-- Stats -->
+                <div class="row">
+                    <div class="col-6 col-md-12">
+                        <div class="stat-card">
+                            <div class="stat-number" id="totalCount">0</div>
+                            <div class="stat-label">Total Speed Humps</div>
+                        </div>
                     </div>
-                    <div class="col-md-4 text-md-end mt-3 mt-md-0">
-                        <button class="btn btn-light" data-bs-toggle="modal" data-bs-target="#aboutModal">
-                            <i class="bi bi-info-circle"></i> About
+                    <div class="col-6 col-md-12">
+                        <div class="stat-card">
+                            <div class="stat-number" id="visibleCount">0</div>
+                            <div class="stat-label">Currently Showing</div>
+                        </div>
+                    </div>
+                </div>
+
+                <!-- Filter Buttons -->
+                <div class="info-card">
+                    <h5><i class="bi bi-funnel"></i> Filter by Type</h5>
+                    <div class="filter-buttons">
+                        <button class="btn btn-primary active" onclick="filterMarkers('all')">
+                            <i class="bi bi-globe"></i> Show All
+                        </button>
+                        <button class="btn btn-warning" onclick="filterMarkers('Cushion')">
+                            <i class="bi bi-circle-fill"></i> Cushion Humps
+                        </button>
+                        <button class="btn btn-danger" onclick="filterMarkers('Permanent')">
+                            <i class="bi bi-square-fill"></i> Permanent Humps
+                        </button>
+                        <button class="btn btn-success" onclick="filterMarkers('user')">
+                            <i class="bi bi-pin-map-fill"></i> My Locations
                         </button>
                     </div>
                 </div>
+
+                <!-- Legend -->
+                <div class="legend">
+                    <h6><i class="bi bi-map"></i> Map Legend</h6>
+                    <div class="legend-item">
+                        <span class="icon-badge cushion-badge">C</span>
+                        <span>Cushion Speed Hump</span>
+                    </div>
+                    <div class="legend-item">
+                        <span class="icon-badge permanent-badge">P</span>
+                        <span>Permanent Speed Hump</span>
+                    </div>
+                    <div class="legend-item">
+                        <i class="bi bi-geo-alt-fill text-primary" style="font-size: 1.5rem; margin-right: 0.5rem;"></i>
+                        <span>Your Location</span>
+                    </div>
+                </div>
+
+                <!-- Geolocation -->
+                <div class="info-card">
+                    <h5><i class="bi bi-geo-alt"></i> Your Location</h5>
+                    <button class="btn btn-primary w-100" onclick="showUserLocation()">
+                        <i class="bi bi-crosshair"></i> Show My Location
+                    </button>
+                    <small class="text-muted d-block mt-2">Allow location access to see nearby speed humps</small>
+                </div>
+
+                <!-- Directions -->
+                <div class="info-card">
+                    <h5><i class="bi bi-signpost-2"></i> Get Directions</h5>
+                    <div class="mb-2">
+                        <label class="form-label small">From:</label>
+                        <select class="form-select form-select-sm" id="originSelect">
+                            <option value="">Select origin...</option>
+                            <option value="user">My Location</option>
+                        </select>
+                    </div>
+                    <div class="mb-2">
+                        <label class="form-label small">To:</label>
+                        <select class="form-select form-select-sm" id="destinationSelect">
+                            <option value="">Select destination...</option>
+                        </select>
+                    </div>
+                    <button class="btn btn-success w-100 btn-sm" onclick="getDirections()">
+                        <i class="bi bi-arrow-right"></i> Get Directions
+                    </button>
+                </div>
             </div>
-        </div>
-    
-        <div class="container-fluid">
-            <div class="row">
-                <!-- Sidebar -->
-                <div class="col-lg-3 col-md-4 mb-4">
-                    <!-- Stats -->
-                    <div class="row">
-                        <div class="col-6 col-md-12">
-                            <div class="stat-card">
-                                <div class="stat-number" id="totalCount">0</div>
-                                <div class="stat-label">Total Speed Humps</div>
-                            </div>
+
+            <!-- Map Section -->
+            <div class="col-lg-9 col-md-8">
+                <div id="map"></div>
+
+                <!-- Add Location Form -->
+                <div class="form-section mt-4">
+                    <h5><i class="bi bi-plus-circle"></i> Report a Speed Hump</h5>
+                    <p class="text-muted small">Know of a speed hump not on our map? Add it here!</p>
+                    <form id="addLocationForm" class="row g-3">
+                        <div class="col-md-6">
+                            <label for="locationName" class="form-label">Location Name</label>
+                            <input type="text" class="form-control" id="locationName" placeholder="e.g., Oak Street near Elm" required>
                         </div>
-                        <div class="col-6 col-md-12">
-                            <div class="stat-card">
-                                <div class="stat-number" id="visibleCount">0</div>
-                                <div class="stat-label">Currently Showing</div>
-                            </div>
-                        </div>
-                    </div>
-    
-                    <!-- Filter Buttons -->
-                    <div class="info-card">
-                        <h5><i class="bi bi-funnel"></i> Filter by Type</h5>
-                        <div class="filter-buttons">
-                            <button class="btn btn-primary active" onclick="filterMarkers('all')">
-                                <i class="bi bi-globe"></i> Show All
-                            </button>
-                            <button class="btn btn-warning" onclick="filterMarkers('Cushion')">
-                                <i class="bi bi-circle-fill"></i> Cushion Humps
-                            </button>
-                            <button class="btn btn-danger" onclick="filterMarkers('Permanent')">
-                                <i class="bi bi-square-fill"></i> Permanent Humps
-                            </button>
-                            <button class="btn btn-success" onclick="filterMarkers('user')">
-                                <i class="bi bi-pin-map-fill"></i> My Locations
-                            </button>
-                        </div>
-                    </div>
-    
-                    <!-- Legend -->
-                    <div class="legend">
-                        <h6><i class="bi bi-map"></i> Map Legend</h6>
-                        <div class="legend-item">
-                            <span class="icon-badge cushion-badge">C</span>
-                            <span>Cushion Speed Hump</span>
-                        </div>
-                        <div class="legend-item">
-                            <span class="icon-badge permanent-badge">P</span>
-                            <span>Permanent Speed Hump</span>
-                        </div>
-                        <div class="legend-item">
-                            <i class="bi bi-geo-alt-fill text-primary" style="font-size: 1.5rem; margin-right: 0.5rem;"></i>
-                            <span>Your Location</span>
-                        </div>
-                    </div>
-    
-                    <!-- Geolocation -->
-                    <div class="info-card">
-                        <h5><i class="bi bi-geo-alt"></i> Your Location</h5>
-                        <button class="btn btn-primary w-100" onclick="showUserLocation()">
-                            <i class="bi bi-crosshair"></i> Show My Location
-                        </button>
-                        <small class="text-muted d-block mt-2">Allow location access to see nearby speed humps</small>
-                    </div>
-    
-                    <!-- Directions -->
-                    <div class="info-card">
-                        <h5><i class="bi bi-signpost-2"></i> Get Directions</h5>
-                        <div class="mb-2">
-                            <label class="form-label small">From:</label>
-                            <select class="form-select form-select-sm" id="originSelect">
-                                <option value="">Select origin...</option>
-                                <option value="user">My Location</option>
+                        <div class="col-md-6">
+                            <label for="humpType" class="form-label">Type</label>
+                            <select class="form-select" id="humpType" required>
+                                <option value="">Choose...</option>
+                                <option value="Cushion">Cushion Speed Hump</option>
+                                <option value="Permanent">Permanent Speed Hump</option>
                             </select>
                         </div>
-                        <div class="mb-2">
-                            <label class="form-label small">To:</label>
-                            <select class="form-select form-select-sm" id="destinationSelect">
-                                <option value="">Select destination...</option>
-                            </select>
+                        <div class="col-md-12">
+                            <label for="address" class="form-label">Address</label>
+                            <input type="text" class="form-control" id="address" placeholder="123 Main Street, Hamilton, ON" required>
                         </div>
-                        <button class="btn btn-success w-100 btn-sm" onclick="getDirections()">
-                            <i class="bi bi-arrow-right"></i> Get Directions
-                        </button>
-                    </div>
-                </div>
-    
-                <!-- Map Section -->
-                <div class="col-lg-9 col-md-8">
-                    <div id="map"></div>
-    
-                    <!-- Add Location Form -->
-                    <div class="form-section mt-4">
-                        <h5><i class="bi bi-plus-circle"></i> Report a Speed Hump</h5>
-                        <p class="text-muted small">Know of a speed hump not on our map? Add it here!</p>
-                        <form id="addLocationForm" class="row g-3">
-                            <div class="col-md-6">
-                                <label for="locationName" class="form-label">Location Name</label>
-                                <input type="text" class="form-control" id="locationName" placeholder="e.g., Oak Street near Elm" required>
-                            </div>
-                            <div class="col-md-6">
-                                <label for="humpType" class="form-label">Type</label>
-                                <select class="form-select" id="humpType" required>
-                                    <option value="">Choose...</option>
-                                    <option value="Cushion">Cushion Speed Hump</option>
-                                    <option value="Permanent">Permanent Speed Hump</option>
-                                </select>
-                            </div>
-                            <div class="col-md-12">
-                                <label for="address" class="form-label">Address</label>
-                                <input type="text" class="form-control" id="address" placeholder="123 Main Street, Hamilton, ON" required>
-                            </div>
-                            <div class="col-md-12">
-                                <label for="description" class="form-label">Description (Optional)</label>
-                                <textarea class="form-control" id="description" rows="2" placeholder="Additional details about this location..."></textarea>
-                            </div>
-                            <div class="col-12">
-                                <button type="submit" class="btn btn-primary">
-                                    <i class="bi bi-plus-lg"></i> Add to Map
-                                </button>
-                                <button type="reset" class="btn btn-secondary">
-                                    <i class="bi bi-x-lg"></i> Clear
-                                </button>
-                            </div>
-                        </form>
-                    </div>
+                        <div class="col-md-12">
+                            <label for="description" class="form-label">Description (Optional)</label>
+                            <textarea class="form-control" id="description" rows="2" placeholder="Additional details about this location..."></textarea>
+                        </div>
+                        <div class="col-12">
+                            <button type="submit" class="btn btn-primary">
+                                <i class="bi bi-plus-lg"></i> Add to Map
+                            </button>
+                            <button type="reset" class="btn btn-secondary">
+                                <i class="bi bi-x-lg"></i> Clear
+                            </button>
+                        </div>
+                    </form>
                 </div>
             </div>
         </div>
-    
-        <!-- About Modal -->
-        <div class="modal fade" id="aboutModal" tabindex="-1">
-            <div class="modal-dialog">
-                <div class="modal-content">
-                    <div class="modal-header">
-                        <h5 class="modal-title">About This Application</h5>
-                        <button type="button" class="btn-close" data-bs-dismiss="modal"></button>
-                    </div>
-                    <div class="modal-body">
-                        <h6>What are Speed Humps?</h6>
-                        <p>Speed humps are traffic calming devices designed to slow vehicles down in residential areas and school zones.</p>
-                        
-                        <h6>Types of Speed Humps:</h6>
-                        <ul>
-                            <li><strong>Cushion Humps:</strong> Lower profile humps that allow emergency vehicles to pass more easily</li>
-                            <li><strong>Permanent Humps:</strong> Traditional raised sections across the roadway</li>
-                        </ul>
-    
-                        <h6>How to Use:</h6>
-                        <ul>
-                            <li>Use filter buttons to show specific types of speed humps</li>
-                            <li>Click markers to see location details</li>
-                            <li>Add your location to find nearby speed humps</li>
-                            <li>Report new speed humps using the form</li>
-                            <li>Get directions between locations</li>
-                        </ul>
-    
-                        <p class="mb-0"><small class="text-muted">Data source: City of Hamilton Open Data</small></p>
-                    </div>
+    </div>
+
+    <!-- About Modal -->
+    <div class="modal fade" id="aboutModal" tabindex="-1">
+        <div class="modal-dialog">
+            <div class="modal-content">
+                <div class="modal-header">
+                    <h5 class="modal-title">About This Application</h5>
+                    <button type="button" class="btn-close" data-bs-dismiss="modal"></button>
+                </div>
+                <div class="modal-body">
+                    <h6>What are Speed Humps?</h6>
+                    <p>Speed humps are traffic calming devices designed to slow vehicles down in residential areas and school zones.</p>
+                    
+                    <h6>Types of Speed Humps:</h6>
+                    <ul>
+                        <li><strong>Cushion Humps:</strong> Lower profile humps that allow emergency vehicles to pass more easily</li>
+                        <li><strong>Permanent Humps:</strong> Traditional raised sections across the roadway</li>
+                    </ul>
+
+                    <h6>How to Use:</h6>
+                    <ul>
+                        <li>Use filter buttons to show specific types of speed humps</li>
+                        <li>Click markers to see location details</li>
+                        <li>Add your location to find nearby speed humps</li>
+                        <li>Report new speed humps using the form</li>
+                        <li>Get directions between locations</li>
+                    </ul>
+
+                    <p class="mb-0"><small class="text-muted">Data source: City of Hamilton Open Data</small></p>
                 </div>
             </div>
         </div>
+    </div>
+
+    <!-- Bootstrap JS -->
+    <script src="https://cdn.jsdelivr.net/npm/bootstrap@5.3.0/dist/js/bootstrap.bundle.min.js"></script>
     
-        <!-- Bootstrap JS -->
-        <script src="https://cdn.jsdelivr.net/npm/bootstrap@5.3.0/dist/js/bootstrap.bundle.min.js"></script>
-        
-        <!-- Google Maps API -->
-        <script src="https://maps.googleapis.com/maps/api/js?key=AIzaSyC7swEcq42Uq-Og0LV7kfikjB4GKzRalIY&callback=initMap&libraries=geometry" async defer></script>
-        
-        <script src="app.js"></script>
-    </body>
-    </html>
+    <!-- Google Maps API -->
+    <script src="https://maps.googleapis.com/maps/api/js?key=AIzaSyC7swEcq42Uq-Og0LV7kfikjB4GKzRalIY&callback=initMap&libraries=geometry" async defer></script>
     
+
+</body>
+</html>
