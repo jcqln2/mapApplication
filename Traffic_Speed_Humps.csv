@@ -1,0 +1,760 @@
+﻿X,Y,OBJECTID,SPEED_HUMP_TYPE,LOCATION
+594843.7898,4789475.7186,1,Cushion,Melrose Ave - between Cannon St and Beechwood Ave
+597765.7716,4785765.0187,2,Permanent,5 Harrisford St - between Albright Rd and Greenhill Ave
+591729.4637,4790614.475,3,Cushion,159 Park St - between Mulberry St and Sheaffe St
+592298.7114,4790416.4568,4,Cushion,189 Catharine St - between Cannon St and Robert St
+588934.872,4790690.2389,5,Cushion,196 Cline Ave - between King St and Marion Ave
+586325.7418,4789691.1698,6,Cushion,83 Ofield Rd - between Main St and Ramsey Cres
+586538.659,4789706.9424,7,Cushion,44 Ofield Rd - between Ramsey Cres and Ewen Rd
+590389.1039,4789241.6416,8,Cushion,84 Homewood Ave - between Locke St and Kent St
+597969.127,4781595.8504,9,Permanent,Second Rd West - between Gatestone and Hillcroft
+593715.1391,4783911.2758,10,Cushion,Queen Victoria Dr - between Ridley and Quinn
+593766.7859,4783902.4705,11,Cushion,Queen Victoria Dr - between Ridley and Quinn
+592288.6014,4789011.0726,12,Cushion,Forest Ave at Aurora St
+592163.0687,4788997.854,13,Cushion,Ferguson Ave S - between Charlton and Forest
+592195.5808,4789103.3489,14,Cushion,Ferguson Ave S - between Forest and Young
+591716.4818,4790809.437,15,Cushion,87/88 Colbourne St - between Bay and Park
+592303.5877,4790109.8651,16,Cushion,103 Mary St - between Winson and Kelly
+590971.1675,4791011.7557,17,Cushion,72 Magill Street
+590218.5111,4783157.7776,18,Cushion,128 Springside Drive
+590333.5229,4783578.8182,19,Cushion,37 Springside Drive
+592178.1109,4784128.3889,20,Cushion,380 Acadia Drive - Ridgemount to Butler
+592326.6021,4784078.3941,21,Cushion,316 Acadia Drive - Butler to Annapolis
+592751.865,4783549.4562,22,Cushion,115 Eleanor Drive - Dulgaren to Brenda
+592667.5411,4783264.8184,23,Cushion,191 Eleanor Drive - Brenda to Eaglewood
+592445.4545,4789059.3056,24,Cushion,Young St - 50 metres west of West Ave S - West to Victoria
+592495.2562,4784011.4213,25,Cushion,35 Annapolis Way - Acadia to Beaverton
+592508.509,4783983.8839,26,Cushion,59 Annapolis Way - Acadia to Beaverton
+590123.9681,4782861.9706,27,Cushion,202 Springside Drive
+609734.3152,4785270.923,28,Permanent,324 Winona Road
+609775.6682,4785422.6363,29,Permanent,341 Winona Road
+610015.6952,4786291.7242,30,Permanent,Winona Road - 50m north of Baseline Road
+594098.2162,4785456.8613,31,Cushion,Palmer Road - 25m north of Muir Avenue
+596127.5121,4787374.9939,32,Cushion,278 Wexford Avenue South
+590061.8754,4782665.0062,33,Cushion,235 Springside Drive
+588163.6775,4797798.9765,34,Cushion,10 Longyear Drive
+591722.3014,4788091.4871,35,Cushion,Queensdale Avenue East - 20m west of Bruce Park Drive
+591588.8848,4788132.3695,36,Cushion,112 Queensdale Avenue East
+591491.9331,4788163.943,37,Cushion,72 Queensdale Avenue East
+590940.3742,4790909.2347,38,Cushion,35 Magill Street
+592330.1244,4783813.1602,39,Cushion,189 Acadia Drive
+591859.8223,4783947.8973,40,Cushion,579 Acadia Drive
+591054.4715,4783983.3078,41,Cushion,333 Brigade Drive
+591150.2438,4783823.9884,42,Cushion,263 Brigade Drive
+591391.0357,4784063.7357,43,Cushion,117 Brigade Drive
+591357.2623,4784207.1612,44,Cushion,69 Brigade Drive
+591350.6123,4784357.2876,45,Cushion,27 Brigade Drive
+591513.59,4784319.1946,46,Cushion,182 Delancey Boulevard
+591598.8806,4784020.4732,47,Cushion,323 Delancey Boulevard
+591534.8624,4783991.0483,48,Cushion,363 Delancey Boulevard
+594730.3543,4785175.7771,49,Cushion,6 Anson Avenue
+594800.8239,4785154.0694,50,Cushion,18 Anson Avenue
+594948.5419,4785109.086,51,Cushion,45 Anson Avenue
+595031.8675,4785082.3488,52,Cushion,57 Anson Avenue
+595098.6545,4785061.8228,53,Cushion,65 Anson Avenue
+595189.8915,4785033.0266,54,Cushion,75 Anson Avenue
+595207.6998,4785622.3118,55,Cushion,139 Kingslea Drive
+595239.5802,4785725.9686,56,Cushion,121 Kingslea Drive
+595306.8972,4785947.8992,57,Cushion,83 Kingslea Drive
+595283.6293,4785872.1273,58,Cushion,101 Kingslea Drive
+594450.0148,4785913.8815,59,Cushion,279 East 45th Street
+594407.714,4785771.2391,60,Cushion,311 East 45th Street
+593343.4887,4783153.3905,61,Cushion,816 Templemead Drive
+593498.8375,4783392.1911,62,Cushion,63 Templemead Drive
+594872.8616,4789577.0273,63,Cushion,Melrose Ave - between Cannon St and Beechwood Ave
+590655.9856,4789456.516,64,Cushion,Charlton Ave W - between Queen St to Kent St
+590500.65,4789501.951,65,Permanent,Charlton Ave W - between Kent St to Locke St
+594131.3932,4789111.5964,66,Permanent,St. Clair Ave - between Main St E to Dunsmere Rd
+589541.7977,4787140.0096,67,Temporary,West 16th St - between Mohawk Rd and Sanatorium Rd
+594182.1038,4789254.7632,68,Permanent,St. Clair Ave - between Dunsmere Rd to King St
+590053.3423,4785168.2515,69,Permanent,Citino Dr - between Forbes St. to West 5th St.
+589588.7517,4783563.8299,70,Permanent,Alderson Dr - between Christie St and Upper James St
+589526.4342,4783453.9316,71,Permanent,Christopher Dr - between Malton Dr and Upper James St
+589279.9251,4783534.0642,72,Permanent,Christopher Dr - between Malton Dr and Upper James St
+590137.7473,4785223.4167,73,Permanent,Forbes St - between Blossom Ln and Citino Dr
+599372.7544,4781377.4728,74,Permanent,Highgate Dr - between Bankfield Cres to Pinewoods Dr
+589662.0693,4785820.8946,75,Cushion,Brigadoon Dr in front of #250/253
+589476.6491,4785796.4348,76,Cushion,Brigadoon Dr - 20 metres east of Fiona Cres (east leg)
+589157.2709,4785884.9397,77,Cushion,Brigadoon Dr - between Glen Eden Ct and Waterberry Tr
+587958.9496,4788184.8544,78,Cushion,Redfern Ave in front of #112/108
+587713.6851,4788135.6397,79,Temporary,Redfern Ave - between Chedmac Dr and Sanatorium Rd
+588978.9748,4787025.1125,80,Cushion,Darlington in front of #21/22
+589302.8763,4790668.6453,81,Cushion,Glen Rd in front of #174/175
+588953.4516,4787035.2604,82,Cushion,Darlington Dr - between Ashton Rd and Bonaventure Dr
+589948.2843,4798202.7588,83,Permanent,Main St - between Union St and School St
+589989.9091,4798130.9299,84,Permanent,Main St - between Union St and School St
+589478.7088,4790617.7006,85,Cushion,Glen Rd in front of #127/128
+592288.3696,4783679.057,86,Permanent,Acadia Dr at St Jean de Brebeuf
+592318.2381,4783614.2008,87,Permanent,Acadia Dr at St Jean de Brebeuf
+590331.757,4787346.7144,88,Permanent,103/105 South Bend Rd W - between Collier Cres W Leg and Collier Cres E Leg
+589878.4275,4798366.432,89,Permanent,Griffin St - between Main St and Franklin St
+589901.9936,4798390.5183,90,Permanent,Griffin St - between Franklin St and Mill St
+590187.4334,4788897.3691,91,Permanent,Glenfern Ave - between Mountain Ave to Undermount Ave
+590090.0724,4788821.5384,92,Permanent,Mountain Ave - between Hillcrest Ave and Glenfern Ave
+588226.5855,4798066.6031,93,Permanent,Brian Blvd - between Braeheid Ave and Fenton Dr
+588212.3213,4797984.607,94,Permanent,Brian Blvd - between Braeheid Ave and Fenton Dr
+592240.1331,4789137.5083,95,Cushion,Young St - between Ferguson Ave and Wellington St
+590162.7855,4789064.9,96,Permanent,Mountain Ave - between Orchard Hill and Aberdeen Ave
+590862.9467,4789505.8539,97,Cushion,Robinson St - between Queen St and Hess St
+593174.7331,4789108.5086,98,Cushion,Ontario Ave - between Stinson St and Main St
+589983.8087,4788955.3249,99,Permanent,South St - between Mountain Ave and Beulah Ave
+592708.9344,4791451.0558,100,Permanent,Mary St - between Macauley St and Wood St
+592674.6204,4791330.7094,101,Permanent,Mary St - between Picton St and Macauley St
+592762.1349,4791246.0693,102,Permanent,Picton St - between Mary St and Ferguson Ave
+592963.2534,4791176.1636,103,Permanent,Picton St - between Ferguson Ave and Wellington St
+592683.7769,4791032.1494,104,Permanent,Simcoe St - between Mary St and Ferguson Ave
+592838.6551,4791454.4359,105,Permanent,Wood St - between Mary St and Ferguson Ave
+593035.315,4791394.4048,106,Permanent,Wood St - between Ferguson Ave and Wellington St
+590308.8719,4790378.8687,107,Cushion,New Street in front of #39/42
+590280.2122,4790285.5177,108,Cushion,New Street in front of #61/70
+588493.2342,4789925.7963,109,Cushion,Dow Ave - between Paul St and Main St
+589912.843,4788921.2397,110,Temporary,Beulah Ave - between South St and Hillcrest Ave
+590409.213,4790295.9968,111,Cushion,Strathcona Ave in front of #42/45
+590429.3968,4790366.2889,112,Cushion,Strathcona Ave in front of #20/27
+592432.7116,4790996.905,113,Permanent,Strachan St - between John St N and Catharine St N
+592511.4963,4790972.5943,114,Permanent,Strachan St - between Catharine St N and Mary St
+588637.9448,4790253.9805,115,Cushion,Barclay St - between Newton Ave and Cline Ave
+589611.5518,4790722.4014,116,Cushion,Macklin St in front of #70/81
+589641.1303,4790822.6966,117,Cushion,Macklin St. N - in front of Coronation Arena
+597616.329,4785794.8619,118,Permanent,30 Harrisford St - Close to school
+594045.4741,4789999.2682,119,Permanent,153 Stirton St - between Harvey St and Huron St
+594693.1847,4790077.4274,120,Cushion,Clinton St - 17m East of CP 25048
+593479.9738,4788710.8813,121,Cushion,75 Cumberland Ave - between Sanford and Gladstone
+590270.2251,4787689.0701,122,Cushion,117/118 Delmar Drive
+590392.0821,4787327.6643,123,Permanent,95/91 South Bend Rd W - between Collier Cres W Leg and Collier Cres E Leg
+590134.2293,4787276.4282,124,Permanent,7 Stacey St - between Columbia and Laurier
+592422.3325,4790490.4326,125,Cushion,Mary St - between Robert St and Barton St
+595819.7848,4788644.3807,126,Cushion,455 Dunsmure Rd  - between Grosvenor Ave and Ottawa St
+594426.1247,4789103.3919,127,Permanent,97 Dunsmure Rd - between Barnesdale Ave and Fairholt Rd
+594874.4348,4789063.9266,128,Cushion,25/32 Leinster Avenue South
+592345.1957,4790568.6409,129,Cushion,Catharine St - between Barton St and Robert St
+589741.8073,4789146.412,130,Cushion,Glenside Ave - between Dundurn St and Hyde Park Ave/ Glenside Ave in front of #26/27
+587116.4085,4788639.8627,131,Permanent,1075 Scenic Dr
+586891.4893,4788584.4629,132,Permanent,1133 Scenic Dr
+594670.892,4788930.8788,133,Permanent,Melrose Ave - between Main St E and Dunsmure Rd
+591533.8282,4789299.0595,134,Cushion,Robinson St - between MacNab St S and James St S
+588538.8978,4790238.642,135,Cushion,Barclay St - between Cline Ave and Newton Ave
+589076.7417,4790429.3756,136,Cushion,66 Bond St. S - between King & Marion
+589101.476,4790510.6252,137,Cushion,38 Bond St. S - between King & Marion
+590371.0724,4787652.591,138,Cushion,137/136 Delmar Drive
+594801.1469,4789340.7814,139,Cushion,23 Melrose Avenue North
+590065.4973,4789539.5874,140,Cushion,363/364 Herkimer St - between Dundurn to Locke
+590199.7541,4789498.1899,141,Cushion,324/325 Herkimer St - between Dundurn to Locke
+592443.7407,4790564.4174,142,Cushion,Mary St - between Robert St and Barton St.
+590062.8298,4787297.0615,143,Permanent,17 Stacey St - between Columbia and Laurier
+590029.1747,4787360.8792,144,Permanent,Columbia Dr - 50m North of Stacey St
+592187.4248,4789157.5722,145,Cushion,170/175 Young Street - between Ferguson and Walnut
+591388.3148,4789344.574,146,Cushion,49 Robinson St - between Park and MacNab
+591388.3148,4789515.2708,147,Cushion,164 Park St S  - between Bold and Duke
+589900.4998,4788882.4708,148,Permanent,54/58 Beulah Ave - between South and Hillcrest
+587422.2777,4789801.1899,149,Cushion,Leland St - Between Mapes and Glenmount
+589485.1069,4798886.0893,150,Permanent,154 Mill St N - between Albert and Queen
+589389.0629,4798977.1062,151,Permanent,198 Mill St N - between Elgin and Albert
+594754.5829,4789212.4503,152,Permanent,9 Melrose Avenue S
+594711.8587,4789069.1392,153,Permanent,59 Melrose Avenue S
+593269.5651,4789179.9176,154,Permanent,87 Grant  Ave
+593232.788,4789059.2674,155,Permanent,125 Grant Ave
+589876.0094,4788988.0207,156,Permanent,South St - between Beulah Ave and Dundurn St
+592737.2503,4791130.7188,157,Permanent,Ferrie St - between Mary St and Ferguson Ave
+592045.3627,4791201.2067,158,Permanent,MacNab St - between Strachan St and Simcoe St
+592805.685,4791349.0469,159,Permanent,Macauley St - between Mary St and Ferguson Ave
+591814.9609,4788812.2523,160,Cushion,Kingsway Dr - between John St and Arkledun Ave
+593099.9128,4789179.7502,161,Cushion,Erie Ave - between Main St and Stinson
+593015.9912,4791285.1133,162,Permanent,Macauley St - between Ferguson Ave and Wellington St
+592611.1964,4790007.1413,163,Cushion,Cathcart St - between Wilson St and Kelly St
+592637.9202,4790091.2583,164,Cushion,Cathcart St - between Kelly St and Cannon St
+591764.9234,4790726.6964,165,Cushion,195 Park St - between Colbourne St and Sheaffe St
+591310.5129,4790793.8872,166,Permanent,179 Hess St - between Harriet St and Windsor St
+587916.0044,4789500.0099,167,Permanent,152 Stroud Rd - between Royal Ave and Baxter St
+590604.5874,4789176.6269,168,Cushion,22 Homewood Ave - between Kent St and Queen St
+599638.7832,4785203.8108,169,Temporary,268 Nashville Circle
+590512.0961,4789000.7034,170,Cushion,Mapleside Dr in front of #16
+601013.3419,4786130.9691,171,Permanent,59 Lake Ave - between Randall and Collegiate
+599356.2274,4788791.6991,172,Temporary,536 Walmer Rd - between Waverley and Brunswick
+599558.5457,4788726.6409,173,Temporary,450 Walmer - between Osborne and Talbot
+599549.8713,4788693.7291,174,Temporary,438 Talbot Rd - between Vansitmart and Walmer
+599490.4259,4788490.3902,175,Temporary,380 Talbot Rd - between Barton and Vansitmart
+599238.102,4788642.1928,176,Temporary,276 Vansitmart Ave - between Waverly and Brunswick
+599455.9833,4788577.8999,177,Temporary,327 Vansitmart Ave - between Osborne and Talbot
+593683.5488,4790971.5882,178,Permanent,58 Mars Ave - between Cheever and Douglas
+593824.9424,4790927.138,179,Permanent,96 Mars Ave - between Wentworth and Cheever
+595591.8947,4789201.4611,180,Permanent,188 Belmont Ave - between Cannon and Campbell
+595698.1982,4789473.2459,181,Permanent,280 Belmont Ave - between Barton and Campbell
+596437.5437,4786863.8251,182,Cushion,Scotia Avenue in front of #16
+594888.0154,4788851.6022,183,Permanent,84 Balsam Ave S - between Dunsmure and Main
+594937.9688,4789015.4325,184,Permanent,32 Balsam Ave S - between Kimg and Dunsmure
+593006.087,4789204.9927,185,Cushion,Tisdale St S
+592075.2782,4789302.9824,186,Cushion,122 Augusta St - Baille to Walnut
+592122.2337,4789241.666,187,Cushion,144 Walnut St S - Augusta to Young
+592163.5744,4789370.1032,188,Cushion,101 Walnut St S - Hunter to Augusta
+591032.163,4789399.6968,189,Cushion,217 Caroline St S - Robinson to Charlton
+595754.669,4788665.5663,190,Cushion,Dunsmure Ave 30m west of Grosvenor - Balmoral to Grosvenor
+597699.5651,4788845.1227,191,Cushion,76 Shelby Avenue - Barton to Melvin
+590765.854,4791152.6,192,Cushion,114 Inchbury St - Tecumseh to Kinnell
+590732.5991,4791043.1353,193,Cushion,76 Inchbury St - Kinnell to York
+591113.7381,4790970.8448,194,Cushion,75 Oxford St - Barton to York
+591071.7745,4790824.6857,195,Cushion,37 Oxford St - Barton to York
+591141.0227,4789420.2315,196,Cushion,119 Robinson St - Caroline to Bay
+592431.8578,4789407.7538,197,Cushion,44 Spring St - Jackson to Hunter
+591075.7541,4790312.0147,198,Cushion,187 Market St - Queen to Hess
+591226.1161,4790255.836,199,Cushion,150 Market St - Hess to Caroline
+592433.405,4791640.5875,200,Cushion,505 Hughson St - Wood to Burlington
+592251.9705,4791717.2526,201,Cushion,25 Burlington St - MacNab to James St
+593708.0395,4788741.0902,202,Cushion,202 Fairleigh Avenue South - Delaware to Cumberland
+593835.0963,4788995.1099,203,Cushion,119 Fairleigh Avenue South - Main to Delaware
+593913.9041,4789245.3124,204,Cushion,38 Fairleigh Avenue South - King to Main
+593964.6744,4789487.2261,205,Cushion,28 Fairleigh Avenue North - Wilson to King
+593296.4101,4790470.3768,206,Cushion,300 Emerald Street North - Birge to Barton
+593112.1514,4789874.1489,207,Cushion,110 Emerald Street North - Evans to Wilson
+595477.6704,4788175.8225,208,Cushion,76 Rosslyn Avenue South - Maple to Montclair
+595538.44,4788378.0278,209,Cushion,12 Rosslyn Avenue South - King to Maple
+595629.8028,4788066.73,210,Cushion,118 Grosvenor Avenue South - King to Montclair
+595711.4636,4788357.3787,211,Cushion,Grosvenor Avenue South - Main to Maple
+593583.5629,4790456.1557,212,Cushion,45 William Street - Birge to Barton
+595877.1402,4788306.6207,213,Cushion,30 London Street South - Main to Maple
+595821.6604,4788108.3447,214,Cushion,89 London Street South - Maple to Central
+586545.5957,4787913.0135,215,Cushion,219 Lavender Cres - Daffodil to Larkspur
+586686.4554,4787462.4521,216,Cushion,117 Lavender Cres - Indigo to Honeysuckle
+586804.6989,4787395.3747,217,Cushion,Lavender Cres - Honeysuckle to Scenic
+592853.3468,4783887.388,218,Cushion,26 Eleanor Avenue - In front of #26
+592816.4092,4783765.3844,219,Cushion,60 Eleanor Avenue - In front of #60
+594885.2797,4786666.3211,220,Cushion,175 Rendell Boulevard - Cloke to Fennell
+594921.602,4786783.0484,221,Cushion,144 Rendell Boulevard - Brucedale to Cloke
+594967.1138,4786933.1684,222,Cushion,95 Rendell Boulevard - Queensdale to Brucedale
+594985.8584,4786996.0434,223,Cushion,75 Rendell Boulevard - Queensdale to Brucedale
+591911.815,4784113.8511,224,Cushion,522 Acadia Drive - Acadia to Anita
+594669.5515,4789223.3656,225,Cushion,22-24_21-25 Spadian Ave
+596953.2801,4787094.0254,226,Cushion,19 Woodbridge Rd
+599054.349,4786739.3207,227,Cushion,112 Rainbow Dr
+599007.5342,4786568.386,228,Cushion,150 Rainbow Dr
+599115.3371,4786881.9049,229,Cushion,23 Secord Dr
+599248.6298,4786586.0609,230,Cushion,109 Glen Echo Dr
+600921.7753,4785591.3512,231,Cushion,"Veterans Lane (beside Municipal Car Park 3, between Lake Ave S & Mountain Ave S)"
+594637.3874,4789117.0184,232,Cushion,49-53_50-52 Spadina Ave
+589893.8354,4786521.5404,233,Cushion,61 Rolston Dr
+589929.0103,4786636.6185,234,Cushion,29 Rolston Dr
+597520.9177,4781123.986,235,Cushion,170-174 Bellagio Ave
+597691.6669,4781078.5282,236,Cushion,231-233 Bellagio Ave
+603862.2104,4785893.0714,237,Cushion,179 - 180 Margaret Ave
+603909.4372,4786050.5351,238,Cushion,201 - 202 Margaret Ave
+604018.3241,4786414.0795,239,Cushion,251 - 252 Margaret Ave
+604094.3721,4786668.6262,240,Cushion,285 - 288 Margaret Ave
+608816.5294,4785178.9206,241,Cushion,265 Lewis Rd
+608860.4591,4785329.7041,242,Cushion,286 - 292 Lewis Rd
+602747.6539,4787078.1435,243,Cushion,1 1/2 Carpenter Ave
+602659.2368,4787109.1005,244,Cushion,280 - 284 Celtic Dr
+588994.6757,4787020.0732,245,Cushion,19 Darlington Dr
+588877.9933,4787060.4404,246,Cushion,35 Darlington Dr
+593715.5903,4787341.7367,247,Cushion,174 - 173 East 31st St
+590161.1344,4800148.0795,248,Cushion,227 - 229 Fellowes Cres
+590673.4747,4789361.6395,249,Cushion,199 Herkimer St
+590452.3506,4789425.9687,250,Cushion,265 - 267 Herkimer St
+590688.9281,4791071.943,251,Cushion,10 - 13 Kinnell St
+590441.2385,4790856.9066,252,Cushion,153 - 154 Florence St
+590504.3736,4790833.4874,253,Cushion,132 - 133 Florence St
+590368.2611,4790629.8321,254,Cushion,48 - 45 Head St
+590422.7396,4790608.5184,255,Cushion,22 - 27 Head St
+590478.2968,4790950.3137,256,Cushion,39_41 Tom St
+590538.8747,4790928.4591,257,Cushion,19_21 - 18 Tom St
+594294.9691,4789071.7215,258,Cushion,84_88 - 85_87 Garfield Ave S
+594440.636,4789273.1168,259,Cushion,22_26 - 25_27 Fairholt Rd S
+594417.415,4789194.5173,260,Cushion,42_48 - 47_49 Fairholt Rd S
+594360.6894,4789011.6946,261,Cushion,107 - 108 Fairholt Rd S
+594523.2187,4789273.8117,262,Cushion,25_27 - 24_26 Barnesdale Ave S
+594954.6077,4788814.0167,263,Cushion,70 - 71 Connaught Ave S
+595010.9648,4789000.1832,264,Cushion,17 - 22 Connaught Ave S
+596503.2071,4781441.5292,265,Cushion,84 - 85 Hannon Cres
+596544.4425,4781391.9548,266,Cushion,117 - 121 Hannon Cres
+604561.7001,4785700.0407,267,Cushion,Beside of property 102 Juniper Dr
+604584.8137,4785779.5513,268,Cushion,193_197 Dewitt Rd
+604613.7464,4785880.7639,269,Cushion,207_209 Dewitt Rd
+604703.8493,4786195.022,270,Cushion,251_253 Dewitt Rd
+604746.8608,4786344.841,271,Cushion,273 - 274 Dewitt Rd
+604775.3586,4786442.1424,272,Cushion,285 - 288 Dewitt Rd
+588540.3034,4779530.1059,273,Cushion,2942 Homestead Dr
+588472.6207,4779366.6961,274,Cushion,2990 Homestead Dr
+588415.402,4779227.5456,275,Cushion,3026 Homestead Dr
+588335.8975,4779014.0458,276,Cushion,3091 Homestead Dr
+588277.7633,4778847.7636,277,Cushion,3136 Homestead Dr
+588210.0124,4778637.9894,278,Cushion,3229 Homestead Dr
+588168.2268,4778504.2495,279,Cushion,3266 Homestead Dr
+588114.6811,4778326.7063,280,Cushion,3314 Homestead Dr
+588002.115,4777999.4366,281,Cushion,3400_3414 Homestead Dr
+593924.7584,4789279.3017,282,Cushion,28 Fairleigh Ave
+593644.4981,4790401.6488,283,Cushion,45 William St
+595086.4046,4786060.9387,284,Cushion,27 Broker Drive
+595250.449,4786031.3221,285,Cushion,65 Broker Drive
+595446.9581,4785969.8174,286,Cushion,106 Broker Drive
+595533.2216,4785942.5657,287,Cushion,124 Broker Drive
+595725.7415,4785856.2601,288,Cushion,170 Broker Drive
+591193.9264,4789641.7057,289,Cushion,130 Bold Street - In front of #130/#132
+588450.6464,4790199.1537,290,Cushion,30 Cline Avenue South
+593866.9884,4784956.37,291,Cushion,63 Birchview Drive
+593956.0421,4784808.5669,292,Cushion,107 Birchview Drive
+594805.0897,4789088.8562,293,Cushion,37/38 Prospect Street South
+590014.4816,4787778.6352,294,Cushion,74-76/73-75 Delmar Drive
+594748.392,4788899.2436,295,Cushion,97/100 Prospect Street South
+589842.291,4787665.8743,296,Cushion,25/26 Delmar Drive
+594589.8733,4788963.8323,297,Cushion,97/98 Spadina Avenue
+594655.0467,4788713.7917,298,Cushion,162-159/167 Prospect Street South
+596001.8152,4789568.674,299,Cushion,29 Cluny Avenue
+593264.6813,4790094.2211,300,Cushion,36 Oak Avenue
+590647.7869,4787246.3315,301,Cushion,South Bend Road West (20.0m W of West 3rd Street)
+594039.709,4789469.0939,302,Cushion,26-24/25-23 Holton Avenue North
+589472.9283,4786914.8463,303,Cushion,129/130-126 Lynbrook Drive
+595080.7259,4789486.3023,304,Cushion,122 Balsam Avenue North
+590039.2889,4786304.5772,305,Cushion,139 Mountbatten Drive
+595043.4458,4789361.4397,306,Cushion,48 Balsam Avenue North
+590092.8452,4786470.3645,307,Cushion,99/102 Mountbatten Drive
+594673.796,4789755.9264,308,Cushion,97-99/100-98 Barnesdale Avenue North
+590148.7088,4786663.134,309,Cushion,50 Mountbatten Drive
+590825.2529,4786110.4375,310,Cushion,140/141 Ridge Street
+596037.1202,4789699.929,311,Cushion,35/36 Dalkeith Avenue
+590746.5494,4785835.7866,312,Cushion,201/202 Ridge Street
+595495.9643,4788873.5241,313,Cushion,85 Belmont Avenue
+589330.2178,4783786.9449,314,Cushion,104/103 Malton Drive
+595483.0102,4789368.3415,315,Cushion,203 Glendale Avenue North
+589196.7276,4783814.6462,316,Cushion,131 Malton Drive
+595523.0706,4789508.257,317,Cushion,237 Glendale Avenue North
+589503.6336,4783796.8129,318,Cushion,50 Christie Street
+593893.8948,4788677.1236,319,Cushion,109/112 Eastbourne Avenue
+589464.2129,4783667.1852,320,Cushion,63-65 Christie Street
+588968.0546,4790393.8734,321,Cushion,36-40/37-41 Marion Avenue South
+590267.6891,4783314.7454,322,Cushion,100/101-95 Springside Drive
+590313.0582,4784448.1736,323,Cushion,199/201 Dicenzo Dr
+590545.425,4784518.227,324,Cushion,99/95 Dicenzo Dr
+595801.6207,4790194.5658,325,Cushion,82/99 Gertrude Street
+595571.0952,4790265.6556,326,Cushion,20/25-27 Gertrude Street
+589919.86,4782645.0299,327,Cushion,248 - 249 Seneca Ave
+589966.1119,4782787.4044,328,Cushion,221 - 222 Seneca Ave
+590007.9641,4782918.6733,329,Cushion,191 - 192 Seneca Ave
+583333.6907,4787359.5472,330,Cushion,Old Dundas Road 35m north of Milcreek Court
+584856.7912,4790018.5635,331,Cushion,97 Old Ancaster Rd
+584788.8129,4789915.2939,332,Cushion,106 Old Ancaster Rd
+584740.3429,4789839.7162,333,Cushion,116 Old Anacster Rd
+584519.9648,4789602.155,334,Cushion,151 Old Ancaster Rd
+584416.1015,4789501.7998,335,Cushion,169 Old Ancaster Rd
+591152.6422,4790912.582,336,Cushion,38 - 38_39 Greig St
+590436.7024,4790728.8606,337,Cushion,29_31 - 36_38 Lamoreaux St
+590439.6689,4788973.8171,338,Cushion,135 - 134_138 Kent St
+588418.2774,4790588.5014,339,Cushion,86 - 89 Dromore Cres
+588481.07,4790656.4764,340,Cushion,117 - 118 Dromore Cres
+587828.3477,4789749.5274,341,Cushion,82 - 85_89 Bowman St
+587880.3589,4789911.8979,342,Cushion,32 Bowman St
+589564.5712,4791158.3752,343,Cushion,162 - 169 Paradise Rd N
+589520.7567,4791014.0118,344,Cushion,97 - 96_98 Paradise Rd N
+589316.9275,4791218.282,345,Cushion,165 - 166 Bond St N
+589260.803,4791032.9658,346,Cushion,109 - 112 Bond St N
+593293.5208,4788744.957,347,Cushion,12_14 - 9 Cumberland Ave
+593495.1388,4790430.5404,348,Cushion,31_33 - 34_36 St Matthews Ave
+593567.071,4790400.123,349,Cushion,29_31 - 34 Cheever St
+594755.7733,4788489.6051,350,Cushion,173_175 - 186 Balsam Ave S
+593083.5538,4790106.7421,351,Cushion,171_173 - 172 East Ave N
+595627.628,4789022.2497,352,Cushion,148_150 - 147_149 Kensington Ave N
+599739.5161,4786211.2885,353,Cushion,49 Owen Place
+600180.1719,4787782.9932,354,Cushion,226 Kenora Ave
+596416.0837,4781480.2023,355,Cushion,49_51 - 46_54 Hannon Dr
+599129.782,4782787.1561,356,Cushion,239 - 238 First Rd W
+589694.5113,4798200.8105,357,Cushion,56 Barton St
+588781.5807,4797600.776,358,Cushion,12 Riley St
+590791.2562,4800015.9793,359,Cushion,47_51 - 48_52 Forest Ridge Ave
+590748.2799,4790546.656,360,Cushion,219 Napier St
+590856.0916,4790499.337,361,Cushion,186 - 187 Napier St
+590966.7105,4790450.7187,362,Cushion,Napier St Approx. 34 m east of 158 Napier St
+590143.9581,4789847.1418,363,Cushion,88 - 89 Melbourne St
+590172.3166,4789935.8911,364,Cushion,20 Hill St
+588705.1911,4790333.3058,365,Cushion,18_20 - 21 Newton Ave
+588207.9442,4789700.7337,366,Cushion,184_188 - 189 Haddon Ave S
+588154.7114,4789658.9543,367,Cushion,218 - 223 Haddon Ave S
+586491.6923,4789223.5982,368,Cushion,110_114 Lower Horning Rd
+586519.3483,4789115.9882,369,Cushion,135 lower Horning Rd
+586538.4743,4789040.3162,370,Cushion,155 - 159 Lower Horning Rd
+591960.2973,4791303.4598,371,Cushion,374 Bay St N
+592291.8514,4791384.8701,372,Cushion,16 Picton St E
+596410.0801,4788800.4132,373,Cushion,22 - 25 Frederick Ave
+596390.87,4788734.8659,374,Cushion,6 - 7 Frederick Ave
+600064.759,4786432.4964,375,Cushion,13 - 14 Meadowvale Ave
+599253.1582,4785083.6938,376,Cushion,86 Summercrest Dr
+599236.3011,4784951.3647,377,Cushion,19 Summercrest Dr
+599614.1736,4787785.8426,378,Cushion,205 - 206_208 Nugent Dr
+592675.7941,4783610.2,379,Cushion,78_82 Dulgaren St
+595198.7937,4786131.8201,380,Cushion,31_33 - 34 Huntington Ave
+590830.332,4786371.2085,381,Cushion,28_32 Hester St
+591115.6892,4786282.9453,382,Cushion,Hester St Approx. 15 m west of Manning Ave
+591367.0645,4786199.0549,383,Cushion,140 - 143 Hester St
+596980.8028,4781237.4155,384,Cushion,80_84 Fletcher Rd
+596947.7808,4781121.9123,385,Cushion,110_112 Fletcher Rd
+603023.3942,4785656.9684,386,Cushion,25 - 26 Memorial Ave
+603071.4941,4785787.5437,387,Cushion,71 - 74 Memorial Ave
+603153.9353,4785819.5188,388,Cushion,137 - 142 Memorial Ave
+603328.8479,4785785.1398,389,Cushion,206 Memorial Ave
+602680.5379,4788689.0522,390,Cushion,608 Grays Rd
+602648.1958,4788575.7207,391,Cushion,580 Grays Rd
+607788.3136,4786931.1887,392,Cushion,42 Watercrest Dr
+607738.4061,4787136.9848,393,Cushion,142 Watercrest Dr
+590235.7405,4782527.665,394,Cushion,228 -229 Homebrook Dr
+586988.1539,4783944.3905,395,Cushion,8 Grassplain Dr
+587153.3009,4783887.6047,396,Cushion,30 - 31 Grassplain Dr
+587353.1501,4783834.1557,397,Cushion,62 Grassplain Dr
+581475.2229,4784930.6781,398,Cushion,160 - 157 Orchard Dr
+581405.872,4785208.6103,399,Cushion,81 - 82 Orchard Dr
+584705.6765,4786847.1125,400,Cushion,135_125 - 132_126 Algonquin Ave
+584653.8731,4786935.9545,401,Cushion,158 - 155 Algonquin Ave
+594433.1976,4785063.8857,402,Cushion,73 Larch Street
+594510.668,4785040.2092,403,Cushion,96 Larch Street
+594749.1283,4784973.1769,404,Cushion,231 Larch Street
+594990.594,4785408.6401,405,Cushion,19 Moxley Drive
+594978.4084,4785345.069,406,Cushion,29 Moxley Drive
+594940.8128,4785228.5968,407,Cushion,44 Moxley Drive
+594930.5746,4785181.5534,408,Cushion,49 Moxley Drive
+591363.341,4783830.4397,409,Cushion,Brigade Drive (in front of 189/185/184/190)
+593542.3906,4783169.1042,410,Cushion,40 Mount Pleasant Drive
+593588.8853,4783116.7484,411,Cushion,76 Mount Pleasant Drive
+593557.5099,4783020.7499,412,Cushion,109 Mount Pleasant Drive
+593537.3348,4782966.1724,413,Cushion,129 Mount Pleasant Drive
+593274.5661,4784522.6795,414,Cushion,99 Robson Crescent
+595019.6993,4785514.5683,415,Cushion,7 Moxley Drive
+594959.0298,4785583.633,416,Cushion,15 Beacon Avenue
+595102.1444,4785540.0392,417,Cushion,49 Beacon Avenue
+598466.8582,4781634.1299,418,Cushion,131 Gatestone Drive
+598439.4129,4781572.0336,419,Cushion,141 Gatestone Drive
+597101.5587,4781244.6616,420,Cushion,25 Bellagio Avenue
+597177.7868,4781220.1131,421,Cushion,57 Bellagio Avenue
+597293.7994,4781188.5299,422,Cushion,"Bellagio Avenue (between Boulder Cr & Celestial Cres 43.17723815668983, -79.80288217111067)"
+597368.1629,4781043.411,423,Cushion,27 Keystone Crescent
+597341.626,4780947.4333,424,Cushion,57 Keystone Crescent
+597045.9678,4781007.522,425,Cushion,32 Showcase Drive
+597216.287,4780959.9813,426,Cushion,85 Showcase Drive
+594864.7856,4785246.5281,427,Cushion,9 Rapallo Drive
+594848.9127,4785197.2349,428,Cushion,19 Rapallo Drive
+594648.343,4786567.8307,429,Cushion,127 East 45th Street
+594607.8508,4786440.4861,430,Cushion,160 East 45th Street
+594557.8624,4786275.2326,431,Cushion,193 East 45th Street
+594542.0503,4786221.6064,432,Cushion,209 East 45th Street
+594504.5372,4786099.074,433,Cushion,232 East 45th Street
+595503.1369,4786313.1962,434,Cushion,22 Organ Crescent
+595467.317,4786195.4593,435,Cushion,50 Organ Crescent
+595525.9485,4786116.3899,436,Cushion,73 Organ Crescent
+595672.5108,4786075.0314,437,Cushion,107 Organ Crescent
+592801.1725,4783073.724,438,Cushion,591 Eaglewood Drive
+592940.8907,4783026.1111,439,Cushion,545 Eaglewood Drive
+593030.2759,4783056.8722,440,Cushion,500 Eaglewood Drive
+589729.8396,4789473.7465,441,Cushion,262 Homewood Avenue
+589779.428,4789544.2724,442,Cushion,273 Stanley Avenue
+590076.5069,4789638.909,443,Cushion,398 Charlton Avenue West
+590242.2265,4789589.4682,444,Cushion,Charlton Avenue West (btwn 350 and 352)
+588970.0931,4789212.8009,445,Cushion,Beddoe Drive (btwn 41 and 42 Beddoe Dr)
+588718.9104,4790823.1992,446,Cushion,206 Dromore Crescent
+588773.6944,4790796.1469,447,Cushion,79 Marion Avenue North
+589069.8284,4790926.29,448,Cushion,38 Parkside Drive
+589036.7275,4790827.3631,449,Cushion,2 Glen Road
+590200.0514,4789709.1296,450,Cushion,55 Chatham Street
+590309.6938,4789676.3045,451,Cushion,25 Chatham Street
+591492.7965,4790909.0277,452,Cushion,213 Caroline Street North
+591469.1411,4790830.7162,453,Cushion,191 Caroline Street North
+591780.8954,4789293.7241,454,Cushion,45 Young Street
+591882.9424,4789260.0597,455,Cushion,78 Young Street
+591991.3328,4789224.421,456,Cushion,108 Young Street
+590900.5098,4789605.3253,457,Cushion,197 Duke Street
+592317.8218,4789226.5291,458,Cushion,45 Liberty Street
+593461.3193,4783287.2766,459,Cushion,865 Templemead Drive
+601470.8154,4785908.85,460,Cushion,15 Passmore Street
+601713.5468,4785836.3788,461,Cushion,"Passmore Street (beside #31 Cartwright, on Passmore)"
+596825.59,4781209.9565,462,Cushion,Pinehill Drive (btwn Silver Spring Cres & Silver Spring Cres)
+596614.4006,4781300.2431,463,Cushion,Pinehill Drive (btwn #113 & #117 Pinehill Drive)
+596295.4186,4781430.7099,464,Cushion,Pinehill Drive (btwn #212 & #216 Pinehill Dr)
+596183.3924,4781464.3129,465,Cushion,Pinehill Drive  (btwn #242 & 244 Pinehill Dr)
+596114.3809,4781484.0823,466,Cushion,Pinehill Drive (btwn #268 & #274 Pinehill Dr)
+595955.2485,4781532.2654,467,Cushion,Pinehill Drive (btwn #332 & #334 Pinehill Dr)
+593614.2815,4785739.4117,468,Cushion,31 Lawfield Drive
+593544.079,4785592.1094,469,Cushion,65 Lawfield Drive
+592887.925,4783532.2817,470,Cushion,41 Presidio Drive
+593041.3873,4783483.1249,471,Cushion,93 Presidio Drive
+592171.6864,4787582.2892,472,Cushion,270 East 13th Street
+591116.5863,4788152.1528,473,Cushion,25 Brantdale Avenue
+590918.4616,4788211.1338,474,Cushion,145 Brantdale Avenue
+590942.6146,4783703.8741,475,Cushion,39 Massena Dr
+590921.9473,4783643.9832,476,Cushion,59 Massena Dr
+590865.3564,4783844.1962,477,Cushion,19 Byng Street
+591738.9994,4783554.1127,478,Cushion,733 Acadia Drive
+592029.4572,4784176.8647,479,Cushion,432 Acadia Drive
+595653.4679,4786605.7132,480,Cushion,99 Princeton Drive (btwn Sherwood Rise & Margate Ave)
+595670.9679,4786678.0326,481,Cushion,"Princeton Drive (46m N of Margate, btwn 3 Margate Ave & 2 Valecrest Ave)"
+595700.7981,4786772.0161,482,Cushion,61 Princeton Drive
+595337.3295,4784167.108,483,Cushion,Upper Kenilworth Avenue (38m N of 966 Upper Kenilworth)
+595300.7141,4784042.8095,484,Cushion,990 Upper Kenilworth Avenue
+593419.4415,4785491.4432,485,Cushion,50 Berko Avenue
+593572.4843,4785485.7326,486,Cushion,182 Berko Avenue
+594331.9376,4785809.7491,487,Cushion,270 East 44th Street
+594368.3393,4785934.2241,488,Cushion,244 East 44th Street
+594473.2591,4786270.5916,489,Cushion,174 East 44th Street
+594526.5554,4786451.2759,490,Cushion,135 East 44th Street
+592007.4566,4788535.5827,491,Cushion,20 Highcliffe Avenue
+590115.848,4787633.4404,492,Cushion,"Columbia Drive (Beside 17 Tyne Place, btwn Laurier Ave & Tyne Pl)"
+590004.2183,4787283.4319,493,Cushion,148 Columbia Drive
+589851.7678,4787233.7189,494,Cushion,180 Columbia Drive
+589766.2602,4787357.8307,495,Cushion,214 Columbia Drive
+589859.3884,4787431.5587,496,Cushion,236 Columbia Drive
+590401.9224,4786372.6813,497,Cushion,305 Hawkridge Avenue
+590384.5965,4786315.7905,498,Cushion,320 Hawkridge Avenue
+590337.8515,4786152.892,499,Cushion,353 Hawkridge Avenue
+590296.1488,4786011.2573,500,Cushion,399 Hawkridge Avenue
+588953.2477,4785849.458,501,Cushion,485 Bridgadoon Dr
+588919.4912,4785731.7796,502,Cushion,519 Bridgadoon Dr (btwn Garrow Dr & Duncairn Court)
+588892.3014,4785645.0149,503,Cushion,541 Bridgadoon Dr (btwn Duncairn Court & Glenview Court)
+589164.1554,4785318.128,504,Cushion,722 Bridgadoon Dr
+589546.0739,4783716.2629,505,Cushion,58 Malton Dr
+589614.3427,4783695.8795,506,Cushion,44 Malton Dr
+589677.3877,4783674.9936,507,Cushion,28 Malton Dr
+589457.3443,4791392.3834,508,Cushion,Longwood Road North - Approx. 120m North of Franklin Avenue
+588600.3911,4788995.3389,509,Cushion,"Beddoe Drive (Between 120 Beddoe and Chedoke 43.248708, -79.906776)"
+588584.6016,4788936.9758,510,Cushion,"Beddoe Drive (Between 120 Beddoe and Chedoke 43.248097, -79.908769)"
+590595.3074,4790860.1943,511,Cushion,120 Strathcona Avenue North
+590890.779,4789736.5515,512,Cushion,206 Bold Street
+588865.1667,4785549.6904,513,Cushion,567/571 Brigadoon Drive
+591862.2329,4791304.9255,514,Cushion,Harbour Front Drive
+588988.3109,4785397.1504,515,Cushion,639/641 Bridgadoon Dr
+589231.1276,4785291.3407,516,Cushion,747 Bridgadoon Drive
+589747.6034,4783651.3673,517,Cushion,17 Malton Drive (btwn driveways of Corpus Christi Church)
+591963.6959,4788386.2546,518,Cushion,69 Highcliffe Avenue
+590134.9302,4787693.1111,519,Cushion,74/70 Columbia Drive
+590080.2466,4787521.4596,520,Cushion,104 Columbia Drive
+591124.1323,4786992.8877,521,Cushion,158 Terrace Drive
+591105.3674,4786931.5662,522,Cushion,176 Terrace Drive
+591087.2458,4786871.3696,523,Cushion,190 Terrace Drive
+593455.3067,4787690.9361,524,Cushion,128 East 26th Street
+593542.7327,4787970.7774,525,Cushion,40 East 26th Street
+593104.3223,4783313.2408,526,Cushion,413 Eaglewood Drive
+593068.9214,4783192.4325,527,Cushion,453 Eaglewood Drive
+598048.5073,4783529.308,528,Cushion,21 Mistywood Drive
+597003.0448,4781313.2303,529,Cushion,56 Fletcher Road
+596893.8655,4780940.0291,530,Cushion,160 Fletcher Road
+593638.9981,4785338.0265,531,Cushion,33 Edwina Place
+591583.9937,4782990.6387,532,Cushion,48 Jessica Street
+591607.2242,4784604.0949,533,Cushion,413 Crerar Drive
+588656.0812,4785871.6503,534,Cushion,59/55 Garrow Dr
+588387.7482,4786303.2567,535,Cushion,83/85 Cranbrook Dr
+588493.9156,4786269.2997,536,Cushion,109/111 Cranbrook Dr
+588468.8315,4785720.4395,537,Cushion,265 Cranbrook Drive
+588193.853,4785385.4442,538,Cushion,71 Courtland Avenue
+588170.9102,4785309.8648,539,Cushion,10.0m South of 91 Courtland Avenue
+587367.0929,4787174.807,540,Cushion,162 Magnolia Drive
+587431.5186,4786908.2143,541,Cushion,Magnolia Dr - 25m south of Lionsgate Ave
+587124.9176,4786118.8416,542,Cushion,692/684 Upper Horning Rd
+587039.8021,4786492.5391,543,Cushion,575 Upper Horning Road
+589500.5414,4787623.6074,544,Cushion,230/236 Bendamere Avenue
+589752.5781,4787540.1143,545,Cushion,196 Bendamere Avenue
+589927.161,4787482.9519,546,Cushion,150/148 Bendamere Avenue
+591947.1951,4788626.5961,547,Cushion,180 Concession Street
+591828.1636,4788570.73,548,Cushion,42 Belvidere Avenue
+591014.9847,4788004.9591,549,Cushion,199 West 2nd
+591084.0545,4788246.7926,550,Cushion,132 West 2nd
+593359.5412,4790100.6533,551,Cushion,47/49 Smith Avenue
+595438.5456,4788675.3893,552,Cushion,23 Belmont Avenue
+592878.8299,4790190.5076,553,Cushion,184/186 West Avenue North
+592933.8654,4790368.8684,554,Cushion,prop line of 240/242 West Ave N
+592758.3027,4789793.5346,555,Cushion,63/65 West Avenue North
+592808.0503,4789955.3601,556,Cushion,113 West Avenue North
+594782.6704,4789526.8146,557,Cushion,85 Lottridge Street
+594732.6296,4789359.8809,558,Cushion,16 Lottridge Street
+594840.2008,4789715.7056,559,Cushion,138/140 Lottridge Street
+594903.4681,4789932.2547,560,Cushion,202 Lottridge Street
+595702.1142,4788982.7608,561,Cushion,146 Rosslyn Avenue North
+595755.619,4789167.8256,562,Cushion,195/189 Rosslyn Avenue North
+595818.4749,4789382.2883,563,Cushion,254-255 Rosslyn Avenue North
+593178.0261,4790082.6161,564,Cushion,172/171 Emerald Street North
+593236.7843,4790274.2177,565,Cushion,238-240/237 Emerald Street North
+595674.2309,4788568.7179,566,Cushion,60/61 Balmoral Avenue North
+595904.1461,4789370.0609,567,Cushion,282/281 Balmoral Avenue North
+595834.5822,4789131.6283,568,Cushion,212/213 Balmoral Avenue North
+595555.0266,4788145.622,569,Cushion,98-102/99-101 Balmoral Avenue South
+595324.281,4788824.3715,570,Cushion,16 Glendale Avenue North
+595397.8214,4789077.2309,571,Cushion,80/81 Glendale Avenue North
+594013.683,4789283.5417,572,Cushion,30/29 Holton Avenue South
+593979.8827,4789177.2672,573,Cushion,64-68/67 Holton Avenue South
+590187.7719,4789294.5054,574,Cushion,138 Homewood Avenue
+590013.3399,4789346.3095,575,Cushion,189 Homewood Avenue
+597167.5884,4788138.2699,576,Cushion,34 Weir Street North
+593440.9047,4788999.4401,577,Cushion,43 Myrtle Avenue
+588924.2633,4785431.8631,578,Cushion,615/617 Bridagdoon Drive
+590093.6048,4787566.9706,579,Cushion,"North Side of Tyne Pl (south leg, on Columbia Dr)"
+588415.6759,4789969.4938,580,Cushion,106 Cline Avenue South
+593538.1113,4783479.6969,581,Cushion,111 Templemead Drive
+593720.7505,4783454.2479,582,Cushion,185 Templemead Drive
+593627.3261,4784061.5228,583,Cushion,555 Queen Victoria Drive
+593707.533,4784318.608,584,Cushion,112 Queen Victoria Drive
+593977.5579,4784371.4279,585,Cushion,222 Queen Victoria Drive
+594112.5861,4784081.4418,586,Cushion,319 Queen Victoria Drive
+593831.7806,4784415.4552,587,Cushion,188 Queen Victoria Drive
+593975.4787,4783853.8385,588,Cushion,416 Queen Victoria Drive
+594124.7396,4784254.7414,589,Cushion,269 Queen Victoria Drive
+594090.5495,4784008.0864,590,Cushion,347 Queen Victoria Drive
+593660.0439,4784168.219,591,Cushion,595 Queen Victoria Drive
+593349.0321,4783374.0926,592,Cushion,78 Royalvista Drive
+593422.9193,4783353.0104,593,Cushion,102 Royalvista Drive
+593798.2582,4784083.0505,594,Cushion,140 Quaker Crescent
+593907.5938,4784096.1421,595,Cushion,106 Quaker Crescent
+593929.0393,4784166.0757,596,Cushion,88 Quaker Crescent
+593809.2258,4784249.2833,597,Cushion,34 Quaker Crescent
+593905.4241,4784219.268,598,Cushion,63 Quaker Crescent
+593703.5062,4784111.0492,599,Cushion,172 Quaker Crescent
+593864.7041,4782776.0682,600,Cushion,37 Everest Street
+588553.0265,4786008.6976,601,Cushion,187 Cranbrook Drive
+588508.7728,4785863.4518,602,Cushion,229 Cranbrook Drive
+591146.9142,4789528.0586,603,Cushion,120 Duke Street
+592349.4142,4789323.1436,604,Cushion,11 Liberty Street
+592263.879,4789286.6002,605,Cushion,117 Ferguson Avenue South
+592389.2927,4789266.5771,606,Cushion,15 Grove Street
+591861.0563,4790606.3236,607,Cushion,177 MacNab Street North
+591886.6895,4790688.3904,608,Cushion,206 MacNab Street South
+592575.3848,4789201.22,609,Cushion,84 West Avenue South
+592631.1244,4791897.3864,610,Cushion,593 John Street North
+592571.0786,4791700.6524,611,Cushion,535 John Street North
+586968.4499,4789288.8364,612,Cushion,142 Rifle Range Road
+586908.5806,4789538.3644,613,Cushion,86 Rifle Range Road
+589283.5053,4790833.4008,614,Cushion,45 Longwood Road North
+589338.0716,4791009.0472,615,Cushion,90 Longwood Road North
+589486.2801,4791494.6974,616,Cushion,Longwood Road North - 120m north of Franklin Avenue
+587311.8371,4789794.0805,617,Cushion,29 Glenmount Avenue
+587209.2227,4789823.6619,618,Cushion,64 Glenmount Avenue
+595978.8386,4787444.5484,619,Cushion,276 Graham Avenue South
+588358.7245,4789828.153,620,Cushion,158 Cline Avenue South
+595633.4778,4786496.3769,621,Cushion,118 Princeton Drive
+595778.0898,4786870.9335,622,Cushion,15 Oakcrest Drive
+595797.8673,4786951.5315,623,Cushion,3 Oakcrest Drive
+591852.9732,4784657.1988,624,Cushion,20.0 metres South of 320 Crerar Drive
+584243.1318,4790893.7468,625,Cushion,35 Market Street South (Behind Arena)
+584291.7876,4790876.4539,626,Cushion,35 Market Street South (Behind Arena)
+599238.2236,4788641.4072,627,Cushion,276 Vansitmart Ave
+589599.3502,4798577.7405,628,Cushion,65/62 Main Street North
+589508.611,4798663.9775,629,Cushion,103/104 Main Street North
+589239.5343,4798820.1696,630,Cushion,207 Main Street North
+589103.4883,4798896.1686,631,Cushion,258 Main Street North
+590609.4396,4800008.8689,632,Cushion,143 Spring Creek Drive
+590372.9714,4800220.5102,633,Cushion,255/254 Spring Creek Drive
+590044.3479,4798995.1579,634,Cushion,15-13/10 First Street
+589859.7508,4799464.3401,635,Cushion,23-27 Laurendale Avenue (Hydro Corridor)
+589923.8551,4799733.1647,636,Cushion,61/62 Laurendale Avenue
+588901.3821,4798437.2271,637,Cushion,124/126 Rockhaven Lane
+588650.1786,4798226.9772,638,Cushion,41/40-42 Rockhaven Lane
+581575.4336,4783629.5086,639,Cushion,North of 39 Panabaker Drive
+581580.2289,4783756.6059,640,Cushion,100 Panabaker Drive
+590844.1532,4799036.2952,641,Cushion,124-128/123-125 Skinner Road
+592855.1529,4786059.387,642,Cushion,18-14/13 Bishopsgate Avenue
+592828.9946,4785972.6226,643,Cushion,37-38 Bishopsgate Avenue
+595912.8308,4785809.0092,644,Cushion,211 Broker Drive
+603387.0588,4785636.9361,645,Cushion,60-62 Kilbourn Ave
+596027.8103,4785798.4455,646,Cushion,231 Broker Drive
+592338.4066,4791598.0132,647,Cushion,9 Wood Street East
+592782.4202,4791719.1586,648,Cushion,583 Mary Street
+611152.219,4785856.6851,649,Cushion,1400-1440 Baseline Rd
+591267.8967,4789381.4414,650,Cushion,80 Robinson Street
+611250.8582,4785828.0089,651,Cushion,1456-1458 Baseline Rd
+611398.0848,4785786.5594,652,Cushion,1489-1490 Baseline Rd
+587038.6437,4789477.1876,653,Cushion,200 Whitney Avenue
+585636.5598,4785639.5693,654,Cushion,Meadowlands Blvd - 20m south of Olivia Pl
+585567.3897,4785820.6297,655,Cushion,161 Meadowlands Blvd - between the school and park
+594417.9364,4786095.9165,656,Cushion,211 East 44th Street
+581751.2049,4783852.0969,657,Cushion,251/255 Braithwaite Avenue
+586464.4922,4785020.3987,658,Cushion,252 Raymond Road
+593165.5604,4783429.8702,659,Cushion,15/16-20 Royalvista Drive
+591094.1558,4788287.8393,660,Cushion,122 West 2nd Street
+582717.3662,4786498.9981,661,Cushion,100 Sulphur Springs Road
+589886.8288,4789597.6822,662,Cushion,407-409/406-404 Herkimer Street
+582510.7657,4786526.4111,663,Cushion,15m west of 140 Sulphur Springs Road
+589774.7705,4789633.0961,664,Cushion,442-440/437 Herkimer Street
+582400.4043,4786555.0275,665,Cushion,10m west of 162 Sulphur Springs Road
+582288.3656,4786587.3155,666,Cushion,216-217 Sulphur Springs Road
+583483.1759,4786649.1916,667,Cushion,81-80 Academy Street
+590866.6684,4789980.1122,668,Cushion,249/252 Jackson Street West
+583541.8578,4786735.6012,669,Cushion,103/109 Academy Street
+590563.7719,4788956.5048,670,Cushion,18/15 Spruceside Avenue
+583282.7356,4786629.6538,671,Cushion,25-24 Academy Street
+590211.9512,4789828.4778,672,Cushion,65-63/68-70 Melbourne Street
+583327.8459,4786519.2657,673,Cushion,365-362 Lodor Street
+589741.8621,4787181.8902,674,Cushion,69 Sanatorium Road
+583284.6063,4786414.6085,675,Cushion,337/327 - 330 Lodor Street
+589398.6976,4787294.1966,676,Cushion,143 Sanatorium Road
+583395.2164,4786746.635,677,Cushion,426-427 Lodor Street
+589616.6923,4783846.8994,678,Cushion,58/54 Kennedy Avenue
+583184.945,4786394.5583,679,Cushion,24/18 Church Street
+589733.8751,4783808.8587,680,Cushion,30-33/29 Kennedy Avenue
+591668.5791,4785807.641,681,Cushion,56 Hummingbird Lane
+591693.4694,4785896.6649,682,Cushion,28 Hummingbird Lane
+591381.5526,4787549.1095,683,Cushion,36-33 Clarendon Avenue
+591312.7503,4787323.822,684,Cushion,88-87 Clarendon Avenue
+598922.7881,4782066.0678,685,Cushion,135 -142 First Road West
+591252.9478,4787129.0393,686,Cushion,128-127 Clarendon Avenue
+599002.0147,4782344.4376,687,Cushion,177 - 180 First Road West
+590697.4652,4786736.8277,688,Cushion,30 Caledon Avenue
+599129.4791,4782787.9877,689,Cushion,239 - 238 First Road West
+590581.6341,4786501.7917,690,Cushion,105 Caledon Avenue
+598862.7385,4782509.8437,691,Cushion,27 Isaac Brock Drive
+590534.3761,4786346.7808,692,Cushion,302 Caledon Avenue
+598627.3522,4782578.0184,693,Cushion,63/65 Isaac Brock Drive
+593656.4117,4783560.4917,694,Cushion,15-16 Arno Street
+593369.4718,4785182.4713,695,Cushion,87 Folkestone Ave
+593264.3884,4785248.5998,696,Cushion,141/145 Folkestone Ave
+596019.0636,4789634.0135,697,Cushion,31/30 Craigmiller Avenue
+594599.9144,4789259.6892,698,Cushion,23/22 Carrick Avenue
+594515.8273,4788984.167,699,Cushion,103/104 Carrick Avenue
+593300.4975,4785355.5881,700,Cushion,179 Folkestone Ave
+594817.4381,4788874.9905,701,Cushion,87/90 Leinster Avenue South
+591714.6151,4787846.7761,702,Cushion,164 Brucedale Avenue East
+591751.2318,4787721.8758,703,Cushion,279/278 East 8th Street
+591813.284,4787925.1655,704,Cushion,216/215 East 8th Street
+587300.9388,4788655.7419,705,Permanent,1037 Scenic Dr
+587886.3214,4788490.5102,706,Permanent,881 Scenic Dr
+588325.9572,4788488.1563,707,Permanent,739 Scenic Dr
+588477.9759,4788627.1259,708,Permanent,631 Scenic Dr
+584261.9267,4786608.4135,709,Cushion,581_583 - 580_584 Tuscarora Dr
+584480.0817,4786897.9981,710,Cushion,651_657 - 654 Hiawatha Blvd
+584679.4002,4786711.9996,711,Cushion,107 - 108 Seneca Dr
+584339.0644,4786871.7057,712,Cushion,165_157 - 162 Cayuga Ave
+584403.6482,4786764.5579,713,Cushion,135_127 Cayuga Ave
+584501.0228,4786436.9941,714,Cushion,78_76 - 79 Oneida Blvd
+584635.7154,4786483.5474,715,Cushion,90_96 - 93_95 Oneida Blvd
+584806.1983,4786741.3135,716,Cushion,118_116 - 117_119 Oneida Blvd
+598460.4385,4785657.7868,717,Cushion,55 Albright Rd
+585280.1738,4791458.728,718,Cushion,51 Helen St and Dundas Driving Park Rd
+588815.3147,4787846.7968,719,Cushion,Bendamere Ave (beside 120 West 26th St)
+588872.54,4787827.8936,720,Cushion,Bendamere Ave (beside 483 West 26th St)
+588772.5047,4787942.5207,721,Cushion,106 West 27th St
+588791.2408,4788002.762,722,Cushion,92 West 27th St
+587152.4896,4788220.4239,723,Cushion,22 San Antonio Dr
+587262.961,4788216.8513,724,Cushion,48_52 Karen Cres
+588427.2756,4785863.6298,725,Cushion,Gemini Dr Approx. 15 m west of Gardiner Ave
+588264.1131,4785920.1254,726,Cushion,Gemini Dr Approx. 15 m east of Gillard st
+588167.9601,4785901.5656,727,Cushion,107 - 108 Gemini Dr
+589479.3512,4797828.4866,728,Cushion,15 -16 Howard Blvd
+590455.2989,4789327.3786,729,Cushion,72 Stanley Ave
+590614.6803,4789280.3386,730,Cushion,25 Stanley Ave
+593304.3839,4790224.3512,731,Cushion,81 Oak Ave
+599639.5049,4785203.0469,732,Cushion,268 Nashville Cir
+589881.3044,4799542.0857,733,Cushion,34 Laurendale Ave
+589870.1672,4799486.8082,734,Cushion,27 Laurendale Avenue
+601188.4563,4786332.6801,735,Cushion,78 – 77_79 Mountain Ave N
+598784.6568,4786764.649,736,Cushion,26 Robroy Ave
+599963.0024,4786701.9499,737,Cushion,70 - 69 Greenford Dr
+586084.5626,4786535.7907,738,Cushion,1085 Harrogate Drive
+586201.9124,4786519.9209,739,Cushion,1111 Harrogate Drive
+585934.9741,4786388.0424,740,Cushion,71 Cloverleaf Drive
+586090.0778,4786107.8732,741,Cushion,Cloerleaf Dr (beside 76 Playfair Crt)
+590878.6581,4790954.8169,742,Cushion,34-35 Crooks Street
+590904.1522,4791043.884,743,Cushion,64-65 Crooks Street
+591005.5692,4790848.6276,744,Cushion,155-156 Ray Street North
+591033.3358,4790946.6427,745,Cushion,187-188 Ray Street North
+588256.5916,4790388.5571,746,Cushion,34- 35_39 Dalewood Crescent
+588334.3699,4790121.8372,747,Cushion,57 Haddon Avenue S
+586832.1156,4789296.8978,748,Cushion,133-138 Ewen Road
+586853.0196,4789209.5982,749,Cushion,147-158 Ewen Road
+587985.0171,4789721.1719,750,Cushion,97-98 Stroud Road
+588047.3482,4789915.6355,751,Cushion,28 Stroud Road
+589797.7332,4799264.4896,752,Cushion,3 - 4 Laurendale Ave
+591029.3289,4789111.7465,753,Cushion,124/126 Markland St
+591261.1358,4789098.9386,754,Cushion,280 Park Street
+596431.669,4781385.93,755,Cushion,Pinehill Drive (btwn #168 & #172 Pinehill Dr)
+598224.5318,4783475.3791,756,Cushion,53 Mistywood Drive
+591039.0051,4799253.8643,757,Cushion,30 meters west of 215 Skinner Road
+590471.6637,4786130.7108,758,Cushion,350/356-349 Caledon Avenue
+595062.4104,4789175.0605,759,Cushion,22/27 Connaught Avenue North
