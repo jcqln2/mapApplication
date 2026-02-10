@@ -1,0 +1,6833 @@
+[
+  {
+    "id": "1",
+    "type": "Cushion",
+    "location": "Melrose Ave - between Cannon St and Beechwood Ave",
+    "x": 594843.7898,
+    "y": 4789475.7186,
+    "lat": 43.25212119616175,
+    "lng": -79.83160831361849
+  },
+  {
+    "id": "2",
+    "type": "Permanent",
+    "location": "5 Harrisford St - between Albright Rd and Greenhill Ave",
+    "x": 597765.7716,
+    "y": 4785765.0187,
+    "lat": 43.218341491284164,
+    "lng": -79.79627756217596
+  },
+  {
+    "id": "3",
+    "type": "Cushion",
+    "location": "159 Park St - between Mulberry St and Sheaffe St",
+    "x": 591729.4637,
+    "y": 4790614.475,
+    "lat": 43.26275873465501,
+    "lng": -79.86977699004709
+  },
+  {
+    "id": "4",
+    "type": "Cushion",
+    "location": "189 Catharine St - between Cannon St and Robert St",
+    "x": 592298.7114,
+    "y": 4790416.4568,
+    "lat": 43.26090648823967,
+    "lng": -79.86279767528193
+  },
+  {
+    "id": "5",
+    "type": "Cushion",
+    "location": "196 Cline Ave - between King St and Marion Ave",
+    "x": 588934.872,
+    "y": 4790690.2389,
+    "lat": 43.26377584005502,
+    "lng": -79.9041913837091
+  },
+  {
+    "id": "6",
+    "type": "Cushion",
+    "location": "83 Ofield Rd - between Main St and Ramsey Cres",
+    "x": 586325.7418,
+    "y": 4789691.1698,
+    "lat": 43.25508452056258,
+    "lng": -79.93649077494823
+  },
+  {
+    "id": "7",
+    "type": "Cushion",
+    "location": "44 Ofield Rd - between Ramsey Cres and Ewen Rd",
+    "x": 586538.659,
+    "y": 4789706.9424,
+    "lat": 43.255202108318336,
+    "lng": -79.93386566141737
+  },
+  {
+    "id": "8",
+    "type": "Cushion",
+    "location": "84 Homewood Ave - between Locke St and Kent St",
+    "x": 590389.1039,
+    "y": 4789241.6416,
+    "lat": 43.2505611095481,
+    "lng": -79.88651408816419
+  },
+  {
+    "id": "9",
+    "type": "Permanent",
+    "location": "Second Rd West - between Gatestone and Hillcroft",
+    "x": 597969.127,
+    "y": 4781595.8504,
+    "lat": 43.18078102756344,
+    "lng": -79.79451359293382
+  },
+  {
+    "id": "10",
+    "type": "Cushion",
+    "location": "Queen Victoria Dr - between Ridley and Quinn",
+    "x": 593715.1391,
+    "y": 4783911.2758,
+    "lat": 43.202166219464516,
+    "lng": -79.8464546774503
+  },
+  {
+    "id": "11",
+    "type": "Cushion",
+    "location": "Queen Victoria Dr - between Ridley and Quinn",
+    "x": 593766.7859,
+    "y": 4783902.4705,
+    "lat": 43.20208053466801,
+    "lng": -79.8458205748362
+  },
+  {
+    "id": "12",
+    "type": "Cushion",
+    "location": "Forest Ave at Aurora St",
+    "x": 592288.6014,
+    "y": 4789011.0726,
+    "lat": 43.248255175736105,
+    "lng": -79.86315762911764
+  },
+  {
+    "id": "13",
+    "type": "Cushion",
+    "location": "Ferguson Ave S - between Charlton and Forest",
+    "x": 592163.0687,
+    "y": 4788997.854,
+    "lat": 43.24815152544122,
+    "lng": -79.86470589612608
+  },
+  {
+    "id": "14",
+    "type": "Cushion",
+    "location": "Ferguson Ave S - between Forest and Young",
+    "x": 592195.5808,
+    "y": 4789103.3489,
+    "lat": 43.24909731315267,
+    "lng": -79.86428783077496
+  },
+  {
+    "id": "15",
+    "type": "Cushion",
+    "location": "87/88 Colbourne St - between Bay and Park",
+    "x": 591716.4818,
+    "y": 4790809.437,
+    "lat": 43.26451554197776,
+    "lng": -79.86990444252255
+  },
+  {
+    "id": "16",
+    "type": "Cushion",
+    "location": "103 Mary St - between Winson and Kelly",
+    "x": 592303.5877,
+    "y": 4790109.8651,
+    "lat": 43.25814567547702,
+    "lng": -79.86278898458886
+  },
+  {
+    "id": "17",
+    "type": "Cushion",
+    "location": "72 Magill Street",
+    "x": 590971.1675,
+    "y": 4791011.7557,
+    "lat": 43.26642735605166,
+    "lng": -79.87905276513949
+  },
+  {
+    "id": "18",
+    "type": "Cushion",
+    "location": "128 Springside Drive",
+    "x": 590218.5111,
+    "y": 4783157.7776,
+    "lat": 43.19580825871303,
+    "lng": -79.88960984088537
+  },
+  {
+    "id": "19",
+    "type": "Cushion",
+    "location": "37 Springside Drive",
+    "x": 590333.5229,
+    "y": 4783578.8182,
+    "lat": 43.19958517445899,
+    "lng": -79.88812572838161
+  },
+  {
+    "id": "20",
+    "type": "Cushion",
+    "location": "380 Acadia Drive - Ridgemount to Butler",
+    "x": 592178.1109,
+    "y": 4784128.3889,
+    "lat": 43.204310072627074,
+    "lng": -79.86533415406849
+  },
+  {
+    "id": "21",
+    "type": "Cushion",
+    "location": "316 Acadia Drive - Butler to Annapolis",
+    "x": 592326.6021,
+    "y": 4784078.3941,
+    "lat": 43.203841828066224,
+    "lng": -79.86351501120026
+  },
+  {
+    "id": "22",
+    "type": "Cushion",
+    "location": "115 Eleanor Drive - Dulgaren to Brenda",
+    "x": 592751.865,
+    "y": 4783549.4562,
+    "lat": 43.19902769338421,
+    "lng": -79.85837010087774
+  },
+  {
+    "id": "23",
+    "type": "Cushion",
+    "location": "191 Eleanor Drive - Brenda to Eaglewood",
+    "x": 592667.5411,
+    "y": 4783264.8184,
+    "lat": 43.19647545322986,
+    "lng": -79.85945552977702
+  },
+  {
+    "id": "24",
+    "type": "Cushion",
+    "location": "Young St - 50 metres west of West Ave S - West to Victoria",
+    "x": 592445.4545,
+    "y": 4789059.3056,
+    "lat": 43.24867019696294,
+    "lng": -79.86121774269954
+  },
+  {
+    "id": "25",
+    "type": "Cushion",
+    "location": "35 Annapolis Way - Acadia to Beaverton",
+    "x": 592495.2562,
+    "y": 4784011.4213,
+    "lat": 43.2032182326058,
+    "lng": -79.86145059629577
+  },
+  {
+    "id": "26",
+    "type": "Cushion",
+    "location": "59 Annapolis Way - Acadia to Beaverton",
+    "x": 592508.509,
+    "y": 4783983.8839,
+    "lat": 43.20296869026082,
+    "lng": -79.8612921070873
+  },
+  {
+    "id": "27",
+    "type": "Cushion",
+    "location": "202 Springside Drive",
+    "x": 590123.9681,
+    "y": 4782861.9706,
+    "lat": 43.193156367613966,
+    "lng": -79.89082148135051
+  },
+  {
+    "id": "28",
+    "type": "Permanent",
+    "location": "324 Winona Road",
+    "x": 609734.3152,
+    "y": 4785270.923,
+    "lat": 43.212248313643265,
+    "lng": -79.6490533350598
+  },
+  {
+    "id": "29",
+    "type": "Permanent",
+    "location": "341 Winona Road",
+    "x": 609775.6682,
+    "y": 4785422.6363,
+    "lat": 43.213608061615226,
+    "lng": -79.64851421100795
+  },
+  {
+    "id": "30",
+    "type": "Permanent",
+    "location": "Winona Road - 50m north of Baseline Road",
+    "x": 610015.6952,
+    "y": 4786291.7242,
+    "lat": 43.22139684373756,
+    "lng": -79.64538675706287
+  },
+  {
+    "id": "31",
+    "type": "Cushion",
+    "location": "Palmer Road - 25m north of Muir Avenue",
+    "x": 594098.2162,
+    "y": 4785456.8613,
+    "lat": 43.21603335927885,
+    "lng": -79.84147694153597
+  },
+  {
+    "id": "32",
+    "type": "Cushion",
+    "location": "278 Wexford Avenue South",
+    "x": 596127.5121,
+    "y": 4787374.9939,
+    "lat": 43.23304622870974,
+    "lng": -79.81616357786604
+  },
+  {
+    "id": "33",
+    "type": "Cushion",
+    "location": "235 Springside Drive",
+    "x": 590061.8754,
+    "y": 4782665.0062,
+    "lat": 43.191390483328775,
+    "lng": -79.89161762630805
+  },
+  {
+    "id": "34",
+    "type": "Cushion",
+    "location": "10 Longyear Drive",
+    "x": 588163.6775,
+    "y": 4797798.9765,
+    "lat": 43.32786643047146,
+    "lng": -79.91255198360783
+  },
+  {
+    "id": "35",
+    "type": "Cushion",
+    "location": "Queensdale Avenue East - 20m west of Bruce Park Drive",
+    "x": 591722.3014,
+    "y": 4788091.4871,
+    "lat": 43.240045299787155,
+    "lng": -79.87028518216667
+  },
+  {
+    "id": "36",
+    "type": "Cushion",
+    "location": "112 Queensdale Avenue East",
+    "x": 591588.8848,
+    "y": 4788132.3695,
+    "lat": 43.24042957718574,
+    "lng": -79.87192132874061
+  },
+  {
+    "id": "37",
+    "type": "Cushion",
+    "location": "72 Queensdale Avenue East",
+    "x": 591491.9331,
+    "y": 4788163.943,
+    "lat": 43.24072560062295,
+    "lng": -79.87310999387996
+  },
+  {
+    "id": "38",
+    "type": "Cushion",
+    "location": "35 Magill Street",
+    "x": 590940.3742,
+    "y": 4790909.2347,
+    "lat": 43.265508082384166,
+    "lng": -79.87944906131828
+  },
+  {
+    "id": "39",
+    "type": "Cushion",
+    "location": "189 Acadia Drive",
+    "x": 592330.1244,
+    "y": 4783813.1602,
+    "lat": 43.20145349771881,
+    "lng": -79.86351599288835
+  },
+  {
+    "id": "40",
+    "type": "Cushion",
+    "location": "579 Acadia Drive",
+    "x": 591859.8223,
+    "y": 4783947.8973,
+    "lat": 43.20272389265805,
+    "lng": -79.86928139094101
+  },
+  {
+    "id": "41",
+    "type": "Cushion",
+    "location": "333 Brigade Drive",
+    "x": 591054.4715,
+    "y": 4783983.3078,
+    "lat": 43.203140234322376,
+    "lng": -79.87918689023816
+  },
+  {
+    "id": "42",
+    "type": "Cushion",
+    "location": "263 Brigade Drive",
+    "x": 591150.2438,
+    "y": 4783823.9884,
+    "lat": 43.20169432066864,
+    "lng": -79.87803451344146
+  },
+  {
+    "id": "43",
+    "type": "Cushion",
+    "location": "117 Brigade Drive",
+    "x": 591391.0357,
+    "y": 4784063.7357,
+    "lat": 43.203823670421315,
+    "lng": -79.87503150918437
+  },
+  {
+    "id": "44",
+    "type": "Cushion",
+    "location": "69 Brigade Drive",
+    "x": 591357.2623,
+    "y": 4784207.1612,
+    "lat": 43.20511902136665,
+    "lng": -79.87542343928622
+  },
+  {
+    "id": "45",
+    "type": "Cushion",
+    "location": "27 Brigade Drive",
+    "x": 591350.6123,
+    "y": 4784357.2876,
+    "lat": 43.20647141811978,
+    "lng": -79.87548045334132
+  },
+  {
+    "id": "46",
+    "type": "Cushion",
+    "location": "182 Delancey Boulevard",
+    "x": 591513.59,
+    "y": 4784319.1946,
+    "lat": 43.206108730009376,
+    "lng": -79.87348090095448
+  },
+  {
+    "id": "47",
+    "type": "Cushion",
+    "location": "323 Delancey Boulevard",
+    "x": 591598.8806,
+    "y": 4784020.4732,
+    "lat": 43.20340899290193,
+    "lng": -79.87248072294263
+  },
+  {
+    "id": "48",
+    "type": "Cushion",
+    "location": "363 Delancey Boulevard",
+    "x": 591534.8624,
+    "y": 4783991.0483,
+    "lat": 43.20315184277155,
+    "lng": -79.87327346939198
+  },
+  {
+    "id": "49",
+    "type": "Cushion",
+    "location": "6 Anson Avenue",
+    "x": 594730.3543,
+    "y": 4785175.7771,
+    "lat": 43.213423718939126,
+    "lng": -79.8337439590399
+  },
+  {
+    "id": "50",
+    "type": "Cushion",
+    "location": "18 Anson Avenue",
+    "x": 594800.8239,
+    "y": 4785154.0694,
+    "lat": 43.21321944023828,
+    "lng": -79.83288028871085
+  },
+  {
+    "id": "51",
+    "type": "Cushion",
+    "location": "45 Anson Avenue",
+    "x": 594948.5419,
+    "y": 4785109.086,
+    "lat": 43.21279589432723,
+    "lng": -79.83106979724273
+  },
+  {
+    "id": "52",
+    "type": "Cushion",
+    "location": "57 Anson Avenue",
+    "x": 595031.8675,
+    "y": 4785082.3488,
+    "lat": 43.212544697327324,
+    "lng": -79.83004877088248
+  },
+  {
+    "id": "53",
+    "type": "Cushion",
+    "location": "65 Anson Avenue",
+    "x": 595098.6545,
+    "y": 4785061.8228,
+    "lat": 43.21235149360934,
+    "lng": -79.82923024990464
+  },
+  {
+    "id": "54",
+    "type": "Cushion",
+    "location": "75 Anson Avenue",
+    "x": 595189.8915,
+    "y": 4785033.0266,
+    "lat": 43.21208074587112,
+    "lng": -79.82811221607463
+  },
+  {
+    "id": "55",
+    "type": "Cushion",
+    "location": "139 Kingslea Drive",
+    "x": 595207.6998,
+    "y": 4785622.3118,
+    "lat": 43.217383754327045,
+    "lng": -79.8277913979554
+  },
+  {
+    "id": "56",
+    "type": "Cushion",
+    "location": "121 Kingslea Drive",
+    "x": 595239.5802,
+    "y": 4785725.9686,
+    "lat": 43.218312939491604,
+    "lng": -79.8273810784438
+  },
+  {
+    "id": "57",
+    "type": "Cushion",
+    "location": "83 Kingslea Drive",
+    "x": 595306.8972,
+    "y": 4785947.8992,
+    "lat": 43.220302450094444,
+    "lng": -79.82651409976442
+  },
+  {
+    "id": "58",
+    "type": "Cushion",
+    "location": "101 Kingslea Drive",
+    "x": 595283.6293,
+    "y": 4785872.1273,
+    "lat": 43.21962322500487,
+    "lng": -79.82681361274216
+  },
+  {
+    "id": "59",
+    "type": "Cushion",
+    "location": "279 East 45th Street",
+    "x": 594450.0148,
+    "y": 4785913.8815,
+    "lat": 43.2201039208022,
+    "lng": -79.83706832243602
+  },
+  {
+    "id": "60",
+    "type": "Cushion",
+    "location": "311 East 45th Street",
+    "x": 594407.714,
+    "y": 4785771.2391,
+    "lat": 43.218825020197826,
+    "lng": -79.83761345142446
+  },
+  {
+    "id": "61",
+    "type": "Cushion",
+    "location": "816 Templemead Drive",
+    "x": 593343.4887,
+    "y": 4783153.3905,
+    "lat": 43.19538903715497,
+    "lng": -79.85115647762511
+  },
+  {
+    "id": "62",
+    "type": "Cushion",
+    "location": "63 Templemead Drive",
+    "x": 593498.8375,
+    "y": 4783392.1911,
+    "lat": 43.19751973557549,
+    "lng": -79.84920446413068
+  },
+  {
+    "id": "63",
+    "type": "Cushion",
+    "location": "Melrose Ave - between Cannon St and Beechwood Ave",
+    "x": 594872.8616,
+    "y": 4789577.0273,
+    "lat": 43.25302960142074,
+    "lng": -79.83123280441824
+  },
+  {
+    "id": "64",
+    "type": "Cushion",
+    "location": "Charlton Ave W - between Queen St to Kent St",
+    "x": 590655.9856,
+    "y": 4789456.516,
+    "lat": 43.252463573365425,
+    "lng": -79.88319168471
+  },
+  {
+    "id": "65",
+    "type": "Permanent",
+    "location": "Charlton Ave W - between Kent St to Locke St",
+    "x": 590500.65,
+    "y": 4789501.951,
+    "lat": 43.25289128870282,
+    "lng": -79.88509747521468
+  },
+  {
+    "id": "66",
+    "type": "Permanent",
+    "location": "St. Clair Ave - between Main St E to Dunsmere Rd",
+    "x": 594131.3932,
+    "y": 4789111.5964,
+    "lat": 43.24893235255802,
+    "lng": -79.8404448388926
+  },
+  {
+    "id": "67",
+    "type": "Temporary",
+    "location": "West 16th St - between Mohawk Rd and Sanatorium Rd",
+    "x": 589541.7977,
+    "y": 4787140.0096,
+    "lat": 43.231741151291246,
+    "lng": -79.89729131359103
+  },
+  {
+    "id": "68",
+    "type": "Permanent",
+    "location": "St. Clair Ave - between Dunsmere Rd to King St",
+    "x": 594182.1038,
+    "y": 4789254.7632,
+    "lat": 43.25021492815112,
+    "lng": -79.83979581992371
+  },
+  {
+    "id": "69",
+    "type": "Permanent",
+    "location": "Citino Dr - between Forbes St. to West 5th St.",
+    "x": 590053.3423,
+    "y": 4785168.2515,
+    "lat": 43.21392842367638,
+    "lng": -79.89131455050384
+  },
+  {
+    "id": "70",
+    "type": "Permanent",
+    "location": "Alderson Dr - between Christie St and Upper James St",
+    "x": 589588.7517,
+    "y": 4783563.8299,
+    "lat": 43.19953895058362,
+    "lng": -79.89729353763812
+  },
+  {
+    "id": "71",
+    "type": "Permanent",
+    "location": "Christopher Dr - between Malton Dr and Upper James St",
+    "x": 589526.4342,
+    "y": 4783453.9316,
+    "lat": 43.19855691430868,
+    "lng": -79.89807824300527
+  },
+  {
+    "id": "72",
+    "type": "Permanent",
+    "location": "Christopher Dr - between Malton Dr and Upper James St",
+    "x": 589279.9251,
+    "y": 4783534.0642,
+    "lat": 43.19930753855135,
+    "lng": -79.90109886455284
+  },
+  {
+    "id": "73",
+    "type": "Permanent",
+    "location": "Forbes St - between Blossom Ln and Citino Dr",
+    "x": 590137.7473,
+    "y": 4785223.4167,
+    "lat": 43.214415004922685,
+    "lng": -79.89026658861903
+  },
+  {
+    "id": "74",
+    "type": "Permanent",
+    "location": "Highgate Dr - between Bankfield Cres to Pinewoods Dr",
+    "x": 599372.7544,
+    "y": 4781377.4728,
+    "lat": 43.17863176273868,
+    "lng": -79.7772853614224
+  },
+  {
+    "id": "75",
+    "type": "Cushion",
+    "location": "Brigadoon Dr in front of #250/253",
+    "x": 589662.0693,
+    "y": 4785820.8946,
+    "lat": 43.219850795614406,
+    "lng": -79.89602479490677
+  },
+  {
+    "id": "76",
+    "type": "Cushion",
+    "location": "Brigadoon Dr - 20 metres east of Fiona Cres (east leg)",
+    "x": 589476.6491,
+    "y": 4785796.4348,
+    "lat": 43.219652588774366,
+    "lng": -79.89831135487184
+  },
+  {
+    "id": "77",
+    "type": "Cushion",
+    "location": "Brigadoon Dr - between Glen Eden Ct and Waterberry Tr",
+    "x": 589157.2709,
+    "y": 4785884.9397,
+    "lat": 43.22048720444334,
+    "lng": -79.90222871933354
+  },
+  {
+    "id": "78",
+    "type": "Cushion",
+    "location": "Redfern Ave in front of #112/108",
+    "x": 587958.9496,
+    "y": 4788184.8544,
+    "lat": 43.24133421825627,
+    "lng": -79.91661400945247
+  },
+  {
+    "id": "79",
+    "type": "Temporary",
+    "location": "Redfern Ave - between Chedmac Dr and Sanatorium Rd",
+    "x": 587713.6851,
+    "y": 4788135.6397,
+    "lat": 43.24091970047497,
+    "lng": -79.9196422224555
+  },
+  {
+    "id": "80",
+    "type": "Cushion",
+    "location": "Darlington in front of #21/22",
+    "x": 588978.9748,
+    "y": 4787025.1125,
+    "lat": 43.23077331981703,
+    "lng": -79.90423977363314
+  },
+  {
+    "id": "81",
+    "type": "Cushion",
+    "location": "Glen Rd in front of #174/175",
+    "x": 589302.8763,
+    "y": 4790668.6453,
+    "lat": 43.26353790939353,
+    "lng": -79.89966134907377
+  },
+  {
+    "id": "82",
+    "type": "Cushion",
+    "location": "Darlington Dr - between Ashton Rd and Bonaventure Dr",
+    "x": 588953.4516,
+    "y": 4787035.2604,
+    "lat": 43.23086769210925,
+    "lng": -79.90455239450709
+  },
+  {
+    "id": "83",
+    "type": "Permanent",
+    "location": "Main St - between Union St and School St",
+    "x": 589948.2843,
+    "y": 4798202.7588,
+    "lat": 43.33129025060126,
+    "lng": -79.89047772571077
+  },
+  {
+    "id": "84",
+    "type": "Permanent",
+    "location": "Main St - between Union St and School St",
+    "x": 589989.9091,
+    "y": 4798130.9299,
+    "lat": 43.330638602484036,
+    "lng": -79.88997615203093
+  },
+  {
+    "id": "85",
+    "type": "Cushion",
+    "location": "Glen Rd in front of #127/128",
+    "x": 589478.7088,
+    "y": 4790617.7006,
+    "lat": 43.263058395333495,
+    "lng": -79.89750351287819
+  },
+  {
+    "id": "86",
+    "type": "Permanent",
+    "location": "Acadia Dr at St Jean de Brebeuf",
+    "x": 592288.3696,
+    "y": 4783679.057,
+    "lat": 43.20025127054753,
+    "lng": -79.86405225185797
+  },
+  {
+    "id": "87",
+    "type": "Permanent",
+    "location": "Acadia Dr at St Jean de Brebeuf",
+    "x": 592318.2381,
+    "y": 4783614.2008,
+    "lat": 43.19966371949839,
+    "lng": -79.86369551806126
+  },
+  {
+    "id": "88",
+    "type": "Permanent",
+    "location": "103/105 South Bend Rd W - between Collier Cres W Leg and Collier Cres E Leg",
+    "x": 590331.757,
+    "y": 4787346.7144,
+    "lat": 43.23350793976461,
+    "lng": -79.8875308899042
+  },
+  {
+    "id": "89",
+    "type": "Permanent",
+    "location": "Griffin St - between Main St and Franklin St",
+    "x": 589878.4275,
+    "y": 4798366.432,
+    "lat": 43.33277213538802,
+    "lng": -79.89131245177776
+  },
+  {
+    "id": "90",
+    "type": "Permanent",
+    "location": "Griffin St - between Franklin St and Mill St",
+    "x": 589901.9936,
+    "y": 4798390.5183,
+    "lat": 43.332986163343996,
+    "lng": -79.8910178615003
+  },
+  {
+    "id": "91",
+    "type": "Permanent",
+    "location": "Glenfern Ave - between Mountain Ave to Undermount Ave",
+    "x": 590187.4334,
+    "y": 4788897.3691,
+    "lat": 43.2474857768835,
+    "lng": -79.8890543091869
+  },
+  {
+    "id": "92",
+    "type": "Permanent",
+    "location": "Mountain Ave - between Hillcrest Ave and Glenfern Ave",
+    "x": 590090.0724,
+    "y": 4788821.5384,
+    "lat": 43.246814712385124,
+    "lng": -79.89026579444126
+  },
+  {
+    "id": "93",
+    "type": "Permanent",
+    "location": "Brian Blvd - between Braeheid Ave and Fenton Dr",
+    "x": 588226.5855,
+    "y": 4798066.6031,
+    "lat": 43.33026847831356,
+    "lng": -79.91173316627096
+  },
+  {
+    "id": "94",
+    "type": "Permanent",
+    "location": "Brian Blvd - between Braeheid Ave and Fenton Dr",
+    "x": 588212.3213,
+    "y": 4797984.607,
+    "lat": 43.32953194596521,
+    "lng": -79.91192226199
+  },
+  {
+    "id": "95",
+    "type": "Cushion",
+    "location": "Young St - between Ferguson Ave and Wellington St",
+    "x": 592240.1331,
+    "y": 4789137.5083,
+    "lat": 43.24939939804476,
+    "lng": -79.86373340124523
+  },
+  {
+    "id": "96",
+    "type": "Permanent",
+    "location": "Mountain Ave - between Orchard Hill and Aberdeen Ave",
+    "x": 590162.7855,
+    "y": 4789064.9,
+    "lat": 43.24899700611038,
+    "lng": -79.88933046307154
+  },
+  {
+    "id": "97",
+    "type": "Cushion",
+    "location": "Robinson St - between Queen St and Hess St",
+    "x": 590862.9467,
+    "y": 4789505.8539,
+    "lat": 43.25288284329786,
+    "lng": -79.88063443226197
+  },
+  {
+    "id": "98",
+    "type": "Cushion",
+    "location": "Ontario Ave - between Stinson St and Main St",
+    "x": 593174.7331,
+    "y": 4789108.5086,
+    "lat": 43.249023390741996,
+    "lng": -79.85222762264118
+  },
+  {
+    "id": "99",
+    "type": "Permanent",
+    "location": "South St - between Mountain Ave and Beulah Ave",
+    "x": 589983.8087,
+    "y": 4788955.3249,
+    "lat": 43.24803188340614,
+    "lng": -79.89155267307714
+  },
+  {
+    "id": "100",
+    "type": "Permanent",
+    "location": "Mary St - between Macauley St and Wood St",
+    "x": 592708.9344,
+    "y": 4791451.0558,
+    "lat": 43.270170503088856,
+    "lng": -79.85757015488419
+  },
+  {
+    "id": "101",
+    "type": "Permanent",
+    "location": "Mary St - between Picton St and Macauley St",
+    "x": 592674.6204,
+    "y": 4791330.7094,
+    "lat": 43.26909126164639,
+    "lng": -79.85801317458343
+  },
+  {
+    "id": "102",
+    "type": "Permanent",
+    "location": "Picton St - between Mary St and Ferguson Ave",
+    "x": 592762.1349,
+    "y": 4791246.0693,
+    "lat": 43.26831848758166,
+    "lng": -79.8569492449999
+  },
+  {
+    "id": "103",
+    "type": "Permanent",
+    "location": "Picton St - between Ferguson Ave and Wellington St",
+    "x": 592963.2534,
+    "y": 4791176.1636,
+    "lat": 43.2676643470927,
+    "lng": -79.8544832743065
+  },
+  {
+    "id": "104",
+    "type": "Permanent",
+    "location": "Simcoe St - between Mary St and Ferguson Ave",
+    "x": 592683.7769,
+    "y": 4791032.1494,
+    "lat": 43.26640223675838,
+    "lng": -79.85795062457592
+  },
+  {
+    "id": "105",
+    "type": "Permanent",
+    "location": "Wood St - between Mary St and Ferguson Ave",
+    "x": 592838.6551,
+    "y": 4791454.4359,
+    "lat": 43.270184959159074,
+    "lng": -79.85597138037294
+  },
+  {
+    "id": "106",
+    "type": "Permanent",
+    "location": "Wood St - between Ferguson Ave and Wellington St",
+    "x": 593035.315,
+    "y": 4791394.4048,
+    "lat": 43.26962024729431,
+    "lng": -79.85355860780166
+  },
+  {
+    "id": "107",
+    "type": "Cushion",
+    "location": "New Street in front of #39/42",
+    "x": 590308.8719,
+    "y": 4790378.8687,
+    "lat": 43.26080916448918,
+    "lng": -79.88731584797937
+  },
+  {
+    "id": "108",
+    "type": "Cushion",
+    "location": "New Street in front of #61/70",
+    "x": 590280.2122,
+    "y": 4790285.5177,
+    "lat": 43.25997216126764,
+    "lng": -79.88768419660336
+  },
+  {
+    "id": "109",
+    "type": "Cushion",
+    "location": "Dow Ave - between Paul St and Main St",
+    "x": 588493.2342,
+    "y": 4789925.7963,
+    "lat": 43.256945522876336,
+    "lng": -79.90975486451397
+  },
+  {
+    "id": "110",
+    "type": "Temporary",
+    "location": "Beulah Ave - between South St and Hillcrest Ave",
+    "x": 589912.843,
+    "y": 4788921.2397,
+    "lat": 43.24773348036699,
+    "lng": -79.89243225010027
+  },
+  {
+    "id": "111",
+    "type": "Cushion",
+    "location": "Strathcona Ave in front of #42/45",
+    "x": 590409.213,
+    "y": 4790295.9968,
+    "lat": 43.26005103984034,
+    "lng": -79.88609339026468
+  },
+  {
+    "id": "112",
+    "type": "Cushion",
+    "location": "Strathcona Ave in front of #20/27",
+    "x": 590429.3968,
+    "y": 4790366.2889,
+    "lat": 43.260681456144006,
+    "lng": -79.8858332166647
+  },
+  {
+    "id": "113",
+    "type": "Permanent",
+    "location": "Strachan St - between John St N and Catharine St N",
+    "x": 592432.7116,
+    "y": 4790996.905,
+    "lat": 43.26611577710394,
+    "lng": -79.86104956687429
+  },
+  {
+    "id": "114",
+    "type": "Permanent",
+    "location": "Strachan St - between Catharine St N and Mary St",
+    "x": 592511.4963,
+    "y": 4790972.5943,
+    "lat": 43.265887241596026,
+    "lng": -79.86008305932486
+  },
+  {
+    "id": "115",
+    "type": "Cushion",
+    "location": "Barclay St - between Newton Ave and Cline Ave",
+    "x": 588637.9448,
+    "y": 4790253.9805,
+    "lat": 43.259883175179496,
+    "lng": -79.90791952377579
+  },
+  {
+    "id": "116",
+    "type": "Cushion",
+    "location": "Macklin St in front of #70/81",
+    "x": 589611.5518,
+    "y": 4790722.4014,
+    "lat": 43.26398523068412,
+    "lng": -79.89584997129978
+  },
+  {
+    "id": "117",
+    "type": "Cushion",
+    "location": "Macklin St. N - in front of Coronation Arena",
+    "x": 589641.1303,
+    "y": 4790822.6966,
+    "lat": 43.264884669885106,
+    "lng": -79.89546925915774
+  },
+  {
+    "id": "118",
+    "type": "Permanent",
+    "location": "30 Harrisford St - Close to school",
+    "x": 597616.329,
+    "y": 4785794.8619,
+    "lat": 43.218629506070585,
+    "lng": -79.79811187071483
+  },
+  {
+    "id": "119",
+    "type": "Permanent",
+    "location": "153 Stirton St - between Harvey St and Huron St",
+    "x": 594045.4741,
+    "y": 4789999.2682,
+    "lat": 43.256934648241504,
+    "lng": -79.8413515088559
+  },
+  {
+    "id": "120",
+    "type": "Cushion",
+    "location": "Clinton St - 17m East of CP 25048",
+    "x": 594693.1847,
+    "y": 4790077.4274,
+    "lat": 43.2575572041939,
+    "lng": -79.83335983941706
+  },
+  {
+    "id": "121",
+    "type": "Cushion",
+    "location": "75 Cumberland Ave - between Sanford and Gladstone",
+    "x": 593479.9738,
+    "y": 4788710.8813,
+    "lat": 43.24540581510165,
+    "lng": -79.84853570072455
+  },
+  {
+    "id": "122",
+    "type": "Cushion",
+    "location": "117/118 Delmar Drive",
+    "x": 590270.2251,
+    "y": 4787689.0701,
+    "lat": 43.23659754138425,
+    "lng": -79.88823250084253
+  },
+  {
+    "id": "123",
+    "type": "Permanent",
+    "location": "95/91 South Bend Rd W - between Collier Cres W Leg and Collier Cres E Leg",
+    "x": 590392.0821,
+    "y": 4787327.6643,
+    "lat": 43.23332920489794,
+    "lng": -79.88679122348115
+  },
+  {
+    "id": "124",
+    "type": "Permanent",
+    "location": "7 Stacey St - between Columbia and Laurier",
+    "x": 590134.2293,
+    "y": 4787276.4282,
+    "lat": 43.23289877950964,
+    "lng": -79.88997455474917
+  },
+  {
+    "id": "125",
+    "type": "Cushion",
+    "location": "Mary St - between Robert St and Barton St",
+    "x": 592422.3325,
+    "y": 4790490.4326,
+    "lat": 43.26155733399521,
+    "lng": -79.8612624343932
+  },
+  {
+    "id": "126",
+    "type": "Cushion",
+    "location": "455 Dunsmure Rd  - between Grosvenor Ave and Ottawa St",
+    "x": 595819.7848,
+    "y": 4788644.3807,
+    "lat": 43.244513415361745,
+    "lng": -79.81973194454437
+  },
+  {
+    "id": "127",
+    "type": "Permanent",
+    "location": "97 Dunsmure Rd - between Barnesdale Ave and Fairholt Rd",
+    "x": 594426.1247,
+    "y": 4789103.3919,
+    "lat": 43.24882163245216,
+    "lng": -79.83681633491852
+  },
+  {
+    "id": "128",
+    "type": "Cushion",
+    "location": "25/32 Leinster Avenue South",
+    "x": 594874.4348,
+    "y": 4789063.9266,
+    "lat": 43.24841005136501,
+    "lng": -79.83130176669546
+  },
+  {
+    "id": "129",
+    "type": "Cushion",
+    "location": "Catharine St - between Barton St and Robert St",
+    "x": 592345.1957,
+    "y": 4790568.6409,
+    "lat": 43.26227089164081,
+    "lng": -79.86219954114905
+  },
+  {
+    "id": "130",
+    "type": "Cushion",
+    "location": "Glenside Ave - between Dundurn St and Hyde Park Ave/ Glenside Ave in front of #26/27",
+    "x": 589741.8073,
+    "y": 4789146.412,
+    "lat": 43.24978108829128,
+    "lng": -79.89450205686003
+  },
+  {
+    "id": "131",
+    "type": "Permanent",
+    "location": "1075 Scenic Dr",
+    "x": 587116.4085,
+    "y": 4788639.8627,
+    "lat": 43.24552851649616,
+    "lng": -79.9269178467936
+  },
+  {
+    "id": "132",
+    "type": "Permanent",
+    "location": "1133 Scenic Dr",
+    "x": 586891.4893,
+    "y": 4788584.4629,
+    "lat": 43.245055698140376,
+    "lng": -79.92969661402084
+  },
+  {
+    "id": "133",
+    "type": "Permanent",
+    "location": "Melrose Ave - between Main St E and Dunsmure Rd",
+    "x": 594670.892,
+    "y": 4788930.8788,
+    "lat": 43.24723783059196,
+    "lng": -79.83383142582618
+  },
+  {
+    "id": "134",
+    "type": "Cushion",
+    "location": "Robinson St - between MacNab St S and James St S",
+    "x": 591533.8282,
+    "y": 4789299.0595,
+    "lat": 43.25093992011559,
+    "lng": -79.87240557513923
+  },
+  {
+    "id": "135",
+    "type": "Cushion",
+    "location": "Barclay St - between Cline Ave and Newton Ave",
+    "x": 588538.8978,
+    "y": 4790238.642,
+    "lat": 43.25975672481609,
+    "lng": -79.90914209948723
+  },
+  {
+    "id": "136",
+    "type": "Cushion",
+    "location": "66 Bond St. S - between King & Marion",
+    "x": 589076.7417,
+    "y": 4790429.3756,
+    "lat": 43.26141052495707,
+    "lng": -79.9024858480051
+  },
+  {
+    "id": "137",
+    "type": "Cushion",
+    "location": "38 Bond St. S - between King & Marion",
+    "x": 589101.476,
+    "y": 4790510.6252,
+    "lat": 43.26213909274942,
+    "lng": -79.90216800678475
+  },
+  {
+    "id": "138",
+    "type": "Cushion",
+    "location": "137/136 Delmar Drive",
+    "x": 590371.0724,
+    "y": 4787652.591,
+    "lat": 43.236257043042336,
+    "lng": -79.88699667390716
+  },
+  {
+    "id": "139",
+    "type": "Cushion",
+    "location": "23 Melrose Avenue North",
+    "x": 594801.1469,
+    "y": 4789340.7814,
+    "lat": 43.25091174479882,
+    "lng": -79.83215674414649
+  },
+  {
+    "id": "140",
+    "type": "Cushion",
+    "location": "363/364 Herkimer St - between Dundurn to Locke",
+    "x": 590065.4973,
+    "y": 4789539.5874,
+    "lat": 43.2532822465604,
+    "lng": -79.89045110111776
+  },
+  {
+    "id": "141",
+    "type": "Cushion",
+    "location": "324/325 Herkimer St - between Dundurn to Locke",
+    "x": 590199.7541,
+    "y": 4789498.1899,
+    "lat": 43.25289349202847,
+    "lng": -79.88880422571683
+  },
+  {
+    "id": "142",
+    "type": "Cushion",
+    "location": "Mary St - between Robert St and Barton St.",
+    "x": 592443.7407,
+    "y": 4790564.4174,
+    "lat": 43.262220785475954,
+    "lng": -79.86098629606228
+  },
+  {
+    "id": "143",
+    "type": "Permanent",
+    "location": "17 Stacey St - between Columbia and Laurier",
+    "x": 590062.8298,
+    "y": 4787297.0615,
+    "lat": 43.233093069742246,
+    "lng": -79.89085032652677
+  },
+  {
+    "id": "144",
+    "type": "Permanent",
+    "location": "Columbia Dr - 50m North of Stacey St",
+    "x": 590029.1747,
+    "y": 4787360.8792,
+    "lat": 43.233671640045074,
+    "lng": -79.8912543056554
+  },
+  {
+    "id": "145",
+    "type": "Cushion",
+    "location": "170/175 Young Street - between Ferguson and Walnut",
+    "x": 592187.4248,
+    "y": 4789157.5722,
+    "lat": 43.24958647878332,
+    "lng": -79.86437921071673
+  },
+  {
+    "id": "146",
+    "type": "Cushion",
+    "location": "49 Robinson St - between Park and MacNab",
+    "x": 591388.3148,
+    "y": 4789344.574,
+    "lat": 43.25136733900001,
+    "lng": -79.87419024945797
+  },
+  {
+    "id": "147",
+    "type": "Cushion",
+    "location": "164 Park St S  - between Bold and Duke",
+    "x": 591388.3148,
+    "y": 4789515.2708,
+    "lat": 43.25290411388537,
+    "lng": -79.87416193874803
+  },
+  {
+    "id": "148",
+    "type": "Permanent",
+    "location": "54/58 Beulah Ave - between South and Hillcrest",
+    "x": 589900.4998,
+    "y": 4788882.4708,
+    "lat": 43.24738591529192,
+    "lng": -79.89259059252772
+  },
+  {
+    "id": "149",
+    "type": "Cushion",
+    "location": "Leland St - Between Mapes and Glenmount",
+    "x": 587422.2777,
+    "y": 4789801.1899,
+    "lat": 43.255948660967974,
+    "lng": -79.9229666245489
+  },
+  {
+    "id": "150",
+    "type": "Permanent",
+    "location": "154 Mill St N - between Albert and Queen",
+    "x": 589485.1069,
+    "y": 4798886.0893,
+    "lat": 43.33749747478819,
+    "lng": -79.89607858528291
+  },
+  {
+    "id": "151",
+    "type": "Permanent",
+    "location": "198 Mill St N - between Elgin and Albert",
+    "x": 589389.0629,
+    "y": 4798977.1062,
+    "lat": 43.33832831831003,
+    "lng": -79.89724837361976
+  },
+  {
+    "id": "152",
+    "type": "Permanent",
+    "location": "9 Melrose Avenue S",
+    "x": 594754.5829,
+    "y": 4789212.4503,
+    "lat": 43.24976225669302,
+    "lng": -79.83275230938952
+  },
+  {
+    "id": "153",
+    "type": "Permanent",
+    "location": "59 Melrose Avenue S",
+    "x": 594711.8587,
+    "y": 4789069.1392,
+    "lat": 43.248477420281624,
+    "lng": -79.8333031355745
+  },
+  {
+    "id": "154",
+    "type": "Permanent",
+    "location": "87 Grant  Ave",
+    "x": 593269.5651,
+    "y": 4789179.9176,
+    "lat": 43.249654551664165,
+    "lng": -79.85104758001752
+  },
+  {
+    "id": "155",
+    "type": "Permanent",
+    "location": "125 Grant Ave",
+    "x": 593232.788,
+    "y": 4789059.2674,
+    "lat": 43.24857290081668,
+    "lng": -79.85152094481448
+  },
+  {
+    "id": "156",
+    "type": "Permanent",
+    "location": "South St - between Beulah Ave and Dundurn St",
+    "x": 589876.0094,
+    "y": 4788988.0207,
+    "lat": 43.24833910239518,
+    "lng": -79.89287500169749
+  },
+  {
+    "id": "157",
+    "type": "Permanent",
+    "location": "Ferrie St - between Mary St and Ferguson Ave",
+    "x": 592737.2503,
+    "y": 4791130.7188,
+    "lat": 43.267283065078296,
+    "lng": -79.85727525204814
+  },
+  {
+    "id": "158",
+    "type": "Permanent",
+    "location": "MacNab St - between Strachan St and Simcoe St",
+    "x": 592045.3627,
+    "y": 4791201.2067,
+    "lat": 43.26800250383535,
+    "lng": -79.86578738389632
+  },
+  {
+    "id": "159",
+    "type": "Permanent",
+    "location": "Macauley St - between Mary St and Ferguson Ave",
+    "x": 592805.685,
+    "y": 4791349.0469,
+    "lat": 43.269240218192465,
+    "lng": -79.85639534986203
+  },
+  {
+    "id": "160",
+    "type": "Cushion",
+    "location": "Kingsway Dr - between John St and Arkledun Ave",
+    "x": 591814.9609,
+    "y": 4788812.2523,
+    "lat": 43.24652303691604,
+    "lng": -79.86902409696852
+  },
+  {
+    "id": "161",
+    "type": "Cushion",
+    "location": "Erie Ave - between Main St and Stinson",
+    "x": 593099.9128,
+    "y": 4789179.7502,
+    "lat": 43.24967401408348,
+    "lng": -79.85313707963135
+  },
+  {
+    "id": "162",
+    "type": "Permanent",
+    "location": "Macauley St - between Ferguson Ave and Wellington St",
+    "x": 593015.9912,
+    "y": 4791285.1133,
+    "lat": 43.26863869723794,
+    "lng": -79.85381514671369
+  },
+  {
+    "id": "163",
+    "type": "Cushion",
+    "location": "Cathcart St - between Wilson St and Kelly St",
+    "x": 592611.1964,
+    "y": 4790007.1413,
+    "lat": 43.25718312824803,
+    "lng": -79.85901714864235
+  },
+  {
+    "id": "164",
+    "type": "Cushion",
+    "location": "Cathcart St - between Kelly St and Cannon St",
+    "x": 592637.9202,
+    "y": 4790091.2583,
+    "lat": 43.25793714053596,
+    "lng": -79.85867382597894
+  },
+  {
+    "id": "165",
+    "type": "Cushion",
+    "location": "195 Park St - between Colbourne St and Sheaffe St",
+    "x": 591764.9234,
+    "y": 4790726.6964,
+    "lat": 43.26376473745903,
+    "lng": -79.8693214654397
+  },
+  {
+    "id": "166",
+    "type": "Permanent",
+    "location": "179 Hess St - between Harriet St and Windsor St",
+    "x": 591310.5129,
+    "y": 4790793.8872,
+    "lat": 43.26442485271376,
+    "lng": -79.87490826685928
+  },
+  {
+    "id": "167",
+    "type": "Permanent",
+    "location": "152 Stroud Rd - between Royal Ave and Baxter St",
+    "x": 587916.0044,
+    "y": 4789500.0099,
+    "lat": 43.253179687506744,
+    "lng": -79.91693308616436
+  },
+  {
+    "id": "168",
+    "type": "Cushion",
+    "location": "22 Homewood Ave - between Kent St and Queen St",
+    "x": 590604.5874,
+    "y": 4789176.6269,
+    "lat": 43.24994991626671,
+    "lng": -79.88387077145275
+  },
+  {
+    "id": "169",
+    "type": "Temporary",
+    "location": "268 Nashville Circle",
+    "x": 599638.7832,
+    "y": 4785203.8108,
+    "lat": 43.2130441672994,
+    "lng": -79.77332288835652
+  },
+  {
+    "id": "170",
+    "type": "Cushion",
+    "location": "Mapleside Dr in front of #16",
+    "x": 590512.0961,
+    "y": 4789000.7034,
+    "lat": 43.248377189085296,
+    "lng": -79.88503882423686
+  },
+  {
+    "id": "171",
+    "type": "Permanent",
+    "location": "59 Lake Ave - between Randall and Collegiate",
+    "x": 601013.3419,
+    "y": 4786130.9691,
+    "lat": 43.221208338893334,
+    "lng": -79.75623458615469
+  },
+  {
+    "id": "172",
+    "type": "Temporary",
+    "location": "536 Walmer Rd - between Waverley and Brunswick",
+    "x": 599356.2274,
+    "y": 4788791.6991,
+    "lat": 43.24538199018569,
+    "lng": -79.77615454278146
+  },
+  {
+    "id": "173",
+    "type": "Temporary",
+    "location": "450 Walmer - between Osborne and Talbot",
+    "x": 599558.5457,
+    "y": 4788726.6409,
+    "lat": 43.244769608621816,
+    "lng": -79.77367474568221
+  },
+  {
+    "id": "174",
+    "type": "Temporary",
+    "location": "438 Talbot Rd - between Vansitmart and Walmer",
+    "x": 599549.8713,
+    "y": 4788693.7291,
+    "lat": 43.24447446085515,
+    "lng": -79.77378751338732
+  },
+  {
+    "id": "175",
+    "type": "Temporary",
+    "location": "380 Talbot Rd - between Barton and Vansitmart",
+    "x": 599490.4259,
+    "y": 4788490.3902,
+    "lat": 43.24265171912749,
+    "lng": -79.77455626973763
+  },
+  {
+    "id": "176",
+    "type": "Temporary",
+    "location": "276 Vansitmart Ave - between Waverly and Brunswick",
+    "x": 599238.102,
+    "y": 4788642.1928,
+    "lat": 43.244051593050195,
+    "lng": -79.77763617276344
+  },
+  {
+    "id": "177",
+    "type": "Temporary",
+    "location": "327 Vansitmart Ave - between Osborne and Talbot",
+    "x": 599455.9833,
+    "y": 4788577.8999,
+    "lat": 43.243444081205894,
+    "lng": -79.77496462357114
+  },
+  {
+    "id": "178",
+    "type": "Permanent",
+    "location": "58 Mars Ave - between Cheever and Douglas",
+    "x": 593683.5488,
+    "y": 4790971.5882,
+    "lat": 43.26573336919642,
+    "lng": -79.84564418036712
+  },
+  {
+    "id": "179",
+    "type": "Permanent",
+    "location": "96 Mars Ave - between Wentworth and Cheever",
+    "x": 593824.9424,
+    "y": 4790927.138,
+    "lat": 43.265315598138066,
+    "lng": -79.84390986950801
+  },
+  {
+    "id": "180",
+    "type": "Permanent",
+    "location": "188 Belmont Ave - between Cannon and Campbell",
+    "x": 595591.8947,
+    "y": 4789201.4611,
+    "lat": 43.24955762078602,
+    "lng": -79.82244179954336
+  },
+  {
+    "id": "181",
+    "type": "Permanent",
+    "location": "280 Belmont Ave - between Barton and Campbell",
+    "x": 595698.1982,
+    "y": 4789473.2459,
+    "lat": 43.25199095465171,
+    "lng": -79.82108536237969
+  },
+  {
+    "id": "182",
+    "type": "Cushion",
+    "location": "Scotia Avenue in front of #16",
+    "x": 596437.5437,
+    "y": 4786863.8251,
+    "lat": 43.22840471263046,
+    "lng": -79.81243562207607
+  },
+  {
+    "id": "183",
+    "type": "Permanent",
+    "location": "84 Balsam Ave S - between Dunsmure and Main",
+    "x": 594888.0154,
+    "y": 4788851.6022,
+    "lat": 43.24649682339571,
+    "lng": -79.83117106438388
+  },
+  {
+    "id": "184",
+    "type": "Permanent",
+    "location": "32 Balsam Ave S - between Kimg and Dunsmure",
+    "x": 594937.9688,
+    "y": 4789015.4325,
+    "lat": 43.24796547005991,
+    "lng": -79.83052764493418
+  },
+  {
+    "id": "185",
+    "type": "Cushion",
+    "location": "Tisdale St S",
+    "x": 593006.087,
+    "y": 4789204.9927,
+    "lat": 43.24991285034107,
+    "lng": -79.85428839755134
+  },
+  {
+    "id": "186",
+    "type": "Cushion",
+    "location": "122 Augusta St - Baille to Walnut",
+    "x": 592075.2782,
+    "y": 4789302.9824,
+    "lat": 43.2509093012083,
+    "lng": -79.86573613933348
+  },
+  {
+    "id": "187",
+    "type": "Cushion",
+    "location": "144 Walnut St S - Augusta to Young",
+    "x": 592122.2337,
+    "y": 4789241.666,
+    "lat": 43.25035153779817,
+    "lng": -79.86516806208061
+  },
+  {
+    "id": "188",
+    "type": "Cushion",
+    "location": "101 Walnut St S - Hunter to Augusta",
+    "x": 592163.5744,
+    "y": 4789370.1032,
+    "lat": 43.251502795203606,
+    "lng": -79.86463741271552
+  },
+  {
+    "id": "189",
+    "type": "Cushion",
+    "location": "217 Caroline St S - Robinson to Charlton",
+    "x": 591032.163,
+    "y": 4789399.6968,
+    "lat": 43.251906698946605,
+    "lng": -79.8785677397501
+  },
+  {
+    "id": "190",
+    "type": "Cushion",
+    "location": "Dunsmure Ave 30m west of Grosvenor - Balmoral to Grosvenor",
+    "x": 595754.669,
+    "y": 4788665.5663,
+    "lat": 43.24471241669196,
+    "lng": -79.8205301668576
+  },
+  {
+    "id": "191",
+    "type": "Cushion",
+    "location": "76 Shelby Avenue - Barton to Melvin",
+    "x": 597699.5651,
+    "y": 4788845.1227,
+    "lat": 43.246079423698085,
+    "lng": -79.79654697778437
+  },
+  {
+    "id": "192",
+    "type": "Cushion",
+    "location": "114 Inchbury St - Tecumseh to Kinnell",
+    "x": 590765.854,
+    "y": 4791152.6,
+    "lat": 43.26772013128606,
+    "lng": -79.88155894756068
+  },
+  {
+    "id": "193",
+    "type": "Cushion",
+    "location": "76 Inchbury St - Kinnell to York",
+    "x": 590732.5991,
+    "y": 4791043.1353,
+    "lat": 43.26673863145413,
+    "lng": -79.88198668559538
+  },
+  {
+    "id": "194",
+    "type": "Cushion",
+    "location": "75 Oxford St - Barton to York",
+    "x": 591113.7381,
+    "y": 4790970.8448,
+    "lat": 43.26604181066946,
+    "lng": -79.87730310976855
+  },
+  {
+    "id": "195",
+    "type": "Cushion",
+    "location": "37 Oxford St - Barton to York",
+    "x": 591071.7745,
+    "y": 4790824.6857,
+    "lat": 43.26473102217615,
+    "lng": -79.87784425840077
+  },
+  {
+    "id": "196",
+    "type": "Cushion",
+    "location": "119 Robinson St - Caroline to Bay",
+    "x": 591141.0227,
+    "y": 4789420.2315,
+    "lat": 43.252078418569994,
+    "lng": -79.87722354458946
+  },
+  {
+    "id": "197",
+    "type": "Cushion",
+    "location": "44 Spring St - Jackson to Hunter",
+    "x": 592431.8578,
+    "y": 4789407.7538,
+    "lat": 43.25180891317347,
+    "lng": -79.86132675457672
+  },
+  {
+    "id": "198",
+    "type": "Cushion",
+    "location": "187 Market St - Queen to Hess",
+    "x": 591075.7541,
+    "y": 4790312.0147,
+    "lat": 43.260114991939936,
+    "lng": -79.87788001470166
+  },
+  {
+    "id": "199",
+    "type": "Cushion",
+    "location": "150 Market St - Hess to Caroline",
+    "x": 591226.1161,
+    "y": 4790255.836,
+    "lat": 43.25959103204468,
+    "lng": -79.87603709875037
+  },
+  {
+    "id": "200",
+    "type": "Cushion",
+    "location": "505 Hughson St - Wood to Burlington",
+    "x": 592433.405,
+    "y": 4791640.5875,
+    "lat": 43.271910690313355,
+    "lng": -79.86093295315351
+  },
+  {
+    "id": "201",
+    "type": "Cushion",
+    "location": "25 Burlington St - MacNab to James St",
+    "x": 592251.9705,
+    "y": 4791717.2526,
+    "lat": 43.27262313775386,
+    "lng": -79.8631555096663
+  },
+  {
+    "id": "202",
+    "type": "Cushion",
+    "location": "202 Fairleigh Avenue South - Delaware to Cumberland",
+    "x": 593708.0395,
+    "y": 4788741.0902,
+    "lat": 43.24564947281196,
+    "lng": -79.84572186395623
+  },
+  {
+    "id": "203",
+    "type": "Cushion",
+    "location": "119 Fairleigh Avenue South - Main to Delaware",
+    "x": 593835.0963,
+    "y": 4788995.1099,
+    "lat": 43.24792057663469,
+    "lng": -79.84411386811084
+  },
+  {
+    "id": "204",
+    "type": "Cushion",
+    "location": "38 Fairleigh Avenue South - King to Main",
+    "x": 593913.9041,
+    "y": 4789245.3124,
+    "lat": 43.250163301914924,
+    "lng": -79.84310064940318
+  },
+  {
+    "id": "205",
+    "type": "Cushion",
+    "location": "28 Fairleigh Avenue North - Wilson to King",
+    "x": 593964.6744,
+    "y": 4789487.2261,
+    "lat": 43.25233488904112,
+    "lng": -79.84243409795177
+  },
+  {
+    "id": "206",
+    "type": "Cushion",
+    "location": "300 Emerald Street North - Birge to Barton",
+    "x": 593296.4101,
+    "y": 4790470.3768,
+    "lat": 43.261269068829975,
+    "lng": -79.85049841904356
+  },
+  {
+    "id": "207",
+    "type": "Cushion",
+    "location": "110 Emerald Street North - Evans to Wilson",
+    "x": 593112.1514,
+    "y": 4789874.1489,
+    "lat": 43.2559240931335,
+    "lng": -79.85286900180427
+  },
+  {
+    "id": "208",
+    "type": "Cushion",
+    "location": "76 Rosslyn Avenue South - Maple to Montclair",
+    "x": 595477.6704,
+    "y": 4788175.8225,
+    "lat": 43.240338472706604,
+    "lng": -79.82402624315617
+  },
+  {
+    "id": "209",
+    "type": "Cushion",
+    "location": "12 Rosslyn Avenue South - King to Maple",
+    "x": 595538.44,
+    "y": 4788378.0278,
+    "lat": 43.242151191927874,
+    "lng": -79.82324287481876
+  },
+  {
+    "id": "210",
+    "type": "Cushion",
+    "location": "118 Grosvenor Avenue South - King to Montclair",
+    "x": 595629.8028,
+    "y": 4788066.73,
+    "lat": 43.23933705842308,
+    "lng": -79.82217177685887
+  },
+  {
+    "id": "211",
+    "type": "Cushion",
+    "location": "Grosvenor Avenue South - Main to Maple",
+    "x": 595711.4636,
+    "y": 4788357.3787,
+    "lat": 43.241943351813845,
+    "lng": -79.82111575165312
+  },
+  {
+    "id": "212",
+    "type": "Cushion",
+    "location": "45 William Street - Birge to Barton",
+    "x": 593583.5629,
+    "y": 4790456.1557,
+    "lat": 43.2611054339516,
+    "lng": -79.84696353827998
+  },
+  {
+    "id": "213",
+    "type": "Cushion",
+    "location": "30 London Street South - Main to Maple",
+    "x": 595877.1402,
+    "y": 4788306.6207,
+    "lat": 43.24146534223624,
+    "lng": -79.8190843542024
+  },
+  {
+    "id": "214",
+    "type": "Cushion",
+    "location": "89 London Street South - Maple to Central",
+    "x": 595821.6604,
+    "y": 4788108.3447,
+    "lat": 43.23968735523788,
+    "lng": -79.81980201432268
+  },
+  {
+    "id": "215",
+    "type": "Cushion",
+    "location": "219 Lavender Cres - Daffodil to Larkspur",
+    "x": 586545.5957,
+    "y": 4787913.0135,
+    "lat": 43.23905032134053,
+    "lng": -79.9340619107793
+  },
+  {
+    "id": "216",
+    "type": "Cushion",
+    "location": "117 Lavender Cres - Indigo to Honeysuckle",
+    "x": 586686.4554,
+    "y": 4787462.4521,
+    "lat": 43.23497767191921,
+    "lng": -79.93239813684221
+  },
+  {
+    "id": "217",
+    "type": "Cushion",
+    "location": "Lavender Cres - Honeysuckle to Scenic",
+    "x": 586804.6989,
+    "y": 4787395.3747,
+    "lat": 43.2343601655661,
+    "lng": -79.93095269490594
+  },
+  {
+    "id": "218",
+    "type": "Cushion",
+    "location": "26 Eleanor Avenue - In front of #26",
+    "x": 592853.3468,
+    "y": 4783887.388,
+    "lat": 43.202057616239685,
+    "lng": -79.85706446744692
+  },
+  {
+    "id": "219",
+    "type": "Cushion",
+    "location": "60 Eleanor Avenue - In front of #60",
+    "x": 592816.4092,
+    "y": 4783765.3844,
+    "lat": 43.20096376134708,
+    "lng": -79.85753954285684
+  },
+  {
+    "id": "220",
+    "type": "Cushion",
+    "location": "175 Rendell Boulevard - Cloke to Fennell",
+    "x": 594885.2797,
+    "y": 4786666.3211,
+    "lat": 43.22682343085666,
+    "lng": -79.83158076113918
+  },
+  {
+    "id": "221",
+    "type": "Cushion",
+    "location": "144 Rendell Boulevard - Brucedale to Cloke",
+    "x": 594921.602,
+    "y": 4786783.0484,
+    "lat": 43.22786974101238,
+    "lng": -79.83111349635683
+  },
+  {
+    "id": "222",
+    "type": "Cushion",
+    "location": "95 Rendell Boulevard - Queensdale to Brucedale",
+    "x": 594967.1138,
+    "y": 4786933.1684,
+    "lat": 43.22921552165915,
+    "lng": -79.8305273264433
+  },
+  {
+    "id": "223",
+    "type": "Cushion",
+    "location": "75 Rendell Boulevard - Queensdale to Brucedale",
+    "x": 594985.8584,
+    "y": 4786996.0434,
+    "lat": 43.22977921598298,
+    "lng": -79.83028571727506
+  },
+  {
+    "id": "224",
+    "type": "Cushion",
+    "location": "522 Acadia Drive - Acadia to Anita",
+    "x": 591911.815,
+    "y": 4784113.8511,
+    "lat": 43.20421164989928,
+    "lng": -79.86861391325927
+  },
+  {
+    "id": "225",
+    "type": "Cushion",
+    "location": "22-24_21-25 Spadian Ave",
+    "x": 594669.5515,
+    "y": 4789223.3656,
+    "lat": 43.24987120765172,
+    "lng": -79.83379769264083
+  },
+  {
+    "id": "226",
+    "type": "Cushion",
+    "location": "19 Woodbridge Rd",
+    "x": 596953.2801,
+    "y": 4787094.0254,
+    "lat": 43.230411054088776,
+    "lng": -79.80604556208519
+  },
+  {
+    "id": "227",
+    "type": "Cushion",
+    "location": "112 Rainbow Dr",
+    "x": 599054.349,
+    "y": 4786739.3207,
+    "lat": 43.22694481690528,
+    "lng": -79.78024082051483
+  },
+  {
+    "id": "228",
+    "type": "Cushion",
+    "location": "150 Rainbow Dr",
+    "x": 599007.5342,
+    "y": 4786568.386,
+    "lat": 43.225412089182264,
+    "lng": -79.78084784437448
+  },
+  {
+    "id": "229",
+    "type": "Cushion",
+    "location": "23 Secord Dr",
+    "x": 599115.3371,
+    "y": 4786881.9049,
+    "lat": 43.22822044823837,
+    "lng": -79.77946436263976
+  },
+  {
+    "id": "230",
+    "type": "Cushion",
+    "location": "109 Glen Echo Dr",
+    "x": 599248.6298,
+    "y": 4786586.0609,
+    "lat": 43.22553953694687,
+    "lng": -79.77787654024847
+  },
+  {
+    "id": "231",
+    "type": "Cushion",
+    "location": "Veterans Lane (beside Municipal Car Park 3, between Lake Ave S & Mountain Ave S)",
+    "x": 600921.7753,
+    "y": 4785591.3512,
+    "lat": 43.216362613030824,
+    "lng": -79.7574604384416
+  },
+  {
+    "id": "232",
+    "type": "Cushion",
+    "location": "49-53_50-52 Spadina Ave",
+    "x": 594637.3874,
+    "y": 4789117.0184,
+    "lat": 43.24891782022626,
+    "lng": -79.83421209339186
+  },
+  {
+    "id": "233",
+    "type": "Cushion",
+    "location": "61 Rolston Dr",
+    "x": 589893.8354,
+    "y": 4786521.5404,
+    "lat": 43.22613117704802,
+    "lng": -79.89305753389873
+  },
+  {
+    "id": "234",
+    "type": "Cushion",
+    "location": "29 Rolston Dr",
+    "x": 589929.0103,
+    "y": 4786636.6185,
+    "lat": 43.227163039074746,
+    "lng": -79.89260571661745
+  },
+  {
+    "id": "235",
+    "type": "Cushion",
+    "location": "170-174 Bellagio Ave",
+    "x": 597520.9177,
+    "y": 4781123.986,
+    "lat": 43.176590884480476,
+    "lng": -79.8001107094209
+  },
+  {
+    "id": "236",
+    "type": "Cushion",
+    "location": "231-233 Bellagio Ave",
+    "x": 597691.6669,
+    "y": 4781078.5282,
+    "lat": 43.17615958548287,
+    "lng": -79.79801830614643
+  },
+  {
+    "id": "237",
+    "type": "Cushion",
+    "location": "179 - 180 Margaret Ave",
+    "x": 603862.2104,
+    "y": 4785893.0714,
+    "lat": 43.21867996274485,
+    "lng": -79.72121001962739
+  },
+  {
+    "id": "238",
+    "type": "Cushion",
+    "location": "201 - 202 Margaret Ave",
+    "x": 603909.4372,
+    "y": 4786050.5351,
+    "lat": 43.22009102831865,
+    "lng": -79.72059904420111
+  },
+  {
+    "id": "239",
+    "type": "Cushion",
+    "location": "251 - 252 Margaret Ave",
+    "x": 604018.3241,
+    "y": 4786414.0795,
+    "lat": 43.22334883196678,
+    "lng": -79.71919016595538
+  },
+  {
+    "id": "240",
+    "type": "Cushion",
+    "location": "285 - 288 Margaret Ave",
+    "x": 604094.3721,
+    "y": 4786668.6262,
+    "lat": 43.225629896562936,
+    "lng": -79.71820597496168
+  },
+  {
+    "id": "241",
+    "type": "Cushion",
+    "location": "265 Lewis Rd",
+    "x": 608816.5294,
+    "y": 4785178.9206,
+    "lat": 43.21155293468078,
+    "lng": -79.66036734895299
+  },
+  {
+    "id": "242",
+    "type": "Cushion",
+    "location": "286 - 292 Lewis Rd",
+    "x": 608860.4591,
+    "y": 4785329.7041,
+    "lat": 43.21290399767601,
+    "lng": -79.65979695106769
+  },
+  {
+    "id": "243",
+    "type": "Cushion",
+    "location": "1 1/2 Carpenter Ave",
+    "x": 602747.6539,
+    "y": 4787078.1435,
+    "lat": 43.22950117574885,
+    "lng": -79.73470889550084
+  },
+  {
+    "id": "244",
+    "type": "Cushion",
+    "location": "280 - 284 Celtic Dr",
+    "x": 602659.2368,
+    "y": 4787109.1005,
+    "lat": 43.22979190345911,
+    "lng": -79.73579169145027
+  },
+  {
+    "id": "245",
+    "type": "Cushion",
+    "location": "19 Darlington Dr",
+    "x": 588994.6757,
+    "y": 4787020.0732,
+    "lat": 43.23072609857254,
+    "lng": -79.90404726753901
+  },
+  {
+    "id": "246",
+    "type": "Cushion",
+    "location": "35 Darlington Dr",
+    "x": 588877.9933,
+    "y": 4787060.4404,
+    "lat": 43.23110328347637,
+    "lng": -79.90547742802073
+  },
+  {
+    "id": "247",
+    "type": "Cushion",
+    "location": "174 - 173 East 31st St",
+    "x": 593715.5903,
+    "y": 4787341.7367,
+    "lat": 43.23305032007228,
+    "lng": -79.84586671470102
+  },
+  {
+    "id": "248",
+    "type": "Cushion",
+    "location": "227 - 229 Fellowes Cres",
+    "x": 590161.1344,
+    "y": 4800148.0795,
+    "lat": 43.3487781903759,
+    "lng": -79.88753293551504
+  },
+  {
+    "id": "249",
+    "type": "Cushion",
+    "location": "199 Herkimer St",
+    "x": 590673.4747,
+    "y": 4789361.6395,
+    "lat": 43.251607298861956,
+    "lng": -79.88299188580132
+  },
+  {
+    "id": "250",
+    "type": "Cushion",
+    "location": "265 - 267 Herkimer St",
+    "x": 590452.3506,
+    "y": 4789425.9687,
+    "lat": 43.252213018263554,
+    "lng": -79.88570485163493
+  },
+  {
+    "id": "251",
+    "type": "Cushion",
+    "location": "10 - 13 Kinnell St",
+    "x": 590688.9281,
+    "y": 4791071.943,
+    "lat": 43.26700324351675,
+    "lng": -79.88251995732715
+  },
+  {
+    "id": "252",
+    "type": "Cushion",
+    "location": "153 - 154 Florence St",
+    "x": 590441.2385,
+    "y": 4790856.9066,
+    "lat": 43.265097051096824,
+    "lng": -79.88560677189075
+  },
+  {
+    "id": "253",
+    "type": "Cushion",
+    "location": "132 - 133 Florence St",
+    "x": 590504.3736,
+    "y": 4790833.4874,
+    "lat": 43.264878628239,
+    "lng": -79.88483283138763
+  },
+  {
+    "id": "254",
+    "type": "Cushion",
+    "location": "48 - 45 Head St",
+    "x": 590368.2611,
+    "y": 4790629.8321,
+    "lat": 43.263061462054644,
+    "lng": -79.8865430772954
+  },
+  {
+    "id": "255",
+    "type": "Cushion",
+    "location": "22 - 27 Head St",
+    "x": 590422.7396,
+    "y": 4790608.5184,
+    "lat": 43.262863040252185,
+    "lng": -79.88587545388445
+  },
+  {
+    "id": "256",
+    "type": "Cushion",
+    "location": "39_41 Tom St",
+    "x": 590478.2968,
+    "y": 4790950.3137,
+    "lat": 43.26593354283245,
+    "lng": -79.88513488581944
+  },
+  {
+    "id": "257",
+    "type": "Cushion",
+    "location": "19_21 - 18 Tom St",
+    "x": 590538.8747,
+    "y": 4790928.4591,
+    "lat": 43.265729510026155,
+    "lng": -79.8843921828765
+  },
+  {
+    "id": "258",
+    "type": "Cushion",
+    "location": "84_88 - 85_87 Garfield Ave S",
+    "x": 594294.9691,
+    "y": 4789071.7215,
+    "lat": 43.24855292403581,
+    "lng": -79.83843706169719
+  },
+  {
+    "id": "259",
+    "type": "Cushion",
+    "location": "22_26 - 25_27 Fairholt Rd S",
+    "x": 594440.636,
+    "y": 4789273.1168,
+    "lat": 43.25034782039134,
+    "lng": -79.83660852855522
+  },
+  {
+    "id": "260",
+    "type": "Cushion",
+    "location": "42_48 - 47_49 Fairholt Rd S",
+    "x": 594417.415,
+    "y": 4789194.5173,
+    "lat": 43.24964311048158,
+    "lng": -79.83690799121473
+  },
+  {
+    "id": "261",
+    "type": "Cushion",
+    "location": "107 - 108 Fairholt Rd S",
+    "x": 594360.6894,
+    "y": 4789011.6946,
+    "lat": 43.24800428881308,
+    "lng": -79.83763793366892
+  },
+  {
+    "id": "262",
+    "type": "Cushion",
+    "location": "25_27 - 24_26 Barnesdale Ave S",
+    "x": 594523.2187,
+    "y": 4789273.8117,
+    "lat": 43.25034372668761,
+    "lng": -79.835591298933
+  },
+  {
+    "id": "263",
+    "type": "Cushion",
+    "location": "70 - 71 Connaught Ave S",
+    "x": 594954.6077,
+    "y": 4788814.0167,
+    "lat": 43.24615006439826,
+    "lng": -79.83035742416689
+  },
+  {
+    "id": "264",
+    "type": "Cushion",
+    "location": "17 - 22 Connaught Ave S",
+    "x": 595010.9648,
+    "y": 4789000.1832,
+    "lat": 43.247818988173286,
+    "lng": -79.82963127262595
+  },
+  {
+    "id": "265",
+    "type": "Cushion",
+    "location": "84 - 85 Hannon Cres",
+    "x": 596503.2071,
+    "y": 4781441.5292,
+    "lat": 43.17958031120369,
+    "lng": -79.81257448475303
+  },
+  {
+    "id": "266",
+    "type": "Cushion",
+    "location": "117 - 121 Hannon Cres",
+    "x": 596544.4425,
+    "y": 4781391.9548,
+    "lat": 43.17912873283085,
+    "lng": -79.81207586344428
+  },
+  {
+    "id": "267",
+    "type": "Cushion",
+    "location": "Beside of property 102 Juniper Dr",
+    "x": 604561.7001,
+    "y": 4785700.0407,
+    "lat": 43.216845625460934,
+    "lng": -79.71263633254003
+  },
+  {
+    "id": "268",
+    "type": "Cushion",
+    "location": "193_197 Dewitt Rd",
+    "x": 604584.8137,
+    "y": 4785779.5513,
+    "lat": 43.21755821484637,
+    "lng": -79.71233676431211
+  },
+  {
+    "id": "269",
+    "type": "Cushion",
+    "location": "207_209 Dewitt Rd",
+    "x": 604613.7464,
+    "y": 4785880.7639,
+    "lat": 43.21846536823442,
+    "lng": -79.71196144721502
+  },
+  {
+    "id": "270",
+    "type": "Cushion",
+    "location": "251_253 Dewitt Rd",
+    "x": 604703.8493,
+    "y": 4786195.022,
+    "lat": 43.22128196960007,
+    "lng": -79.71079273107408
+  },
+  {
+    "id": "271",
+    "type": "Cushion",
+    "location": "273 - 274 Dewitt Rd",
+    "x": 604746.8608,
+    "y": 4786344.841,
+    "lat": 43.22262473955666,
+    "lng": -79.71023483110089
+  },
+  {
+    "id": "272",
+    "type": "Cushion",
+    "location": "285 - 288 Dewitt Rd",
+    "x": 604775.3586,
+    "y": 4786442.1424,
+    "lat": 43.22349673446423,
+    "lng": -79.7098655464583
+  },
+  {
+    "id": "273",
+    "type": "Cushion",
+    "location": "2942 Homestead Dr",
+    "x": 588540.3034,
+    "y": 4779530.1059,
+    "lat": 43.16334628252798,
+    "lng": -79.91084192029152
+  },
+  {
+    "id": "274",
+    "type": "Cushion",
+    "location": "2990 Homestead Dr",
+    "x": 588472.6207,
+    "y": 4779366.6961,
+    "lat": 43.16188299242968,
+    "lng": -79.91170047361128
+  },
+  {
+    "id": "275",
+    "type": "Cushion",
+    "location": "3026 Homestead Dr",
+    "x": 588415.402,
+    "y": 4779227.5456,
+    "lat": 43.160636883370316,
+    "lng": -79.91242641935936
+  },
+  {
+    "id": "276",
+    "type": "Cushion",
+    "location": "3091 Homestead Dr",
+    "x": 588335.8975,
+    "y": 4779014.0458,
+    "lat": 43.158723989650724,
+    "lng": -79.91343827538255
+  },
+  {
+    "id": "277",
+    "type": "Cushion",
+    "location": "3136 Homestead Dr",
+    "x": 588277.7633,
+    "y": 4778847.7636,
+    "lat": 43.15723370223677,
+    "lng": -79.914179731772
+  },
+  {
+    "id": "278",
+    "type": "Cushion",
+    "location": "3229 Homestead Dr",
+    "x": 588210.0124,
+    "y": 4778637.9894,
+    "lat": 43.155352962473856,
+    "lng": -79.91504634175134
+  },
+  {
+    "id": "279",
+    "type": "Cushion",
+    "location": "3266 Homestead Dr",
+    "x": 588168.2268,
+    "y": 4778504.2495,
+    "lat": 43.154153743335605,
+    "lng": -79.91558149371221
+  },
+  {
+    "id": "280",
+    "type": "Cushion",
+    "location": "3314 Homestead Dr",
+    "x": 588114.6811,
+    "y": 4778326.7063,
+    "lat": 43.15256151977926,
+    "lng": -79.9162682077612
+  },
+  {
+    "id": "281",
+    "type": "Cushion",
+    "location": "3400_3414 Homestead Dr",
+    "x": 588002.115,
+    "y": 4777999.4366,
+    "lat": 43.14962813525274,
+    "lng": -79.91770442600449
+  },
+  {
+    "id": "282",
+    "type": "Cushion",
+    "location": "28 Fairleigh Ave",
+    "x": 593924.7584,
+    "y": 4789279.3017,
+    "lat": 43.250467950459154,
+    "lng": -79.84296117188146
+  },
+  {
+    "id": "283",
+    "type": "Cushion",
+    "location": "45 William St",
+    "x": 593644.4981,
+    "y": 4790401.6488,
+    "lat": 43.260607147076286,
+    "lng": -79.84622217674703
+  },
+  {
+    "id": "284",
+    "type": "Cushion",
+    "location": "27 Broker Drive",
+    "x": 595086.4046,
+    "y": 4786060.9387,
+    "lat": 43.22134794216757,
+    "lng": -79.82920892883551
+  },
+  {
+    "id": "285",
+    "type": "Cushion",
+    "location": "65 Broker Drive",
+    "x": 595250.449,
+    "y": 4786031.3221,
+    "lat": 43.221060620767,
+    "lng": -79.8271945896913
+  },
+  {
+    "id": "286",
+    "type": "Cushion",
+    "location": "106 Broker Drive",
+    "x": 595446.9581,
+    "y": 4785969.8174,
+    "lat": 43.22048207518783,
+    "lng": -79.82478613593284
+  },
+  {
+    "id": "287",
+    "type": "Cushion",
+    "location": "124 Broker Drive",
+    "x": 595533.2216,
+    "y": 4785942.5657,
+    "lat": 43.22022581737142,
+    "lng": -79.82372893208138
+  },
+  {
+    "id": "288",
+    "type": "Cushion",
+    "location": "170 Broker Drive",
+    "x": 595725.7415,
+    "y": 4785856.2601,
+    "lat": 43.219424427091504,
+    "lng": -79.82137395384488
+  },
+  {
+    "id": "289",
+    "type": "Cushion",
+    "location": "130 Bold Street - In front of #130/#132",
+    "x": 591193.9264,
+    "y": 4789641.7057,
+    "lat": 43.254065943143885,
+    "lng": -79.87653528487867
+  },
+  {
+    "id": "290",
+    "type": "Cushion",
+    "location": "30 Cline Avenue South",
+    "x": 588450.6464,
+    "y": 4790199.1537,
+    "lat": 43.25941157255076,
+    "lng": -79.91023556339375
+  },
+  {
+    "id": "291",
+    "type": "Cushion",
+    "location": "63 Birchview Drive",
+    "x": 593866.9884,
+    "y": 4784956.37,
+    "lat": 43.21155626865952,
+    "lng": -79.84440830693501
+  },
+  {
+    "id": "292",
+    "type": "Cushion",
+    "location": "107 Birchview Drive",
+    "x": 593956.0421,
+    "y": 4784808.5669,
+    "lat": 43.21021453084969,
+    "lng": -79.84333733944844
+  },
+  {
+    "id": "293",
+    "type": "Cushion",
+    "location": "37/38 Prospect Street South",
+    "x": 594805.0897,
+    "y": 4789088.8562,
+    "lat": 43.24864321124679,
+    "lng": -79.83215152262427
+  },
+  {
+    "id": "294",
+    "type": "Cushion",
+    "location": "74-76/73-75 Delmar Drive",
+    "x": 590014.4816,
+    "y": 4787778.6352,
+    "lat": 43.2374344632769,
+    "lng": -79.89136703692427
+  },
+  {
+    "id": "295",
+    "type": "Cushion",
+    "location": "97/100 Prospect Street South",
+    "x": 594748.392,
+    "y": 4788899.2436,
+    "lat": 43.246943289176954,
+    "lng": -79.83288240305882
+  },
+  {
+    "id": "296",
+    "type": "Cushion",
+    "location": "25/26 Delmar Drive",
+    "x": 589842.291,
+    "y": 4787665.8743,
+    "lat": 43.23643980393942,
+    "lng": -79.89350574722825
+  },
+  {
+    "id": "297",
+    "type": "Cushion",
+    "location": "97/98 Spadina Avenue",
+    "x": 594589.8733,
+    "y": 4788963.8323,
+    "lat": 43.247544674113264,
+    "lng": -79.83482356685995
+  },
+  {
+    "id": "298",
+    "type": "Cushion",
+    "location": "162-159/167 Prospect Street South",
+    "x": 594655.0467,
+    "y": 4788713.7917,
+    "lat": 43.245285420959476,
+    "lng": -79.83406385099748
+  },
+  {
+    "id": "299",
+    "type": "Cushion",
+    "location": "29 Cluny Avenue",
+    "x": 596001.8152,
+    "y": 4789568.674,
+    "lat": 43.25281146767072,
+    "lng": -79.8173292316459
+  },
+  {
+    "id": "300",
+    "type": "Cushion",
+    "location": "36 Oak Avenue",
+    "x": 593264.6813,
+    "y": 4790094.2211,
+    "lat": 43.257886516733876,
+    "lng": -79.85095296314455
+  },
+  {
+    "id": "301",
+    "type": "Cushion",
+    "location": "South Bend Road West (20.0m W of West 3rd Street)",
+    "x": 590647.7869,
+    "y": 4787246.3315,
+    "lat": 43.232566280172875,
+    "lng": -79.88365608548153
+  },
+  {
+    "id": "302",
+    "type": "Cushion",
+    "location": "26-24/25-23 Holton Avenue North",
+    "x": 594039.709,
+    "y": 4789469.0939,
+    "lat": 43.252162290897175,
+    "lng": -79.84151301449674
+  },
+  {
+    "id": "303",
+    "type": "Cushion",
+    "location": "129/130-126 Lynbrook Drive",
+    "x": 589472.9283,
+    "y": 4786914.8463,
+    "lat": 43.229722164528276,
+    "lng": -79.89817580900855
+  },
+  {
+    "id": "304",
+    "type": "Cushion",
+    "location": "122 Balsam Avenue North",
+    "x": 595080.7259,
+    "y": 4789486.3023,
+    "lat": 43.252186632115816,
+    "lng": -79.82868824151574
+  },
+  {
+    "id": "305",
+    "type": "Cushion",
+    "location": "139 Mountbatten Drive",
+    "x": 590039.2889,
+    "y": 4786304.5772,
+    "lat": 43.22416050393005,
+    "lng": -79.89130216865031
+  },
+  {
+    "id": "306",
+    "type": "Cushion",
+    "location": "48 Balsam Avenue North",
+    "x": 595043.4458,
+    "y": 4789361.4397,
+    "lat": 43.25106721907202,
+    "lng": -79.8291689423283
+  },
+  {
+    "id": "307",
+    "type": "Cushion",
+    "location": "99/102 Mountbatten Drive",
+    "x": 590092.8452,
+    "y": 4786470.3645,
+    "lat": 43.225646701811804,
+    "lng": -79.89061575598927
+  },
+  {
+    "id": "308",
+    "type": "Cushion",
+    "location": "97-99/100-98 Barnesdale Avenue North",
+    "x": 594673.796,
+    "y": 4789755.9264,
+    "lat": 43.25466522530494,
+    "lng": -79.83365391387946
+  },
+  {
+    "id": "309",
+    "type": "Cushion",
+    "location": "50 Mountbatten Drive",
+    "x": 590148.7088,
+    "y": 4786663.134,
+    "lat": 43.227375540929195,
+    "lng": -79.88989649346692
+  },
+  {
+    "id": "310",
+    "type": "Cushion",
+    "location": "140/141 Ridge Street",
+    "x": 590825.2529,
+    "y": 4786110.4375,
+    "lat": 43.2223184658318,
+    "lng": -79.88165796234227
+  },
+  {
+    "id": "311",
+    "type": "Cushion",
+    "location": "35/36 Dalkeith Avenue",
+    "x": 596037.1202,
+    "y": 4789699.929,
+    "lat": 43.25398862883584,
+    "lng": -79.81687151349065
+  },
+  {
+    "id": "312",
+    "type": "Cushion",
+    "location": "201/202 Ridge Street",
+    "x": 590746.5494,
+    "y": 4785835.7866,
+    "lat": 43.21985524524722,
+    "lng": -79.88267202714503
+  },
+  {
+    "id": "313",
+    "type": "Cushion",
+    "location": "85 Belmont Avenue",
+    "x": 595495.9643,
+    "y": 4788873.5241,
+    "lat": 43.24661742781474,
+    "lng": -79.82368010533084
+  },
+  {
+    "id": "314",
+    "type": "Cushion",
+    "location": "104/103 Malton Drive",
+    "x": 589330.2178,
+    "y": 4783786.9449,
+    "lat": 43.201578304885416,
+    "lng": -79.90043906071092
+  },
+  {
+    "id": "315",
+    "type": "Cushion",
+    "location": "203 Glendale Avenue North",
+    "x": 595483.0102,
+    "y": 4789368.3415,
+    "lat": 43.25107380881014,
+    "lng": -79.82375391162911
+  },
+  {
+    "id": "316",
+    "type": "Cushion",
+    "location": "131 Malton Drive",
+    "x": 589196.7276,
+    "y": 4783814.6462,
+    "lat": 43.20184348205412,
+    "lng": -79.90207741594942
+  },
+  {
+    "id": "317",
+    "type": "Cushion",
+    "location": "237 Glendale Avenue North",
+    "x": 595523.0706,
+    "y": 4789508.257,
+    "lat": 43.25232836372399,
+    "lng": -79.82323625873464
+  },
+  {
+    "id": "318",
+    "type": "Cushion",
+    "location": "50 Christie Street",
+    "x": 589503.6336,
+    "y": 4783796.8129,
+    "lat": 43.20164661374627,
+    "lng": -79.89830328249522
+  },
+  {
+    "id": "319",
+    "type": "Cushion",
+    "location": "109/112 Eastbourne Avenue",
+    "x": 593893.8948,
+    "y": 4788677.1236,
+    "lat": 43.24505046924314,
+    "lng": -79.843443886235
+  },
+  {
+    "id": "320",
+    "type": "Cushion",
+    "location": "63-65 Christie Street",
+    "x": 589464.2129,
+    "y": 4783667.1852,
+    "lat": 43.200484232948824,
+    "lng": -79.89880941409827
+  },
+  {
+    "id": "321",
+    "type": "Cushion",
+    "location": "36-40/37-41 Marion Avenue South",
+    "x": 588968.0546,
+    "y": 4790393.8734,
+    "lat": 43.2611037369821,
+    "lng": -79.90383047565771
+  },
+  {
+    "id": "322",
+    "type": "Cushion",
+    "location": "100/101-95 Springside Drive",
+    "x": 590267.6891,
+    "y": 4783314.7454,
+    "lat": 43.19721557735216,
+    "lng": -79.88897903878801
+  },
+  {
+    "id": "323",
+    "type": "Cushion",
+    "location": "199/201 Dicenzo Dr",
+    "x": 590313.0582,
+    "y": 4784448.1736,
+    "lat": 43.20741449044084,
+    "lng": -79.88823543774525
+  },
+  {
+    "id": "324",
+    "type": "Cushion",
+    "location": "99/95 Dicenzo Dr",
+    "x": 590545.425,
+    "y": 4784518.227,
+    "lat": 43.208017353961644,
+    "lng": -79.88536401931853
+  },
+  {
+    "id": "325",
+    "type": "Cushion",
+    "location": "82/99 Gertrude Street",
+    "x": 595801.6207,
+    "y": 4790194.5658,
+    "lat": 43.25847169806298,
+    "lng": -79.81968612638659
+  },
+  {
+    "id": "326",
+    "type": "Cushion",
+    "location": "20/25-27 Gertrude Street",
+    "x": 595571.0952,
+    "y": 4790265.6556,
+    "lat": 43.259140971049725,
+    "lng": -79.82251336838885
+  },
+  {
+    "id": "327",
+    "type": "Cushion",
+    "location": "248 - 249 Seneca Ave",
+    "x": 589919.86,
+    "y": 4782645.0299,
+    "lat": 43.1912275522549,
+    "lng": -79.89336832540519
+  },
+  {
+    "id": "328",
+    "type": "Cushion",
+    "location": "221 - 222 Seneca Ave",
+    "x": 589966.1119,
+    "y": 4782787.4044,
+    "lat": 43.192503857733186,
+    "lng": -79.89277603940451
+  },
+  {
+    "id": "329",
+    "type": "Cushion",
+    "location": "191 - 192 Seneca Ave",
+    "x": 590007.9641,
+    "y": 4782918.6733,
+    "lat": 43.193680699054475,
+    "lng": -79.8922396757498
+  },
+  {
+    "id": "330",
+    "type": "Cushion",
+    "location": "Old Dundas Road 35m north of Milcreek Court",
+    "x": 583333.6907,
+    "y": 4787359.5472,
+    "lat": 43.234429062001325,
+    "lng": -79.97369860562605
+  },
+  {
+    "id": "331",
+    "type": "Cushion",
+    "location": "97 Old Ancaster Rd",
+    "x": 584856.7912,
+    "y": 4790018.5635,
+    "lat": 43.258198910673784,
+    "lng": -79.95453442775366
+  },
+  {
+    "id": "332",
+    "type": "Cushion",
+    "location": "106 Old Ancaster Rd",
+    "x": 584788.8129,
+    "y": 4789915.2939,
+    "lat": 43.25727680614545,
+    "lng": -79.95538770327421
+  },
+  {
+    "id": "333",
+    "type": "Cushion",
+    "location": "116 Old Anacster Rd",
+    "x": 584740.3429,
+    "y": 4789839.7162,
+    "lat": 43.25660181716108,
+    "lng": -79.95599639045383
+  },
+  {
+    "id": "334",
+    "type": "Cushion",
+    "location": "151 Old Ancaster Rd",
+    "x": 584519.9648,
+    "y": 4789602.155,
+    "lat": 43.25448775184413,
+    "lng": -79.958747460951
+  },
+  {
+    "id": "335",
+    "type": "Cushion",
+    "location": "169 Old Ancaster Rd",
+    "x": 584416.1015,
+    "y": 4789501.7998,
+    "lat": 43.253595872602375,
+    "lng": -79.96004218495783
+  },
+  {
+    "id": "336",
+    "type": "Cushion",
+    "location": "38 - 38_39 Greig St",
+    "x": 591152.6422,
+    "y": 4790912.582,
+    "lat": 43.26551256884796,
+    "lng": -79.87683347154186
+  },
+  {
+    "id": "337",
+    "type": "Cushion",
+    "location": "29_31 - 36_38 Lamoreaux St",
+    "x": 590436.7024,
+    "y": 4790728.8606,
+    "lat": 43.26394480168576,
+    "lng": -79.88568368331208
+  },
+  {
+    "id": "338",
+    "type": "Cushion",
+    "location": "135 - 134_138 Kent St",
+    "x": 590439.6689,
+    "y": 4788973.8171,
+    "lat": 43.248143823528636,
+    "lng": -79.88593525557104
+  },
+  {
+    "id": "339",
+    "type": "Cushion",
+    "location": "86 - 89 Dromore Cres",
+    "x": 588418.2774,
+    "y": 4790588.5014,
+    "lat": 43.26292068659426,
+    "lng": -79.91057179256823
+  },
+  {
+    "id": "340",
+    "type": "Cushion",
+    "location": "117 - 118 Dromore Cres",
+    "x": 588481.07,
+    "y": 4790656.4764,
+    "lat": 43.26352529795038,
+    "lng": -79.9097873218821
+  },
+  {
+    "id": "341",
+    "type": "Cushion",
+    "location": "82 - 85_89 Bowman St",
+    "x": 587828.3477,
+    "y": 4789749.5274,
+    "lat": 43.255436331832755,
+    "lng": -79.9179729936394
+  },
+  {
+    "id": "342",
+    "type": "Cushion",
+    "location": "32 Bowman St",
+    "x": 587880.3589,
+    "y": 4789911.8979,
+    "lat": 43.25689210341917,
+    "lng": -79.91730643710572
+  },
+  {
+    "id": "343",
+    "type": "Cushion",
+    "location": "162 - 169 Paradise Rd N",
+    "x": 589564.5712,
+    "y": 4791158.3752,
+    "lat": 43.26791588710415,
+    "lng": -79.89635782272228
+  },
+  {
+    "id": "344",
+    "type": "Cushion",
+    "location": "97 - 96_98 Paradise Rd N",
+    "x": 589520.7567,
+    "y": 4791014.0118,
+    "lat": 43.26662139118235,
+    "lng": -79.89692109246498
+  },
+  {
+    "id": "345",
+    "type": "Cushion",
+    "location": "165 - 166 Bond St N",
+    "x": 589316.9275,
+    "y": 4791218.282,
+    "lat": 43.268484626616036,
+    "lng": -79.89939909279285
+  },
+  {
+    "id": "346",
+    "type": "Cushion",
+    "location": "109 - 112 Bond St N",
+    "x": 589260.803,
+    "y": 4791032.9658,
+    "lat": 43.26682287534529,
+    "lng": -79.90012060139263
+  },
+  {
+    "id": "347",
+    "type": "Cushion",
+    "location": "12_14 - 9 Cumberland Ave",
+    "x": 593293.5208,
+    "y": 4788744.957,
+    "lat": 43.245735687478856,
+    "lng": -79.85082616385701
+  },
+  {
+    "id": "348",
+    "type": "Cushion",
+    "location": "31_33 - 34_36 St Matthews Ave",
+    "x": 593495.1388,
+    "y": 4790430.5404,
+    "lat": 43.26088579853682,
+    "lng": -79.8480571375425
+  },
+  {
+    "id": "349",
+    "type": "Cushion",
+    "location": "29_31 - 34 Cheever St",
+    "x": 593567.071,
+    "y": 4790400.123,
+    "lat": 43.26060302762365,
+    "lng": -79.84717621247496
+  },
+  {
+    "id": "350",
+    "type": "Cushion",
+    "location": "173_175 - 186 Balsam Ave S",
+    "x": 594755.7733,
+    "y": 4788489.6051,
+    "lat": 43.24325445513876,
+    "lng": -79.83286191593815
+  },
+  {
+    "id": "351",
+    "type": "Cushion",
+    "location": "171_173 - 172 East Ave N",
+    "x": 593083.5538,
+    "y": 4790106.7421,
+    "lat": 43.25802163346557,
+    "lng": -79.85318195001034
+  },
+  {
+    "id": "352",
+    "type": "Cushion",
+    "location": "148_150 - 147_149 Kensington Ave N",
+    "x": 595627.628,
+    "y": 4789022.2497,
+    "lat": 43.247939686362535,
+    "lng": -79.82203280266388
+  },
+  {
+    "id": "353",
+    "type": "Cushion",
+    "location": "49 Owen Place",
+    "x": 599739.5161,
+    "y": 4786211.2885,
+    "lat": 43.22210085860212,
+    "lng": -79.77190098238991
+  },
+  {
+    "id": "354",
+    "type": "Cushion",
+    "location": "226 Kenora Ave",
+    "x": 600180.1719,
+    "y": 4787782.9932,
+    "lat": 43.23619197653909,
+    "lng": -79.76619097989223
+  },
+  {
+    "id": "355",
+    "type": "Cushion",
+    "location": "49_51 - 46_54 Hannon Dr",
+    "x": 596416.0837,
+    "y": 4781480.2023,
+    "lat": 43.17993960019587,
+    "lng": -79.8136395290817
+  },
+  {
+    "id": "356",
+    "type": "Cushion",
+    "location": "239 - 238 First Rd W",
+    "x": 599129.782,
+    "y": 4782787.1561,
+    "lat": 43.19135470243653,
+    "lng": -79.78002157558619
+  },
+  {
+    "id": "357",
+    "type": "Cushion",
+    "location": "56 Barton St",
+    "x": 589694.5113,
+    "y": 4798200.8105,
+    "lat": 43.33130303121202,
+    "lng": -79.89360778900732
+  },
+  {
+    "id": "358",
+    "type": "Cushion",
+    "location": "12 Riley St",
+    "x": 588781.5807,
+    "y": 4797600.776,
+    "lat": 43.32600933576348,
+    "lng": -79.90496392411833
+  },
+  {
+    "id": "359",
+    "type": "Cushion",
+    "location": "47_51 - 48_52 Forest Ridge Ave",
+    "x": 590791.2562,
+    "y": 4800015.9793,
+    "lat": 43.34751303453618,
+    "lng": -79.87978140843359
+  },
+  {
+    "id": "360",
+    "type": "Cushion",
+    "location": "219 Napier St",
+    "x": 590748.2799,
+    "y": 4790546.656,
+    "lat": 43.262266962260476,
+    "lng": -79.88187532002668
+  },
+  {
+    "id": "361",
+    "type": "Cushion",
+    "location": "186 - 187 Napier St",
+    "x": 590856.0916,
+    "y": 4790499.337,
+    "lat": 43.26182796059955,
+    "lng": -79.88055500899554
+  },
+  {
+    "id": "362",
+    "type": "Cushion",
+    "location": "Napier St Approx. 34 m east of 158 Napier St",
+    "x": 590966.7105,
+    "y": 4790450.7187,
+    "lat": 43.261376907486294,
+    "lng": -79.87920035080451
+  },
+  {
+    "id": "363",
+    "type": "Cushion",
+    "location": "88 - 89 Melbourne St",
+    "x": 590143.9581,
+    "y": 4789847.1418,
+    "lat": 43.25604177824673,
+    "lng": -79.88943437152102
+  },
+  {
+    "id": "364",
+    "type": "Cushion",
+    "location": "20 Hill St",
+    "x": 590172.3166,
+    "y": 4789935.8911,
+    "lat": 43.256837395176085,
+    "lng": -79.88907053492609
+  },
+  {
+    "id": "365",
+    "type": "Cushion",
+    "location": "18_20 - 21 Newton Ave",
+    "x": 588705.1911,
+    "y": 4790333.3058,
+    "lat": 43.26058943176393,
+    "lng": -79.90707837540843
+  },
+  {
+    "id": "366",
+    "type": "Cushion",
+    "location": "184_188 - 189 Haddon Ave S",
+    "x": 588207.9442,
+    "y": 4789700.7337,
+    "lat": 43.25495271201411,
+    "lng": -79.91330507918903
+  },
+  {
+    "id": "367",
+    "type": "Cushion",
+    "location": "218 - 223 Haddon Ave S",
+    "x": 588154.7114,
+    "y": 4789658.9543,
+    "lat": 43.25458279688164,
+    "lng": -79.91396746044141
+  },
+  {
+    "id": "368",
+    "type": "Cushion",
+    "location": "110_114 Lower Horning Rd",
+    "x": 586491.6923,
+    "y": 4789223.5982,
+    "lat": 43.25085588801189,
+    "lng": -79.93452005431347
+  },
+  {
+    "id": "369",
+    "type": "Cushion",
+    "location": "135 lower Horning Rd",
+    "x": 586519.3483,
+    "y": 4789115.9882,
+    "lat": 43.24988388722995,
+    "lng": -79.9341963166832
+  },
+  {
+    "id": "370",
+    "type": "Cushion",
+    "location": "155 - 159 Lower Horning Rd",
+    "x": 586538.4743,
+    "y": 4789040.3162,
+    "lat": 43.249200406791644,
+    "lng": -79.93397263266857
+  },
+  {
+    "id": "371",
+    "type": "Cushion",
+    "location": "374 Bay St N",
+    "x": 591960.2973,
+    "y": 4791303.4598,
+    "lat": 43.26893346608838,
+    "lng": -79.86681830644591
+  },
+  {
+    "id": "372",
+    "type": "Cushion",
+    "location": "16 Picton St E",
+    "x": 592291.8514,
+    "y": 4791384.8701,
+    "lat": 43.26962585130668,
+    "lng": -79.86271986825263
+  },
+  {
+    "id": "373",
+    "type": "Cushion",
+    "location": "22 - 25 Frederick Ave",
+    "x": 596410.0801,
+    "y": 4788800.4132,
+    "lat": 43.24584289683146,
+    "lng": -79.81243517033528
+  },
+  {
+    "id": "374",
+    "type": "Cushion",
+    "location": "6 - 7 Frederick Ave",
+    "x": 596390.87,
+    "y": 4788734.8659,
+    "lat": 43.24525524587095,
+    "lng": -79.8126832100076
+  },
+  {
+    "id": "375",
+    "type": "Cushion",
+    "location": "13 - 14 Meadowvale Ave",
+    "x": 600064.759,
+    "y": 4786432.4964,
+    "lat": 43.22404925924897,
+    "lng": -79.7678570413763
+  },
+  {
+    "id": "376",
+    "type": "Cushion",
+    "location": "86 Summercrest Dr",
+    "x": 599253.1582,
+    "y": 4785083.6938,
+    "lat": 43.21201359144394,
+    "lng": -79.778090942388
+  },
+  {
+    "id": "377",
+    "type": "Cushion",
+    "location": "19 Summercrest Dr",
+    "x": 599236.3011,
+    "y": 4784951.3647,
+    "lat": 43.210824487643514,
+    "lng": -79.77832220649546
+  },
+  {
+    "id": "378",
+    "type": "Cushion",
+    "location": "205 - 206_208 Nugent Dr",
+    "x": 599614.1736,
+    "y": 4787785.8426,
+    "lat": 43.236292591286414,
+    "lng": -79.77315967219155
+  },
+  {
+    "id": "379",
+    "type": "Cushion",
+    "location": "78_82 Dulgaren St",
+    "x": 592675.7941,
+    "y": 4783610.2,
+    "lat": 43.19958390770698,
+    "lng": -79.85929604342101
+  },
+  {
+    "id": "380",
+    "type": "Cushion",
+    "location": "31_33 - 34 Huntington Ave",
+    "x": 595198.7937,
+    "y": 4786131.8201,
+    "lat": 43.2219719074713,
+    "lng": -79.82781314797998
+  },
+  {
+    "id": "381",
+    "type": "Cushion",
+    "location": "28_32 Hester St",
+    "x": 590830.332,
+    "y": 4786371.2085,
+    "lat": 43.22466558071895,
+    "lng": -79.8815525117219
+  },
+  {
+    "id": "382",
+    "type": "Cushion",
+    "location": "Hester St Approx. 15 m west of Manning Ave",
+    "x": 591115.6892,
+    "y": 4786282.9453,
+    "lat": 43.22383654252445,
+    "lng": -79.87805397393718
+  },
+  {
+    "id": "383",
+    "type": "Cushion",
+    "location": "140 - 143 Hester St",
+    "x": 591367.0645,
+    "y": 4786199.0549,
+    "lat": 43.223050881868,
+    "lng": -79.87497315770656
+  },
+  {
+    "id": "384",
+    "type": "Cushion",
+    "location": "80_84 Fletcher Rd",
+    "x": 596980.8028,
+    "y": 4781237.4155,
+    "lat": 43.177681569527834,
+    "lng": -79.80673493481846
+  },
+  {
+    "id": "385",
+    "type": "Cushion",
+    "location": "110_112 Fletcher Rd",
+    "x": 596947.7808,
+    "y": 4781121.9123,
+    "lat": 43.176645947421484,
+    "lng": -79.80716139960306
+  },
+  {
+    "id": "386",
+    "type": "Cushion",
+    "location": "25 - 26 Memorial Ave",
+    "x": 603023.3942,
+    "y": 4785656.9684,
+    "lat": 43.216669404995386,
+    "lng": -79.73157940877819
+  },
+  {
+    "id": "387",
+    "type": "Cushion",
+    "location": "71 - 74 Memorial Ave",
+    "x": 603071.4941,
+    "y": 4785787.5437,
+    "lat": 43.21783834676064,
+    "lng": -79.73096296591405
+  },
+  {
+    "id": "388",
+    "type": "Cushion",
+    "location": "137 - 142 Memorial Ave",
+    "x": 603153.9353,
+    "y": 4785819.5188,
+    "lat": 43.21811494058414,
+    "lng": -79.72994220228897
+  },
+  {
+    "id": "389",
+    "type": "Cushion",
+    "location": "206 Memorial Ave",
+    "x": 603328.8479,
+    "y": 4785785.1398,
+    "lat": 43.21778151657388,
+    "lng": -79.72779558892121
+  },
+  {
+    "id": "390",
+    "type": "Cushion",
+    "location": "608 Grays Rd",
+    "x": 602680.5379,
+    "y": 4788689.0522,
+    "lat": 43.244012549771334,
+    "lng": -79.73523525494886
+  },
+  {
+    "id": "391",
+    "type": "Cushion",
+    "location": "580 Grays Rd",
+    "x": 602648.1958,
+    "y": 4788575.7207,
+    "lat": 43.24299668518771,
+    "lng": -79.73565463537686
+  },
+  {
+    "id": "392",
+    "type": "Cushion",
+    "location": "42 Watercrest Dr",
+    "x": 607788.3136,
+    "y": 4786931.1887,
+    "lat": 43.22747492917215,
+    "lng": -79.67268010432507
+  },
+  {
+    "id": "393",
+    "type": "Cushion",
+    "location": "142 Watercrest Dr",
+    "x": 607738.4061,
+    "y": 4787136.9848,
+    "lat": 43.229334697844095,
+    "lng": -79.67325432186365
+  },
+  {
+    "id": "394",
+    "type": "Cushion",
+    "location": "228 -229 Homebrook Dr",
+    "x": 590235.7405,
+    "y": 4782527.665,
+    "lat": 43.19013323937617,
+    "lng": -79.88950070039539
+  },
+  {
+    "id": "395",
+    "type": "Cushion",
+    "location": "8 Grassplain Dr",
+    "x": 586988.1539,
+    "y": 4783944.3905,
+    "lat": 43.20326923799695,
+    "lng": -79.92923760751957
+  },
+  {
+    "id": "396",
+    "type": "Cushion",
+    "location": "30 - 31 Grassplain Dr",
+    "x": 587153.3009,
+    "y": 4783887.6047,
+    "lat": 43.202738941955594,
+    "lng": -79.92721407340672
+  },
+  {
+    "id": "397",
+    "type": "Cushion",
+    "location": "62 Grassplain Dr",
+    "x": 587353.1501,
+    "y": 4783834.1557,
+    "lat": 43.20223463878752,
+    "lng": -79.92476296904147
+  },
+  {
+    "id": "398",
+    "type": "Cushion",
+    "location": "160 - 157 Orchard Dr",
+    "x": 581475.2229,
+    "y": 4784930.6781,
+    "lat": 43.21276412645952,
+    "lng": -79.99694182538562
+  },
+  {
+    "id": "399",
+    "type": "Cushion",
+    "location": "81 - 82 Orchard Dr",
+    "x": 581405.872,
+    "y": 4785208.6103,
+    "lat": 43.21527393570839,
+    "lng": -79.9977545090094
+  },
+  {
+    "id": "400",
+    "type": "Cushion",
+    "location": "135_125 - 132_126 Algonquin Ave",
+    "x": 584705.6765,
+    "y": 4786847.1125,
+    "lat": 43.22966267196714,
+    "lng": -79.95688324511879
+  },
+  {
+    "id": "401",
+    "type": "Cushion",
+    "location": "158 - 155 Algonquin Ave",
+    "x": 584653.8731,
+    "y": 4786935.9545,
+    "lat": 43.230468351945355,
+    "lng": -79.95750744615708
+  },
+  {
+    "id": "402",
+    "type": "Cushion",
+    "location": "73 Larch Street",
+    "x": 594433.1976,
+    "y": 4785063.8857,
+    "lat": 43.21245360528156,
+    "lng": -79.8374207490676
+  },
+  {
+    "id": "403",
+    "type": "Cushion",
+    "location": "96 Larch Street",
+    "x": 594510.668,
+    "y": 4785040.2092,
+    "lat": 43.21223075296902,
+    "lng": -79.83647124644617
+  },
+  {
+    "id": "404",
+    "type": "Cushion",
+    "location": "231 Larch Street",
+    "x": 594749.1283,
+    "y": 4784973.1769,
+    "lat": 43.21159737630152,
+    "lng": -79.83354764006435
+  },
+  {
+    "id": "405",
+    "type": "Cushion",
+    "location": "19 Moxley Drive",
+    "x": 594990.594,
+    "y": 4785408.6401,
+    "lat": 43.21548745136275,
+    "lng": -79.83050065152274
+  },
+  {
+    "id": "406",
+    "type": "Cushion",
+    "location": "29 Moxley Drive",
+    "x": 594978.4084,
+    "y": 4785345.069,
+    "lat": 43.21491666233452,
+    "lng": -79.83066158371598
+  },
+  {
+    "id": "407",
+    "type": "Cushion",
+    "location": "44 Moxley Drive",
+    "x": 594940.8128,
+    "y": 4785228.5968,
+    "lat": 43.21387280742203,
+    "lng": -79.83114438150724
+  },
+  {
+    "id": "408",
+    "type": "Cushion",
+    "location": "49 Moxley Drive",
+    "x": 594930.5746,
+    "y": 4785181.5534,
+    "lat": 43.213450569155604,
+    "lng": -79.83127849124482
+  },
+  {
+    "id": "409",
+    "type": "Cushion",
+    "location": "Brigade Drive (in front of 189/185/184/190)",
+    "x": 591363.341,
+    "y": 4783830.4397,
+    "lat": 43.20172665036523,
+    "lng": -79.875410934534
+  },
+  {
+    "id": "410",
+    "type": "Cushion",
+    "location": "40 Mount Pleasant Drive",
+    "x": 593542.3906,
+    "y": 4783169.1042,
+    "lat": 43.19550590048129,
+    "lng": -79.848706277086
+  },
+  {
+    "id": "411",
+    "type": "Cushion",
+    "location": "76 Mount Pleasant Drive",
+    "x": 593588.8853,
+    "y": 4783116.7484,
+    "lat": 43.19502878383868,
+    "lng": -79.84814301316612
+  },
+  {
+    "id": "412",
+    "type": "Cushion",
+    "location": "109 Mount Pleasant Drive",
+    "x": 593557.5099,
+    "y": 4783020.7499,
+    "lat": 43.19416839991522,
+    "lng": -79.84854534497336
+  },
+  {
+    "id": "413",
+    "type": "Cushion",
+    "location": "129 Mount Pleasant Drive",
+    "x": 593537.3348,
+    "y": 4782966.1724,
+    "lat": 43.193679539267215,
+    "lng": -79.84880283704061
+  },
+  {
+    "id": "414",
+    "type": "Cushion",
+    "location": "99 Robson Crescent",
+    "x": 593274.5661,
+    "y": 4784522.6795,
+    "lat": 43.207725206956205,
+    "lng": -79.85177340089642
+  },
+  {
+    "id": "415",
+    "type": "Cushion",
+    "location": "7 Moxley Drive",
+    "x": 595019.6993,
+    "y": 4785514.5683,
+    "lat": 43.21643744565499,
+    "lng": -79.83012415515893
+  },
+  {
+    "id": "416",
+    "type": "Cushion",
+    "location": "15 Beacon Avenue",
+    "x": 594959.0298,
+    "y": 4785583.633,
+    "lat": 43.21706686148337,
+    "lng": -79.830859080681
+  },
+  {
+    "id": "417",
+    "type": "Cushion",
+    "location": "49 Beacon Avenue",
+    "x": 595102.1444,
+    "y": 4785540.0392,
+    "lat": 43.21665637312586,
+    "lng": -79.82910491655427
+  },
+  {
+    "id": "418",
+    "type": "Cushion",
+    "location": "131 Gatestone Drive",
+    "x": 598466.8582,
+    "y": 4781634.1299,
+    "lat": 43.181060961391196,
+    "lng": -79.78838365411555
+  },
+  {
+    "id": "419",
+    "type": "Cushion",
+    "location": "141 Gatestone Drive",
+    "x": 598439.4129,
+    "y": 4781572.0336,
+    "lat": 43.18050549704782,
+    "lng": -79.78873234234753
+  },
+  {
+    "id": "420",
+    "type": "Cushion",
+    "location": "25 Bellagio Avenue",
+    "x": 597101.5587,
+    "y": 4781244.6616,
+    "lat": 43.1777313005158,
+    "lng": -79.80524818204628
+  },
+  {
+    "id": "421",
+    "type": "Cushion",
+    "location": "57 Bellagio Avenue",
+    "x": 597177.7868,
+    "y": 4781220.1131,
+    "lat": 43.17750049684045,
+    "lng": -79.80431477325597
+  },
+  {
+    "id": "422",
+    "type": "Cushion",
+    "location": "Bellagio Avenue (between Boulder Cr & Celestial Cres 43.17723815668983, -79.80288217111067)",
+    "x": 597293.7994,
+    "y": 4781188.5299,
+    "lat": 43.17720123299378,
+    "lng": -79.80289320306953
+  },
+  {
+    "id": "423",
+    "type": "Cushion",
+    "location": "27 Keystone Crescent",
+    "x": 597368.1629,
+    "y": 4781043.411,
+    "lat": 43.175885174489245,
+    "lng": -79.80200397154378
+  },
+  {
+    "id": "424",
+    "type": "Cushion",
+    "location": "57 Keystone Crescent",
+    "x": 597341.626,
+    "y": 4780947.4333,
+    "lat": 43.175024520397365,
+    "lng": -79.80234729425516
+  },
+  {
+    "id": "425",
+    "type": "Cushion",
+    "location": "32 Showcase Drive",
+    "x": 597045.9678,
+    "y": 4781007.522,
+    "lat": 43.175603507727416,
+    "lng": -79.80597363878134
+  },
+  {
+    "id": "426",
+    "type": "Cushion",
+    "location": "85 Showcase Drive",
+    "x": 597216.287,
+    "y": 4780959.9813,
+    "lat": 43.17515361908599,
+    "lng": -79.80388688088371
+  },
+  {
+    "id": "427",
+    "type": "Cushion",
+    "location": "9 Rapallo Drive",
+    "x": 594864.7856,
+    "y": 4785246.5281,
+    "lat": 43.21404379925265,
+    "lng": -79.8320771120197
+  },
+  {
+    "id": "428",
+    "type": "Cushion",
+    "location": "19 Rapallo Drive",
+    "x": 594848.9127,
+    "y": 4785197.2349,
+    "lat": 43.21360201319123,
+    "lng": -79.83228095895815
+  },
+  {
+    "id": "429",
+    "type": "Cushion",
+    "location": "127 East 45th Street",
+    "x": 594648.343,
+    "y": 4786567.8307,
+    "lat": 43.22596649451086,
+    "lng": -79.8345147070495
+  },
+  {
+    "id": "430",
+    "type": "Cushion",
+    "location": "160 East 45th Street",
+    "x": 594607.8508,
+    "y": 4786440.4861,
+    "lat": 43.224825105941974,
+    "lng": -79.8350350553311
+  },
+  {
+    "id": "431",
+    "type": "Cushion",
+    "location": "193 East 45th Street",
+    "x": 594557.8624,
+    "y": 4786275.2326,
+    "lat": 43.223343615511865,
+    "lng": -79.83567878632917
+  },
+  {
+    "id": "432",
+    "type": "Cushion",
+    "location": "209 East 45th Street",
+    "x": 594542.0503,
+    "y": 4786221.6064,
+    "lat": 43.22286280671384,
+    "lng": -79.83588263367292
+  },
+  {
+    "id": "433",
+    "type": "Cushion",
+    "location": "232 East 45th Street",
+    "x": 594504.5372,
+    "y": 4786099.074,
+    "lat": 43.221764361299854,
+    "lng": -79.83636543064162
+  },
+  {
+    "id": "434",
+    "type": "Cushion",
+    "location": "22 Organ Crescent",
+    "x": 595503.1369,
+    "y": 4786313.1962,
+    "lat": 43.22356635224025,
+    "lng": -79.82403514088283
+  },
+  {
+    "id": "435",
+    "type": "Cushion",
+    "location": "50 Organ Crescent",
+    "x": 595467.317,
+    "y": 4786195.4593,
+    "lat": 43.22251091843065,
+    "lng": -79.8244964814406
+  },
+  {
+    "id": "436",
+    "type": "Cushion",
+    "location": "73 Organ Crescent",
+    "x": 595525.9485,
+    "y": 4786116.3899,
+    "lat": 43.22179164958789,
+    "lng": -79.82378837859139
+  },
+  {
+    "id": "437",
+    "type": "Cushion",
+    "location": "107 Organ Crescent",
+    "x": 595672.5108,
+    "y": 4786075.0314,
+    "lat": 43.22140073904628,
+    "lng": -79.82199129952289
+  },
+  {
+    "id": "438",
+    "type": "Cushion",
+    "location": "591 Eaglewood Drive",
+    "x": 592801.1725,
+    "y": 4783073.724,
+    "lat": 43.19473862537823,
+    "lng": -79.8578432161462
+  },
+  {
+    "id": "439",
+    "type": "Cushion",
+    "location": "545 Eaglewood Drive",
+    "x": 592940.8907,
+    "y": 4783026.1111,
+    "lat": 43.194292788511675,
+    "lng": -79.85613196774378
+  },
+  {
+    "id": "440",
+    "type": "Cushion",
+    "location": "500 Eaglewood Drive",
+    "x": 593030.2759,
+    "y": 4783056.8722,
+    "lat": 43.19455872668231,
+    "lng": -79.8550268983638
+  },
+  {
+    "id": "441",
+    "type": "Cushion",
+    "location": "262 Homewood Avenue",
+    "x": 589729.8396,
+    "y": 4789473.7465,
+    "lat": 43.25272951015571,
+    "lng": -79.894596153693
+  },
+  {
+    "id": "442",
+    "type": "Cushion",
+    "location": "273 Stanley Avenue",
+    "x": 589779.428,
+    "y": 4789544.2724,
+    "lat": 43.25335855123526,
+    "lng": -79.89397388205596
+  },
+  {
+    "id": "443",
+    "type": "Cushion",
+    "location": "398 Charlton Avenue West",
+    "x": 590076.5069,
+    "y": 4789638.909,
+    "lat": 43.2541751231884,
+    "lng": -79.89029925712572
+  },
+  {
+    "id": "444",
+    "type": "Cushion",
+    "location": "Charlton Avenue West (btwn 350 and 352)",
+    "x": 590242.2265,
+    "y": 4789589.4682,
+    "lat": 43.25371018652408,
+    "lng": -79.88826614312667
+  },
+  {
+    "id": "445",
+    "type": "Cushion",
+    "location": "Beddoe Drive (btwn 41 and 42 Beddoe Dr)",
+    "x": 588970.0931,
+    "y": 4789212.8009,
+    "lat": 43.25047025839016,
+    "lng": -79.90399610235826
+  },
+  {
+    "id": "446",
+    "type": "Cushion",
+    "location": "206 Dromore Crescent",
+    "x": 588718.9104,
+    "y": 4790823.1992,
+    "lat": 43.26499834353128,
+    "lng": -79.90683045160429
+  },
+  {
+    "id": "447",
+    "type": "Cushion",
+    "location": "79 Marion Avenue North",
+    "x": 588773.6944,
+    "y": 4790796.1469,
+    "lat": 43.26474833850538,
+    "lng": -79.90615990038638
+  },
+  {
+    "id": "448",
+    "type": "Cushion",
+    "location": "38 Parkside Drive",
+    "x": 589069.8284,
+    "y": 4790926.29,
+    "lat": 43.26588507197714,
+    "lng": -79.90249063941748
+  },
+  {
+    "id": "449",
+    "type": "Cushion",
+    "location": "2 Glen Road",
+    "x": 589036.7275,
+    "y": 4790827.3631,
+    "lat": 43.264998343563114,
+    "lng": -79.90291442814303
+  },
+  {
+    "id": "450",
+    "type": "Cushion",
+    "location": "55 Chatham Street",
+    "x": 590200.0514,
+    "y": 4789709.1296,
+    "lat": 43.25479254508871,
+    "lng": -79.88876603052996
+  },
+  {
+    "id": "451",
+    "type": "Cushion",
+    "location": "25 Chatham Street",
+    "x": 590309.6938,
+    "y": 4789676.3045,
+    "lat": 43.25448389271805,
+    "lng": -79.88742090370799
+  },
+  {
+    "id": "452",
+    "type": "Cushion",
+    "location": "213 Caroline Street North",
+    "x": 591492.7965,
+    "y": 4790909.0277,
+    "lat": 43.26543934307051,
+    "lng": -79.87264353626773
+  },
+  {
+    "id": "453",
+    "type": "Cushion",
+    "location": "191 Caroline Street North",
+    "x": 591469.1411,
+    "y": 4790830.7162,
+    "lat": 43.2647371823893,
+    "lng": -79.87294796655924
+  },
+  {
+    "id": "454",
+    "type": "Cushion",
+    "location": "45 Young Street",
+    "x": 591780.8954,
+    "y": 4789293.7241,
+    "lat": 43.250861846801634,
+    "lng": -79.86936345261
+  },
+  {
+    "id": "455",
+    "type": "Cushion",
+    "location": "78 Young Street",
+    "x": 591882.9424,
+    "y": 4789260.0597,
+    "lat": 43.25054633770155,
+    "lng": -79.86811220295554
+  },
+  {
+    "id": "456",
+    "type": "Cushion",
+    "location": "108 Young Street",
+    "x": 591991.3328,
+    "y": 4789224.421,
+    "lat": 43.250212266543606,
+    "lng": -79.86678316835342
+  },
+  {
+    "id": "457",
+    "type": "Cushion",
+    "location": "197 Duke Street",
+    "x": 590900.5098,
+    "y": 4789605.3253,
+    "lat": 43.25377385238509,
+    "lng": -79.88015535814814
+  },
+  {
+    "id": "458",
+    "type": "Cushion",
+    "location": "45 Liberty Street",
+    "x": 592317.8218,
+    "y": 4789226.5291,
+    "lat": 43.250191335967166,
+    "lng": -79.86276165954402
+  },
+  {
+    "id": "459",
+    "type": "Cushion",
+    "location": "865 Templemead Drive",
+    "x": 593461.3193,
+    "y": 4783287.2766,
+    "lat": 43.19657983804041,
+    "lng": -79.84968389657317
+  },
+  {
+    "id": "460",
+    "type": "Cushion",
+    "location": "15 Passmore Street",
+    "x": 601470.8154,
+    "y": 4785908.85,
+    "lat": 43.219147317208325,
+    "lng": -79.75064391487335
+  },
+  {
+    "id": "461",
+    "type": "Cushion",
+    "location": "Passmore Street (beside #31 Cartwright, on Passmore)",
+    "x": 601713.5468,
+    "y": 4785836.3788,
+    "lat": 43.21846221462436,
+    "lng": -79.74766934621798
+  },
+  {
+    "id": "462",
+    "type": "Cushion",
+    "location": "Pinehill Drive (btwn Silver Spring Cres & Silver Spring Cres)",
+    "x": 596825.59,
+    "y": 4781209.9565,
+    "lat": 43.17745426035277,
+    "lng": -79.80864909609485
+  },
+  {
+    "id": "463",
+    "type": "Cushion",
+    "location": "Pinehill Drive (btwn #113 & #117 Pinehill Drive)",
+    "x": 596614.4006,
+    "y": 4781300.2431,
+    "lat": 43.178294124592874,
+    "lng": -79.81123127059834
+  },
+  {
+    "id": "464",
+    "type": "Cushion",
+    "location": "Pinehill Drive (btwn #212 & #216 Pinehill Dr)",
+    "x": 596295.4186,
+    "y": 4781430.7099,
+    "lat": 43.17950941086975,
+    "lng": -79.81513256957517
+  },
+  {
+    "id": "465",
+    "type": "Cushion",
+    "location": "Pinehill Drive  (btwn #242 & 244 Pinehill Dr)",
+    "x": 596183.3924,
+    "y": 4781464.3129,
+    "lat": 43.17982620050736,
+    "lng": -79.81650486428694
+  },
+  {
+    "id": "466",
+    "type": "Cushion",
+    "location": "Pinehill Drive (btwn #268 & #274 Pinehill Dr)",
+    "x": 596114.3809,
+    "y": 4781484.0823,
+    "lat": 43.18001296211725,
+    "lng": -79.81735040802964
+  },
+  {
+    "id": "467",
+    "type": "Cushion",
+    "location": "Pinehill Drive (btwn #332 & #334 Pinehill Dr)",
+    "x": 595955.2485,
+    "y": 4781532.2654,
+    "lat": 43.18046697101405,
+    "lng": -79.81929970193222
+  },
+  {
+    "id": "468",
+    "type": "Cushion",
+    "location": "31 Lawfield Drive",
+    "x": 593614.2815,
+    "y": 4785739.4117,
+    "lat": 43.21863731485348,
+    "lng": -79.84738596974701
+  },
+  {
+    "id": "469",
+    "type": "Cushion",
+    "location": "65 Lawfield Drive",
+    "x": 593544.079,
+    "y": 4785592.1094,
+    "lat": 43.21731986806385,
+    "lng": -79.84827512098104
+  },
+  {
+    "id": "470",
+    "type": "Cushion",
+    "location": "41 Presidio Drive",
+    "x": 592887.925,
+    "y": 4783532.2817,
+    "lat": 43.198856349581796,
+    "lng": -79.8566986297175
+  },
+  {
+    "id": "471",
+    "type": "Cushion",
+    "location": "93 Presidio Drive",
+    "x": 593041.3873,
+    "y": 4783483.1249,
+    "lat": 43.19839490194435,
+    "lng": -79.85481840206566
+  },
+  {
+    "id": "472",
+    "type": "Cushion",
+    "location": "270 East 13th Street",
+    "x": 592171.6864,
+    "y": 4787582.2892,
+    "lat": 43.23540623019455,
+    "lng": -79.86483642426643
+  },
+  {
+    "id": "473",
+    "type": "Cushion",
+    "location": "25 Brantdale Avenue",
+    "x": 591116.5863,
+    "y": 4788152.1528,
+    "lat": 43.240664897429255,
+    "lng": -79.8777341511104
+  },
+  {
+    "id": "474",
+    "type": "Cushion",
+    "location": "145 Brantdale Avenue",
+    "x": 590918.4616,
+    "y": 4788211.1338,
+    "lat": 43.24121981444293,
+    "lng": -79.88016423177231
+  },
+  {
+    "id": "475",
+    "type": "Cushion",
+    "location": "39 Massena Dr",
+    "x": 590942.6146,
+    "y": 4783703.8741,
+    "lat": 43.20063795848468,
+    "lng": -79.88060950856229
+  },
+  {
+    "id": "476",
+    "type": "Cushion",
+    "location": "59 Massena Dr",
+    "x": 590921.9473,
+    "y": 4783643.9832,
+    "lat": 43.20010124608239,
+    "lng": -79.88087370600536
+  },
+  {
+    "id": "477",
+    "type": "Cushion",
+    "location": "19 Byng Street",
+    "x": 590865.3564,
+    "y": 4783844.1962,
+    "lat": 43.20191058569052,
+    "lng": -79.88153720368996
+  },
+  {
+    "id": "478",
+    "type": "Cushion",
+    "location": "733 Acadia Drive",
+    "x": 591738.9994,
+    "y": 4783554.1127,
+    "lat": 43.19919332968134,
+    "lng": -79.87083372727805
+  },
+  {
+    "id": "479",
+    "type": "Cushion",
+    "location": "432 Acadia Drive",
+    "x": 592029.4572,
+    "y": 4784176.8647,
+    "lat": 43.204764632775046,
+    "lng": -79.86715557831113
+  },
+  {
+    "id": "480",
+    "type": "Cushion",
+    "location": "99 Princeton Drive (btwn Sherwood Rise & Margate Ave)",
+    "x": 595653.4679,
+    "y": 4786605.7132,
+    "lat": 43.22618079155469,
+    "lng": -79.82213373582695
+  },
+  {
+    "id": "481",
+    "type": "Cushion",
+    "location": "Princeton Drive (46m N of Margate, btwn 3 Margate Ave & 2 Valecrest Ave)",
+    "x": 595670.9679,
+    "y": 4786678.0326,
+    "lat": 43.22682965177648,
+    "lng": -79.82190574746056
+  },
+  {
+    "id": "482",
+    "type": "Cushion",
+    "location": "61 Princeton Drive",
+    "x": 595700.7981,
+    "y": 4786772.0161,
+    "lat": 43.22767198558428,
+    "lng": -79.82152219179939
+  },
+  {
+    "id": "483",
+    "type": "Cushion",
+    "location": "Upper Kenilworth Avenue (38m N of 966 Upper Kenilworth)",
+    "x": 595337.3295,
+    "y": 4784167.108,
+    "lat": 43.20426638805901,
+    "lng": -79.82644695566275
+  },
+  {
+    "id": "484",
+    "type": "Cushion",
+    "location": "990 Upper Kenilworth Avenue",
+    "x": 595300.7141,
+    "y": 4784042.8095,
+    "lat": 43.20315196594877,
+    "lng": -79.82691902410629
+  },
+  {
+    "id": "485",
+    "type": "Cushion",
+    "location": "50 Berko Avenue",
+    "x": 593419.4415,
+    "y": 4785491.4432,
+    "lat": 43.2164290145769,
+    "lng": -79.84982640412734
+  },
+  {
+    "id": "486",
+    "type": "Cushion",
+    "location": "182 Berko Avenue",
+    "x": 593572.4843,
+    "y": 4785485.7326,
+    "lat": 43.216358644688626,
+    "lng": -79.84794349309006
+  },
+  {
+    "id": "487",
+    "type": "Cushion",
+    "location": "270 East 44th Street",
+    "x": 594331.9376,
+    "y": 4785809.7491,
+    "lat": 43.219181196654134,
+    "lng": -79.83853967200496
+  },
+  {
+    "id": "488",
+    "type": "Cushion",
+    "location": "244 East 44th Street",
+    "x": 594368.3393,
+    "y": 4785934.2241,
+    "lat": 43.22029728040419,
+    "lng": -79.8380702846971
+  },
+  {
+    "id": "489",
+    "type": "Cushion",
+    "location": "174 East 44th Street",
+    "x": 594473.2591,
+    "y": 4786270.5916,
+    "lat": 43.22331242999104,
+    "lng": -79.83672111772398
+  },
+  {
+    "id": "490",
+    "type": "Cushion",
+    "location": "135 East 44th Street",
+    "x": 594526.5554,
+    "y": 4786451.2759,
+    "lat": 43.22493243374973,
+    "lng": -79.83603404480552
+  },
+  {
+    "id": "491",
+    "type": "Cushion",
+    "location": "20 Highcliffe Avenue",
+    "x": 592007.4566,
+    "y": 4788535.5827,
+    "lat": 43.24400873225026,
+    "lng": -79.86669957235101
+  },
+  {
+    "id": "492",
+    "type": "Cushion",
+    "location": "Columbia Drive (Beside 17 Tyne Place, btwn Laurier Ave & Tyne Pl)",
+    "x": 590115.848,
+    "y": 4787633.4404,
+    "lat": 43.23611516636138,
+    "lng": -79.89014254863996
+  },
+  {
+    "id": "493",
+    "type": "Cushion",
+    "location": "148 Columbia Drive",
+    "x": 590004.2183,
+    "y": 4787283.4319,
+    "lat": 43.23297735754984,
+    "lng": -79.8915742356208
+  },
+  {
+    "id": "494",
+    "type": "Cushion",
+    "location": "180 Columbia Drive",
+    "x": 589851.7678,
+    "y": 4787233.7189,
+    "lat": 43.23254796370399,
+    "lng": -79.89345945862964
+  },
+  {
+    "id": "495",
+    "type": "Cushion",
+    "location": "214 Columbia Drive",
+    "x": 589766.2602,
+    "y": 4787357.8307,
+    "lat": 43.23367552769614,
+    "lng": -79.8944921082501
+  },
+  {
+    "id": "496",
+    "type": "Cushion",
+    "location": "236 Columbia Drive",
+    "x": 589859.3884,
+    "y": 4787431.5587,
+    "lat": 43.234328215420405,
+    "lng": -79.89333339406365
+  },
+  {
+    "id": "497",
+    "type": "Cushion",
+    "location": "305 Hawkridge Avenue",
+    "x": 590401.9224,
+    "y": 4786372.6813,
+    "lat": 43.22473028894037,
+    "lng": -79.88682655205822
+  },
+  {
+    "id": "498",
+    "type": "Cushion",
+    "location": "320 Hawkridge Avenue",
+    "x": 590384.5965,
+    "y": 4786315.7905,
+    "lat": 43.22422017471929,
+    "lng": -79.88704917556541
+  },
+  {
+    "id": "499",
+    "type": "Cushion",
+    "location": "353 Hawkridge Avenue",
+    "x": 590337.8515,
+    "y": 4786152.892,
+    "lat": 43.22275919124957,
+    "lng": -79.88765133140375
+  },
+  {
+    "id": "500",
+    "type": "Cushion",
+    "location": "399 Hawkridge Avenue",
+    "x": 590296.1488,
+    "y": 4786011.2573,
+    "lat": 43.22148903950407,
+    "lng": -79.88818790483143
+  },
+  {
+    "id": "501",
+    "type": "Cushion",
+    "location": "485 Bridgadoon Dr",
+    "x": 588953.2477,
+    "y": 4785849.458,
+    "lat": 43.22019183541075,
+    "lng": -79.90474607429442
+  },
+  {
+    "id": "502",
+    "type": "Cushion",
+    "location": "519 Bridgadoon Dr (btwn Garrow Dr & Duncairn Court)",
+    "x": 588919.4912,
+    "y": 4785731.7796,
+    "lat": 43.21913634353093,
+    "lng": -79.90518059189132
+  },
+  {
+    "id": "503",
+    "type": "Cushion",
+    "location": "541 Bridgadoon Dr (btwn Duncairn Court & Glenview Court)",
+    "x": 588892.3014,
+    "y": 4785645.0149,
+    "lat": 43.21835839537608,
+    "lng": -79.90552927918296
+  },
+  {
+    "id": "504",
+    "type": "Cushion",
+    "location": "722 Bridgadoon Dr",
+    "x": 589164.1554,
+    "y": 4785318.128,
+    "lat": 43.21538333410568,
+    "lng": -79.90223552703391
+  },
+  {
+    "id": "505",
+    "type": "Cushion",
+    "location": "58 Malton Dr",
+    "x": 589546.0739,
+    "y": 4783716.2629,
+    "lat": 43.20091638243106,
+    "lng": -79.8977940374166
+  },
+  {
+    "id": "506",
+    "type": "Cushion",
+    "location": "44 Malton Dr",
+    "x": 589614.3427,
+    "y": 4783695.8795,
+    "lat": 43.20072477048077,
+    "lng": -79.89695718840204
+  },
+  {
+    "id": "507",
+    "type": "Cushion",
+    "location": "28 Malton Dr",
+    "x": 589677.3877,
+    "y": 4783674.9936,
+    "lat": 43.200529248737276,
+    "lng": -79.89618471298591
+  },
+  {
+    "id": "508",
+    "type": "Cushion",
+    "location": "Longwood Road North - Approx. 120m North of Franklin Avenue",
+    "x": 589457.3443,
+    "y": 4791392.3834,
+    "lat": 43.270035401179435,
+    "lng": -79.89764084145237
+  },
+  {
+    "id": "509",
+    "type": "Cushion",
+    "location": "Beddoe Drive (Between 120 Beddoe and Chedoke 43.248708, -79.906776)",
+    "x": 588600.3911,
+    "y": 4788995.3389,
+    "lat": 43.24855597534088,
+    "lng": -79.90858453353788
+  },
+  {
+    "id": "510",
+    "type": "Cushion",
+    "location": "Beddoe Drive (Between 120 Beddoe and Chedoke 43.248097, -79.908769)",
+    "x": 588584.6016,
+    "y": 4788936.9758,
+    "lat": 43.24803238410818,
+    "lng": -79.9087883813491
+  },
+  {
+    "id": "511",
+    "type": "Cushion",
+    "location": "120 Strathcona Avenue North",
+    "x": 590595.3074,
+    "y": 4790860.1943,
+    "lat": 43.265108141711984,
+    "lng": -79.88370818757869
+  },
+  {
+    "id": "512",
+    "type": "Cushion",
+    "location": "206 Bold Street",
+    "x": 590890.779,
+    "y": 4789736.5515,
+    "lat": 43.25495645078501,
+    "lng": -79.88025356546969
+  },
+  {
+    "id": "513",
+    "type": "Cushion",
+    "location": "567/571 Brigadoon Drive",
+    "x": 588865.1667,
+    "y": 4785549.6904,
+    "lat": 43.21750337471666,
+    "lng": -79.90587865718697
+  },
+  {
+    "id": "514",
+    "type": "Cushion",
+    "location": "Harbour Front Drive",
+    "x": 591862.2329,
+    "y": 4791304.9255,
+    "lat": 43.268958625065615,
+    "lng": -79.86802622993704
+  },
+  {
+    "id": "515",
+    "type": "Cushion",
+    "location": "639/641 Bridgadoon Dr",
+    "x": 588988.3109,
+    "y": 4785397.1504,
+    "lat": 43.21611553270429,
+    "lng": -79.90438734927493
+  },
+  {
+    "id": "516",
+    "type": "Cushion",
+    "location": "747 Bridgadoon Drive",
+    "x": 589231.1276,
+    "y": 4785291.3407,
+    "lat": 43.2151342511935,
+    "lng": -79.9014154620739
+  },
+  {
+    "id": "517",
+    "type": "Cushion",
+    "location": "17 Malton Drive (btwn driveways of Corpus Christi Church)",
+    "x": 589747.6034,
+    "y": 4783651.3673,
+    "lat": 43.20030819760112,
+    "lng": -79.8953244418721
+  },
+  {
+    "id": "518",
+    "type": "Cushion",
+    "location": "69 Highcliffe Avenue",
+    "x": 591963.6959,
+    "y": 4788386.2546,
+    "lat": 43.24266967815489,
+    "lng": -79.86726340205404
+  },
+  {
+    "id": "519",
+    "type": "Cushion",
+    "location": "74/70 Columbia Drive",
+    "x": 590134.9302,
+    "y": 4787693.1111,
+    "lat": 43.236650102988385,
+    "lng": -79.88989782448003
+  },
+  {
+    "id": "520",
+    "type": "Cushion",
+    "location": "104 Columbia Drive",
+    "x": 590080.2466,
+    "y": 4787521.4596,
+    "lat": 43.235111252854836,
+    "lng": -79.89059922230896
+  },
+  {
+    "id": "521",
+    "type": "Cushion",
+    "location": "158 Terrace Drive",
+    "x": 591124.1323,
+    "y": 4786992.8877,
+    "lat": 43.23022713573969,
+    "lng": -79.87783277473339
+  },
+  {
+    "id": "522",
+    "type": "Cushion",
+    "location": "176 Terrace Drive",
+    "x": 591105.3674,
+    "y": 4786931.5662,
+    "lat": 43.22967732475695,
+    "lng": -79.87807394297032
+  },
+  {
+    "id": "523",
+    "type": "Cushion",
+    "location": "190 Terrace Drive",
+    "x": 591087.2458,
+    "y": 4786871.3696,
+    "lat": 43.229137562971474,
+    "lng": -79.87830700062186
+  },
+  {
+    "id": "524",
+    "type": "Cushion",
+    "location": "128 East 26th Street",
+    "x": 593455.3067,
+    "y": 4787690.9361,
+    "lat": 43.23622641874863,
+    "lng": -79.8490123710181
+  },
+  {
+    "id": "525",
+    "type": "Cushion",
+    "location": "40 East 26th Street",
+    "x": 593542.7327,
+    "y": 4787970.7774,
+    "lat": 43.238734962192225,
+    "lng": -79.84788838215377
+  },
+  {
+    "id": "526",
+    "type": "Cushion",
+    "location": "413 Eaglewood Drive",
+    "x": 593104.3223,
+    "y": 4783313.2408,
+    "lat": 43.19685768401938,
+    "lng": -79.85407255564996
+  },
+  {
+    "id": "527",
+    "type": "Cushion",
+    "location": "453 Eaglewood Drive",
+    "x": 593068.9214,
+    "y": 4783192.4325,
+    "lat": 43.19577441263653,
+    "lng": -79.85452853096623
+  },
+  {
+    "id": "528",
+    "type": "Cushion",
+    "location": "21 Mistywood Drive",
+    "x": 598048.5073,
+    "y": 4783529.308,
+    "lat": 43.19817724694201,
+    "lng": -79.79319411535789
+  },
+  {
+    "id": "529",
+    "type": "Cushion",
+    "location": "56 Fletcher Road",
+    "x": 597003.0448,
+    "y": 4781313.2303,
+    "lat": 43.17836126462111,
+    "lng": -79.8064480284106
+  },
+  {
+    "id": "530",
+    "type": "Cushion",
+    "location": "160 Fletcher Road",
+    "x": 596893.8655,
+    "y": 4780940.0291,
+    "lat": 43.17501539210357,
+    "lng": -79.807856487058
+  },
+  {
+    "id": "531",
+    "type": "Cushion",
+    "location": "33 Edwina Place",
+    "x": 593638.9981,
+    "y": 4785338.0265,
+    "lat": 43.21502060906296,
+    "lng": -79.84714979729405
+  },
+  {
+    "id": "532",
+    "type": "Cushion",
+    "location": "48 Jessica Street",
+    "x": 591583.9937,
+    "y": 4782990.6387,
+    "lat": 43.194139167055695,
+    "lng": -79.87283463573235
+  },
+  {
+    "id": "533",
+    "type": "Cushion",
+    "location": "413 Crerar Drive",
+    "x": 591607.2242,
+    "y": 4784604.0949,
+    "lat": 43.208662337329756,
+    "lng": -79.87228123979065
+  },
+  {
+    "id": "534",
+    "type": "Cushion",
+    "location": "59/55 Garrow Dr",
+    "x": 588656.0812,
+    "y": 4785871.6503,
+    "lat": 43.22042660357553,
+    "lng": -79.90840077676314
+  },
+  {
+    "id": "535",
+    "type": "Cushion",
+    "location": "83/85 Cranbrook Dr",
+    "x": 588387.7482,
+    "y": 4786303.2567,
+    "lat": 43.22434387959822,
+    "lng": -79.911634977672
+  },
+  {
+    "id": "536",
+    "type": "Cushion",
+    "location": "109/111 Cranbrook Dr",
+    "x": 588493.9156,
+    "y": 4786269.2997,
+    "lat": 43.224025717491145,
+    "lng": -79.91033335984615
+  },
+  {
+    "id": "537",
+    "type": "Cushion",
+    "location": "265 Cranbrook Drive",
+    "x": 588468.8315,
+    "y": 4785720.4395,
+    "lat": 43.21908721000804,
+    "lng": -79.91073016208367
+  },
+  {
+    "id": "538",
+    "type": "Cushion",
+    "location": "71 Courtland Avenue",
+    "x": 588193.853,
+    "y": 4785385.4442,
+    "lat": 43.216103388801024,
+    "lng": -79.91416875305438
+  },
+  {
+    "id": "539",
+    "type": "Cushion",
+    "location": "10.0m South of 91 Courtland Avenue",
+    "x": 588170.9102,
+    "y": 4785309.8648,
+    "lat": 43.21542561804812,
+    "lng": -79.91446324345493
+  },
+  {
+    "id": "540",
+    "type": "Cushion",
+    "location": "162 Magnolia Drive",
+    "x": 587367.0929,
+    "y": 4787174.807,
+    "lat": 43.23230943570639,
+    "lng": -79.92406263813216
+  },
+  {
+    "id": "541",
+    "type": "Cushion",
+    "location": "Magnolia Dr - 25m south of Lionsgate Ave",
+    "x": 587431.5186,
+    "y": 4786908.2143,
+    "lat": 43.229901801913265,
+    "lng": -79.92331162010426
+  },
+  {
+    "id": "542",
+    "type": "Cushion",
+    "location": "692/684 Upper Horning Rd",
+    "x": 587124.9176,
+    "y": 4786118.8416,
+    "lat": 43.222830430558396,
+    "lng": -79.92721130209277
+  },
+  {
+    "id": "543",
+    "type": "Cushion",
+    "location": "575 Upper Horning Road",
+    "x": 587039.8021,
+    "y": 4786492.5391,
+    "lat": 43.22620471053294,
+    "lng": -79.92820022163136
+  },
+  {
+    "id": "544",
+    "type": "Cushion",
+    "location": "230/236 Bendamere Avenue",
+    "x": 589500.5414,
+    "y": 4787623.6074,
+    "lat": 43.23609990319041,
+    "lng": -79.89772081674202
+  },
+  {
+    "id": "545",
+    "type": "Cushion",
+    "location": "196 Bendamere Avenue",
+    "x": 589752.5781,
+    "y": 4787540.1143,
+    "lat": 43.2353182625751,
+    "lng": -79.89463091356996
+  },
+  {
+    "id": "546",
+    "type": "Cushion",
+    "location": "150/148 Bendamere Avenue",
+    "x": 589927.161,
+    "y": 4787482.9519,
+    "lat": 43.23478283345474,
+    "lng": -79.89249051104184
+  },
+  {
+    "id": "547",
+    "type": "Cushion",
+    "location": "180 Concession Street",
+    "x": 591947.1951,
+    "y": 4788626.5961,
+    "lat": 43.24483547116312,
+    "lng": -79.86742651895327
+  },
+  {
+    "id": "548",
+    "type": "Cushion",
+    "location": "42 Belvidere Avenue",
+    "x": 591828.1636,
+    "y": 4788570.73,
+    "lat": 43.24434701710409,
+    "lng": -79.86890173363457
+  },
+  {
+    "id": "549",
+    "type": "Cushion",
+    "location": "199 West 2nd",
+    "x": 591014.9847,
+    "y": 4788004.9591,
+    "lat": 43.239351983670936,
+    "lng": -79.87900962165844
+  },
+  {
+    "id": "550",
+    "type": "Cushion",
+    "location": "132 West 2nd",
+    "x": 591084.0545,
+    "y": 4788246.7926,
+    "lat": 43.241520867555025,
+    "lng": -79.87811912855778
+  },
+  {
+    "id": "551",
+    "type": "Cushion",
+    "location": "47/49 Smith Avenue",
+    "x": 593359.5412,
+    "y": 4790100.6533,
+    "lat": 43.25793268063766,
+    "lng": -79.849783403336
+  },
+  {
+    "id": "552",
+    "type": "Cushion",
+    "location": "23 Belmont Avenue",
+    "x": 595438.5456,
+    "y": 4788675.3893,
+    "lat": 43.244840929305525,
+    "lng": -79.82442154947519
+  },
+  {
+    "id": "553",
+    "type": "Cushion",
+    "location": "184/186 West Avenue North",
+    "x": 592878.8299,
+    "y": 4790190.5076,
+    "lat": 43.25880102100474,
+    "lng": -79.85568959356061
+  },
+  {
+    "id": "554",
+    "type": "Cushion",
+    "location": "prop line of 240/242 West Ave N",
+    "x": 592933.8654,
+    "y": 4790368.8684,
+    "lat": 43.26039999735381,
+    "lng": -79.85498156983188
+  },
+  {
+    "id": "555",
+    "type": "Cushion",
+    "location": "63/65 West Avenue North",
+    "x": 592758.3027,
+    "y": 4789793.5346,
+    "lat": 43.25524196038152,
+    "lng": -79.8572410978791
+  },
+  {
+    "id": "556",
+    "type": "Cushion",
+    "location": "113 West Avenue North",
+    "x": 592808.0503,
+    "y": 4789955.3601,
+    "lat": 43.25669273391514,
+    "lng": -79.85660107804762
+  },
+  {
+    "id": "557",
+    "type": "Cushion",
+    "location": "85 Lottridge Street",
+    "x": 594782.6704,
+    "y": 4789526.8146,
+    "lat": 43.25258889137277,
+    "lng": -79.83235230792299
+  },
+  {
+    "id": "558",
+    "type": "Cushion",
+    "location": "16 Lottridge Street",
+    "x": 594732.6296,
+    "y": 4789359.8809,
+    "lat": 43.25109230728921,
+    "lng": -79.83299734479962
+  },
+  {
+    "id": "559",
+    "type": "Cushion",
+    "location": "138/140 Lottridge Street",
+    "x": 594840.2008,
+    "y": 4789715.7056,
+    "lat": 43.25428220625464,
+    "lng": -79.83161120970148
+  },
+  {
+    "id": "560",
+    "type": "Cushion",
+    "location": "202 Lottridge Street",
+    "x": 594903.4681,
+    "y": 4789932.2547,
+    "lat": 43.25622379361134,
+    "lng": -79.83079464134431
+  },
+  {
+    "id": "561",
+    "type": "Cushion",
+    "location": "146 Rosslyn Avenue North",
+    "x": 595702.1142,
+    "y": 4788982.7608,
+    "lat": 43.24757472496272,
+    "lng": -79.82112230872096
+  },
+  {
+    "id": "562",
+    "type": "Cushion",
+    "location": "195/189 Rosslyn Avenue North",
+    "x": 595755.619,
+    "y": 4789167.8256,
+    "lat": 43.24923403045912,
+    "lng": -79.82043120877202
+  },
+  {
+    "id": "563",
+    "type": "Cushion",
+    "location": "254-255 Rosslyn Avenue North",
+    "x": 595818.4749,
+    "y": 4789382.2883,
+    "lat": 43.251156805205525,
+    "lng": -79.8196197876268
+  },
+  {
+    "id": "564",
+    "type": "Cushion",
+    "location": "172/171 Emerald Street North",
+    "x": 593178.0261,
+    "y": 4790082.6161,
+    "lat": 43.25779275649599,
+    "lng": -79.85202233219482
+  },
+  {
+    "id": "565",
+    "type": "Cushion",
+    "location": "238-240/237 Emerald Street North",
+    "x": 593236.7843,
+    "y": 4790274.2177,
+    "lat": 43.25951045409062,
+    "lng": -79.85126612712722
+  },
+  {
+    "id": "566",
+    "type": "Cushion",
+    "location": "60/61 Balmoral Avenue North",
+    "x": 595674.2309,
+    "y": 4788568.7179,
+    "lat": 43.243850720747716,
+    "lng": -79.82153757642847
+  },
+  {
+    "id": "567",
+    "type": "Cushion",
+    "location": "282/281 Balmoral Avenue North",
+    "x": 595904.1461,
+    "y": 4789370.0609,
+    "lat": 43.251035830784595,
+    "lng": -79.81856675891585
+  },
+  {
+    "id": "568",
+    "type": "Cushion",
+    "location": "212/213 Balmoral Avenue North",
+    "x": 595834.5822,
+    "y": 4789131.6283,
+    "lat": 43.24889812076125,
+    "lng": -79.81946499491089
+  },
+  {
+    "id": "569",
+    "type": "Cushion",
+    "location": "98-102/99-101 Balmoral Avenue South",
+    "x": 595555.0266,
+    "y": 4788145.622,
+    "lat": 43.240056785931785,
+    "lng": -79.82307889792801
+  },
+  {
+    "id": "570",
+    "type": "Cushion",
+    "location": "16 Glendale Avenue North",
+    "x": 595324.281,
+    "y": 4788824.3715,
+    "lat": 43.24619664139861,
+    "lng": -79.8258029660178
+  },
+  {
+    "id": "571",
+    "type": "Cushion",
+    "location": "80/81 Glendale Avenue North",
+    "x": 595397.8214,
+    "y": 4789077.2309,
+    "lat": 43.24846378369732,
+    "lng": -79.82485352135659
+  },
+  {
+    "id": "572",
+    "type": "Cushion",
+    "location": "30/29 Holton Avenue South",
+    "x": 594013.683,
+    "y": 4789283.5417,
+    "lat": 43.25049503839512,
+    "lng": -79.8418652249779
+  },
+  {
+    "id": "573",
+    "type": "Cushion",
+    "location": "64-68/67 Holton Avenue South",
+    "x": 593979.8827,
+    "y": 4789177.2672,
+    "lat": 43.24954247891751,
+    "lng": -79.8422996441938
+  },
+  {
+    "id": "574",
+    "type": "Cushion",
+    "location": "138 Homewood Avenue",
+    "x": 590187.7719,
+    "y": 4789294.5054,
+    "lat": 43.251061154857126,
+    "lng": -79.88898514838587
+  },
+  {
+    "id": "575",
+    "type": "Cushion",
+    "location": "189 Homewood Avenue",
+    "x": 590013.3399,
+    "y": 4789346.3095,
+    "lat": 43.25154839519246,
+    "lng": -79.8911251026971
+  },
+  {
+    "id": "576",
+    "type": "Cushion",
+    "location": "34 Weir Street North",
+    "x": 597167.5884,
+    "y": 4788138.2699,
+    "lat": 43.23978455569228,
+    "lng": -79.80322299311844
+  },
+  {
+    "id": "577",
+    "type": "Cushion",
+    "location": "43 Myrtle Avenue",
+    "x": 593440.9047,
+    "y": 4788999.4401,
+    "lat": 43.248008518129254,
+    "lng": -79.84896792972052
+  },
+  {
+    "id": "578",
+    "type": "Cushion",
+    "location": "615/617 Bridagdoon Drive",
+    "x": 588924.2633,
+    "y": 4785431.8631,
+    "lat": 43.21643560316596,
+    "lng": -79.90517016215631
+  },
+  {
+    "id": "579",
+    "type": "Cushion",
+    "location": "North Side of Tyne Pl (south leg, on Columbia Dr)",
+    "x": 590093.6048,
+    "y": 4787566.9706,
+    "lat": 43.235519394205824,
+    "lng": -79.89042730221873
+  },
+  {
+    "id": "580",
+    "type": "Cushion",
+    "location": "106 Cline Avenue South",
+    "x": 588415.6759,
+    "y": 4789969.4938,
+    "lat": 43.257348035990745,
+    "lng": -79.9107032072458
+  },
+  {
+    "id": "581",
+    "type": "Cushion",
+    "location": "111 Templemead Drive",
+    "x": 593538.1113,
+    "y": 4783479.6969,
+    "lat": 43.198302683590235,
+    "lng": -79.84870635957722
+  },
+  {
+    "id": "582",
+    "type": "Cushion",
+    "location": "185 Templemead Drive",
+    "x": 593720.7505,
+    "y": 4783454.2479,
+    "lat": 43.198050925546205,
+    "lng": -79.84646314718677
+  },
+  {
+    "id": "583",
+    "type": "Cushion",
+    "location": "555 Queen Victoria Drive",
+    "x": 593627.3261,
+    "y": 4784061.5228,
+    "lat": 43.20352977757275,
+    "lng": -79.84750989347457
+  },
+  {
+    "id": "584",
+    "type": "Cushion",
+    "location": "112 Queen Victoria Drive",
+    "x": 593707.533,
+    "y": 4784318.608,
+    "lat": 43.20583435077489,
+    "lng": -79.84647918171906
+  },
+  {
+    "id": "585",
+    "type": "Cushion",
+    "location": "222 Queen Victoria Drive",
+    "x": 593977.5579,
+    "y": 4784371.4279,
+    "lat": 43.20627632418795,
+    "lng": -79.84314690570908
+  },
+  {
+    "id": "586",
+    "type": "Cushion",
+    "location": "319 Queen Victoria Drive",
+    "x": 594112.5861,
+    "y": 4784081.4418,
+    "lat": 43.203648783169086,
+    "lng": -79.84153446590088
+  },
+  {
+    "id": "587",
+    "type": "Cushion",
+    "location": "188 Queen Victoria Drive",
+    "x": 593831.7806,
+    "y": 4784415.4552,
+    "lat": 43.206690829272596,
+    "lng": -79.84493357019822
+  },
+  {
+    "id": "588",
+    "type": "Cushion",
+    "location": "416 Queen Victoria Drive",
+    "x": 593975.4787,
+    "y": 4783853.8385,
+    "lat": 43.2016167619536,
+    "lng": -79.84326055154479
+  },
+  {
+    "id": "589",
+    "type": "Cushion",
+    "location": "269 Queen Victoria Drive",
+    "x": 594124.7396,
+    "y": 4784254.7414,
+    "lat": 43.20520747131226,
+    "lng": -79.8413553635101
+  },
+  {
+    "id": "590",
+    "type": "Cushion",
+    "location": "347 Queen Victoria Drive",
+    "x": 594090.5495,
+    "y": 4784008.0864,
+    "lat": 43.202991116096854,
+    "lng": -79.84181816262077
+  },
+  {
+    "id": "591",
+    "type": "Cushion",
+    "location": "595 Queen Victoria Drive",
+    "x": 593660.0439,
+    "y": 4784168.219,
+    "lat": 43.204486299854935,
+    "lng": -79.84708914793347
+  },
+  {
+    "id": "592",
+    "type": "Cushion",
+    "location": "78 Royalvista Drive",
+    "x": 593349.0321,
+    "y": 4783374.0926,
+    "lat": 43.197375325716806,
+    "lng": -79.8510509817751
+  },
+  {
+    "id": "593",
+    "type": "Cushion",
+    "location": "102 Royalvista Drive",
+    "x": 593422.9193,
+    "y": 4783353.0104,
+    "lat": 43.1971763876915,
+    "lng": -79.85014531470507
+  },
+  {
+    "id": "594",
+    "type": "Cushion",
+    "location": "140 Quaker Crescent",
+    "x": 593798.2582,
+    "y": 4784083.0505,
+    "lat": 43.20370237674175,
+    "lng": -79.84540259597782
+  },
+  {
+    "id": "595",
+    "type": "Cushion",
+    "location": "106 Quaker Crescent",
+    "x": 593907.5938,
+    "y": 4784096.1421,
+    "lat": 43.20380665017615,
+    "lng": -79.84405478645319
+  },
+  {
+    "id": "596",
+    "type": "Cushion",
+    "location": "88 Quaker Crescent",
+    "x": 593929.0393,
+    "y": 4784166.0757,
+    "lat": 43.20443359023768,
+    "lng": -79.84377896625325
+  },
+  {
+    "id": "597",
+    "type": "Cushion",
+    "location": "34 Quaker Crescent",
+    "x": 593809.2258,
+    "y": 4784249.2833,
+    "lat": 43.20519759745765,
+    "lng": -79.84523938712967
+  },
+  {
+    "id": "598",
+    "type": "Cushion",
+    "location": "63 Quaker Crescent",
+    "x": 593905.4241,
+    "y": 4784219.268,
+    "lat": 43.20491541408926,
+    "lng": -79.84406055686496
+  },
+  {
+    "id": "599",
+    "type": "Cushion",
+    "location": "172 Quaker Crescent",
+    "x": 593703.5062,
+    "y": 4784111.0492,
+    "lat": 43.20396621133597,
+    "lng": -79.84656395198475
+  },
+  {
+    "id": "600",
+    "type": "Cushion",
+    "location": "37 Everest Street",
+    "x": 593864.7041,
+    "y": 4782776.0682,
+    "lat": 43.19192743136601,
+    "lng": -79.84480687368827
+  },
+  {
+    "id": "601",
+    "type": "Cushion",
+    "location": "187 Cranbrook Drive",
+    "x": 588553.0265,
+    "y": 4786008.6976,
+    "lat": 43.22167255475872,
+    "lng": -79.9096474473521
+  },
+  {
+    "id": "602",
+    "type": "Cushion",
+    "location": "229 Cranbrook Drive",
+    "x": 588508.7728,
+    "y": 4785863.4518,
+    "lat": 43.2203700825948,
+    "lng": -79.91021553949713
+  },
+  {
+    "id": "603",
+    "type": "Cushion",
+    "location": "120 Duke Street",
+    "x": 591146.9142,
+    "y": 4789528.0586,
+    "lat": 43.253048469237264,
+    "lng": -79.87713314352209
+  },
+  {
+    "id": "604",
+    "type": "Cushion",
+    "location": "11 Liberty Street",
+    "x": 592349.4142,
+    "y": 4789323.1436,
+    "lat": 43.25105727891634,
+    "lng": -79.86235636540974
+  },
+  {
+    "id": "605",
+    "type": "Cushion",
+    "location": "117 Ferguson Avenue South",
+    "x": 592263.879,
+    "y": 4789286.6002,
+    "lat": 43.25073875492634,
+    "lng": -79.86341598046067
+  },
+  {
+    "id": "606",
+    "type": "Cushion",
+    "location": "15 Grove Street",
+    "x": 592389.2927,
+    "y": 4789266.5771,
+    "lat": 43.25054312934156,
+    "lng": -79.86187468488173
+  },
+  {
+    "id": "607",
+    "type": "Cushion",
+    "location": "177 MacNab Street North",
+    "x": 591861.0563,
+    "y": 4790606.3236,
+    "lat": 43.262669318286214,
+    "lng": -79.86815727259544
+  },
+  {
+    "id": "608",
+    "type": "Cushion",
+    "location": "206 MacNab Street South",
+    "x": 591886.6895,
+    "y": 4790688.3904,
+    "lat": 43.263405033434985,
+    "lng": -79.86782780714296
+  },
+  {
+    "id": "609",
+    "type": "Cushion",
+    "location": "84 West Avenue South",
+    "x": 592575.3848,
+    "y": 4789201.22,
+    "lat": 43.249931896518774,
+    "lng": -79.8595936777358
+  },
+  {
+    "id": "610",
+    "type": "Cushion",
+    "location": "593 John Street North",
+    "x": 592631.1244,
+    "y": 4791897.3864,
+    "lat": 43.27419833079236,
+    "lng": -79.8584536926151
+  },
+  {
+    "id": "611",
+    "type": "Cushion",
+    "location": "535 John Street North",
+    "x": 592571.0786,
+    "y": 4791700.6524,
+    "lat": 43.27243454167185,
+    "lng": -79.85922661460852
+  },
+  {
+    "id": "612",
+    "type": "Cushion",
+    "location": "142 Rifle Range Road",
+    "x": 586968.4499,
+    "y": 4789288.8364,
+    "lat": 43.251388385660725,
+    "lng": -79.92863764739437
+  },
+  {
+    "id": "613",
+    "type": "Cushion",
+    "location": "86 Rifle Range Road",
+    "x": 586908.5806,
+    "y": 4789538.3644,
+    "lat": 43.25364181982573,
+    "lng": -79.92933569204521
+  },
+  {
+    "id": "614",
+    "type": "Cushion",
+    "location": "45 Longwood Road North",
+    "x": 589283.5053,
+    "y": 4790833.4008,
+    "lat": 43.26502350028099,
+    "lng": -79.89987327152747
+  },
+  {
+    "id": "615",
+    "type": "Cushion",
+    "location": "90 Longwood Road North",
+    "x": 589338.0716,
+    "y": 4791009.0472,
+    "lat": 43.26659837817301,
+    "lng": -79.89917254420571
+  },
+  {
+    "id": "616",
+    "type": "Cushion",
+    "location": "Longwood Road North - 120m north of Franklin Avenue",
+    "x": 589486.2801,
+    "y": 4791494.6974,
+    "lat": 43.27095309686421,
+    "lng": -79.89726770635012
+  },
+  {
+    "id": "617",
+    "type": "Cushion",
+    "location": "29 Glenmount Avenue",
+    "x": 587311.8371,
+    "y": 4789794.0805,
+    "lat": 43.255897455789245,
+    "lng": -79.92432813264223
+  },
+  {
+    "id": "618",
+    "type": "Cushion",
+    "location": "64 Glenmount Avenue",
+    "x": 587209.2227,
+    "y": 4789823.6619,
+    "lat": 43.25617565985151,
+    "lng": -79.92558742937116
+  },
+  {
+    "id": "619",
+    "type": "Cushion",
+    "location": "276 Graham Avenue South",
+    "x": 595978.8386,
+    "y": 4787444.5484,
+    "lat": 43.23369134523989,
+    "lng": -79.8179820463971
+  },
+  {
+    "id": "620",
+    "type": "Cushion",
+    "location": "158 Cline Avenue South",
+    "x": 588358.7245,
+    "y": 4789828.153,
+    "lat": 43.25608221550508,
+    "lng": -79.91142740452631
+  },
+  {
+    "id": "621",
+    "type": "Cushion",
+    "location": "118 Princeton Drive",
+    "x": 595633.4778,
+    "y": 4786496.3769,
+    "lat": 43.22519898953231,
+    "lng": -79.82239879108296
+  },
+  {
+    "id": "622",
+    "type": "Cushion",
+    "location": "15 Oakcrest Drive",
+    "x": 595778.0898,
+    "y": 4786870.9335,
+    "lat": 43.228552713173244,
+    "lng": -79.82055343220955
+  },
+  {
+    "id": "623",
+    "type": "Cushion",
+    "location": "3 Oakcrest Drive",
+    "x": 595797.8673,
+    "y": 4786951.5315,
+    "lat": 43.22927581120611,
+    "lng": -79.82029593972494
+  },
+  {
+    "id": "624",
+    "type": "Cushion",
+    "location": "20.0 metres South of 320 Crerar Drive",
+    "x": 591852.9732,
+    "y": 4784657.1988,
+    "lat": 43.209110573352994,
+    "lng": -79.86924772303342
+  },
+  {
+    "id": "625",
+    "type": "Cushion",
+    "location": "35 Market Street South (Behind Arena)",
+    "x": 584243.1318,
+    "y": 4790893.7468,
+    "lat": 43.266147200381134,
+    "lng": -79.96195983224888
+  },
+  {
+    "id": "626",
+    "type": "Cushion",
+    "location": "35 Market Street South (Behind Arena)",
+    "x": 584291.7876,
+    "y": 4790876.4539,
+    "lat": 43.26598606747907,
+    "lng": -79.96136304153191
+  },
+  {
+    "id": "627",
+    "type": "Cushion",
+    "location": "276 Vansitmart Ave",
+    "x": 599238.2236,
+    "y": 4788641.4072,
+    "lat": 43.244044504563526,
+    "lng": -79.77763481671776
+  },
+  {
+    "id": "628",
+    "type": "Cushion",
+    "location": "65/62 Main Street North",
+    "x": 589599.3502,
+    "y": 4798577.7405,
+    "lat": 43.334707836874365,
+    "lng": -79.89471985123042
+  },
+  {
+    "id": "629",
+    "type": "Cushion",
+    "location": "103/104 Main Street North",
+    "x": 589508.611,
+    "y": 4798663.9775,
+    "lat": 43.335495029331064,
+    "lng": -79.89582491981982
+  },
+  {
+    "id": "630",
+    "type": "Cushion",
+    "location": "207 Main Street North",
+    "x": 589239.5343,
+    "y": 4798820.1696,
+    "lat": 43.33693320430178,
+    "lng": -79.89911823265348
+  },
+  {
+    "id": "631",
+    "type": "Cushion",
+    "location": "258 Main Street North",
+    "x": 589103.4883,
+    "y": 4798896.1686,
+    "lat": 43.33763355592937,
+    "lng": -79.90078388405409
+  },
+  {
+    "id": "632",
+    "type": "Cushion",
+    "location": "143 Spring Creek Drive",
+    "x": 590609.4396,
+    "y": 4800008.8689,
+    "lat": 43.347470969305746,
+    "lng": -79.88202548905454
+  },
+  {
+    "id": "633",
+    "type": "Cushion",
+    "location": "255/254 Spring Creek Drive",
+    "x": 590372.9714,
+    "y": 4800220.5102,
+    "lat": 43.34940482031457,
+    "lng": -79.88490769887618
+  },
+  {
+    "id": "634",
+    "type": "Cushion",
+    "location": "15-13/10 First Street",
+    "x": 590044.3479,
+    "y": 4798995.1579,
+    "lat": 43.33841261372487,
+    "lng": -79.88916294834117
+  },
+  {
+    "id": "635",
+    "type": "Cushion",
+    "location": "23-27 Laurendale Avenue (Hydro Corridor)",
+    "x": 589859.7508,
+    "y": 4799464.3401,
+    "lat": 43.342658690546976,
+    "lng": -79.89136295958609
+  },
+  {
+    "id": "636",
+    "type": "Cushion",
+    "location": "61/62 Laurendale Avenue",
+    "x": 589923.8551,
+    "y": 4799733.1647,
+    "lat": 43.345071211507225,
+    "lng": -79.89052814565215
+  },
+  {
+    "id": "637",
+    "type": "Cushion",
+    "location": "124/126 Rockhaven Lane",
+    "x": 588901.3821,
+    "y": 4798437.2271,
+    "lat": 43.33352568075797,
+    "lng": -79.90335106136905
+  },
+  {
+    "id": "638",
+    "type": "Cushion",
+    "location": "41/40-42 Rockhaven Lane",
+    "x": 588650.1786,
+    "y": 4798226.9772,
+    "lat": 43.33166248416875,
+    "lng": -79.90648320998665
+  },
+  {
+    "id": "639",
+    "type": "Cushion",
+    "location": "North of 39 Panabaker Drive",
+    "x": 581575.4336,
+    "y": 4783629.5086,
+    "lat": 43.201038382533866,
+    "lng": -79.99590048485511
+  },
+  {
+    "id": "640",
+    "type": "Cushion",
+    "location": "100 Panabaker Drive",
+    "x": 581580.2289,
+    "y": 4783756.6059,
+    "lat": 43.20218217064563,
+    "lng": -79.99582270030201
+  },
+  {
+    "id": "641",
+    "type": "Cushion",
+    "location": "124-128/123-125 Skinner Road",
+    "x": 590844.1532,
+    "y": 4799036.2952,
+    "lat": 43.33868671852786,
+    "lng": -79.87929113919584
+  },
+  {
+    "id": "642",
+    "type": "Cushion",
+    "location": "18-14/13 Bishopsgate Avenue",
+    "x": 592855.1529,
+    "y": 4786059.387,
+    "lat": 43.22161181521894,
+    "lng": -79.8566769803952
+  },
+  {
+    "id": "643",
+    "type": "Cushion",
+    "location": "37-38 Bishopsgate Avenue",
+    "x": 592828.9946,
+    "y": 4785972.6226,
+    "lat": 43.220833898219794,
+    "lng": -79.85701359787035
+  },
+  {
+    "id": "644",
+    "type": "Cushion",
+    "location": "211 Broker Drive",
+    "x": 595912.8308,
+    "y": 4785809.0092,
+    "lat": 43.21897528187569,
+    "lng": -79.8190791013596
+  },
+  {
+    "id": "645",
+    "type": "Cushion",
+    "location": "60-62 Kilbourn Ave",
+    "x": 603387.0588,
+    "y": 4785636.9361,
+    "lat": 43.21643933803816,
+    "lng": -79.72710681559302
+  },
+  {
+    "id": "646",
+    "type": "Cushion",
+    "location": "231 Broker Drive",
+    "x": 596027.8103,
+    "y": 4785798.4455,
+    "lat": 43.218865557781136,
+    "lng": -79.81766555646315
+  },
+  {
+    "id": "647",
+    "type": "Cushion",
+    "location": "9 Wood Street East",
+    "x": 592338.4066,
+    "y": 4791598.0132,
+    "lat": 43.27153904932911,
+    "lng": -79.86211054396034
+  },
+  {
+    "id": "648",
+    "type": "Cushion",
+    "location": "583 Mary Street",
+    "x": 592782.4202,
+    "y": 4791719.1586,
+    "lat": 43.27257514989241,
+    "lng": -79.8566195952844
+  },
+  {
+    "id": "649",
+    "type": "Cushion",
+    "location": "1400-1440 Baseline Rd",
+    "x": 611152.219,
+    "y": 4785856.6851,
+    "lat": 43.21731400923493,
+    "lng": -79.63148434391883
+  },
+  {
+    "id": "650",
+    "type": "Cushion",
+    "location": "80 Robinson Street",
+    "x": 591267.8967,
+    "y": 4789381.4414,
+    "lat": 43.251713842962964,
+    "lng": -79.87566728950625
+  },
+  {
+    "id": "651",
+    "type": "Cushion",
+    "location": "1456-1458 Baseline Rd",
+    "x": 611250.8582,
+    "y": 4785828.0089,
+    "lat": 43.217041328637094,
+    "lng": -79.63027600894324
+  },
+  {
+    "id": "652",
+    "type": "Cushion",
+    "location": "1489-1490 Baseline Rd",
+    "x": 611398.0848,
+    "y": 4785786.5594,
+    "lat": 43.21664647870462,
+    "lng": -79.62847222373726
+  },
+  {
+    "id": "653",
+    "type": "Cushion",
+    "location": "200 Whitney Avenue",
+    "x": 587038.6437,
+    "y": 4789477.1876,
+    "lat": 43.253076031495986,
+    "lng": -79.92774332777483
+  },
+  {
+    "id": "654",
+    "type": "Cushion",
+    "location": "Meadowlands Blvd - 20m south of Olivia Pl",
+    "x": 585636.5598,
+    "y": 4785639.5693,
+    "lat": 43.21868581551683,
+    "lng": -79.94560908395688
+  },
+  {
+    "id": "655",
+    "type": "Cushion",
+    "location": "161 Meadowlands Blvd - between the school and park",
+    "x": 585567.3897,
+    "y": 4785820.6297,
+    "lat": 43.22032378744573,
+    "lng": -79.94643252204727
+  },
+  {
+    "id": "656",
+    "type": "Cushion",
+    "location": "211 East 44th Street",
+    "x": 594417.9364,
+    "y": 4786095.9165,
+    "lat": 43.2217467748993,
+    "lng": -79.83743207133517
+  },
+  {
+    "id": "657",
+    "type": "Cushion",
+    "location": "251/255 Braithwaite Avenue",
+    "x": 581751.2049,
+    "y": 4783852.0969,
+    "lat": 43.203023421809526,
+    "lng": -79.99370432977142
+  },
+  {
+    "id": "658",
+    "type": "Cushion",
+    "location": "252 Raymond Road",
+    "x": 586464.4922,
+    "y": 4785020.3987,
+    "lat": 43.213016904124174,
+    "lng": -79.93551395147148
+  },
+  {
+    "id": "659",
+    "type": "Cushion",
+    "location": "15/16-20 Royalvista Drive",
+    "x": 593165.5604,
+    "y": 4783429.8702,
+    "lat": 43.19790014396294,
+    "lng": -79.8532993211283
+  },
+  {
+    "id": "660",
+    "type": "Cushion",
+    "location": "122 West 2nd Street",
+    "x": 591094.1558,
+    "y": 4788287.8393,
+    "lat": 43.24188919000493,
+    "lng": -79.87798795218835
+  },
+  {
+    "id": "661",
+    "type": "Cushion",
+    "location": "100 Sulphur Springs Road",
+    "x": 582717.3662,
+    "y": 4786498.9981,
+    "lat": 43.22674911916864,
+    "lng": -79.98141685107754
+  },
+  {
+    "id": "662",
+    "type": "Cushion",
+    "location": "407-409/406-404 Herkimer Street",
+    "x": 589886.8288,
+    "y": 4789597.6822,
+    "lat": 43.25382660066276,
+    "lng": -79.8926423006213
+  },
+  {
+    "id": "663",
+    "type": "Cushion",
+    "location": "15m west of 140 Sulphur Springs Road",
+    "x": 582510.7657,
+    "y": 4786526.4111,
+    "lat": 43.2270185489541,
+    "lng": -79.98395644098615
+  },
+  {
+    "id": "664",
+    "type": "Cushion",
+    "location": "442-440/437 Herkimer Street",
+    "x": 589774.7705,
+    "y": 4789633.0961,
+    "lat": 43.254158786513386,
+    "lng": -79.89401677615918
+  },
+  {
+    "id": "665",
+    "type": "Cushion",
+    "location": "10m west of 162 Sulphur Springs Road",
+    "x": 582400.4043,
+    "y": 4786555.0275,
+    "lat": 43.22728825255044,
+    "lng": -79.98531095621178
+  },
+  {
+    "id": "666",
+    "type": "Cushion",
+    "location": "216-217 Sulphur Springs Road",
+    "x": 582288.3656,
+    "y": 4786587.3155,
+    "lat": 43.22759117974565,
+    "lng": -79.98668558744122
+  },
+  {
+    "id": "667",
+    "type": "Cushion",
+    "location": "81-80 Academy Street",
+    "x": 583483.1759,
+    "y": 4786649.1916,
+    "lat": 43.22801700675575,
+    "lng": -79.97196541144451
+  },
+  {
+    "id": "668",
+    "type": "Cushion",
+    "location": "249/252 Jackson Street West",
+    "x": 590866.6684,
+    "y": 4789980.1122,
+    "lat": 43.257152125974784,
+    "lng": -79.88051037203105
+  },
+  {
+    "id": "669",
+    "type": "Cushion",
+    "location": "103/109 Academy Street",
+    "x": 583541.8578,
+    "y": 4786735.6012,
+    "lat": 43.22878848060692,
+    "lng": -79.97122981561436
+  },
+  {
+    "id": "670",
+    "type": "Cushion",
+    "location": "18/15 Spruceside Avenue",
+    "x": 590563.7719,
+    "y": 4788956.5048,
+    "lat": 43.2479730639988,
+    "lng": -79.88440964401487
+  },
+  {
+    "id": "671",
+    "type": "Cushion",
+    "location": "25-24 Academy Street",
+    "x": 583282.7356,
+    "y": 4786629.6538,
+    "lat": 43.22786325501371,
+    "lng": -79.9744362491081
+  },
+  {
+    "id": "672",
+    "type": "Cushion",
+    "location": "65-63/68-70 Melbourne Street",
+    "x": 590211.9512,
+    "y": 4789828.4778,
+    "lat": 43.25586561165829,
+    "lng": -79.88859991330449
+  },
+  {
+    "id": "673",
+    "type": "Cushion",
+    "location": "365-362 Lodor Street",
+    "x": 583327.8459,
+    "y": 4786519.2657,
+    "lat": 43.226864418604286,
+    "lng": -79.97389750979107
+  },
+  {
+    "id": "674",
+    "type": "Cushion",
+    "location": "69 Sanatorium Road",
+    "x": 589741.8621,
+    "y": 4787181.8902,
+    "lat": 43.23209443061255,
+    "lng": -79.89482115240129
+  },
+  {
+    "id": "675",
+    "type": "Cushion",
+    "location": "337/327 - 330 Lodor Street",
+    "x": 583284.6063,
+    "y": 4786414.6085,
+    "lat": 43.2259269339604,
+    "lng": -79.9744456782612
+  },
+  {
+    "id": "676",
+    "type": "Cushion",
+    "location": "143 Sanatorium Road",
+    "x": 589398.6976,
+    "y": 4787294.1966,
+    "lat": 43.233146277833484,
+    "lng": -79.8990282837266
+  },
+  {
+    "id": "677",
+    "type": "Cushion",
+    "location": "426-427 Lodor Street",
+    "x": 583395.2164,
+    "y": 4786746.635,
+    "lat": 43.228904044858616,
+    "lng": -79.97303366788103
+  },
+  {
+    "id": "678",
+    "type": "Cushion",
+    "location": "58/54 Kennedy Avenue",
+    "x": 589616.6923,
+    "y": 4783846.8994,
+    "lat": 43.20208413900311,
+    "lng": -79.89690377502046
+  },
+  {
+    "id": "679",
+    "type": "Cushion",
+    "location": "24/18 Church Street",
+    "x": 583184.945,
+    "y": 4786394.5583,
+    "lat": 43.22575741033898,
+    "lng": -79.97567572318907
+  },
+  {
+    "id": "680",
+    "type": "Cushion",
+    "location": "30-33/29 Kennedy Avenue",
+    "x": 589733.8751,
+    "y": 4783808.8587,
+    "lat": 43.20172773927085,
+    "lng": -79.89546780788037
+  },
+  {
+    "id": "681",
+    "type": "Cushion",
+    "location": "56 Hummingbird Lane",
+    "x": 591668.5791,
+    "y": 4785807.641,
+    "lat": 43.21949041856239,
+    "lng": -79.8713262474591
+  },
+  {
+    "id": "682",
+    "type": "Cushion",
+    "location": "28 Hummingbird Lane",
+    "x": 591693.4694,
+    "y": 4785896.6649,
+    "lat": 43.22028887631139,
+    "lng": -79.87100505300802
+  },
+  {
+    "id": "683",
+    "type": "Cushion",
+    "location": "36-33 Clarendon Avenue",
+    "x": 591381.5526,
+    "y": 4787549.1095,
+    "lat": 43.23520365378116,
+    "lng": -79.8745711644914
+  },
+  {
+    "id": "684",
+    "type": "Cushion",
+    "location": "88-87 Clarendon Avenue",
+    "x": 591312.7503,
+    "y": 4787323.822,
+    "lat": 43.23318372654495,
+    "lng": -79.87545565320637
+  },
+  {
+    "id": "685",
+    "type": "Cushion",
+    "location": "135 -142 First Road West",
+    "x": 598922.7881,
+    "y": 4782066.0678,
+    "lat": 43.184890053253255,
+    "lng": -79.7826974902921
+  },
+  {
+    "id": "686",
+    "type": "Cushion",
+    "location": "128-127 Clarendon Avenue",
+    "x": 591252.9478,
+    "y": 4787129.0393,
+    "lat": 43.23143733693558,
+    "lng": -79.87622422507422
+  },
+  {
+    "id": "687",
+    "type": "Cushion",
+    "location": "177 - 180 First Road West",
+    "x": 599002.0147,
+    "y": 4782344.4376,
+    "lat": 43.18738577263718,
+    "lng": -79.78167293121902
+  },
+  {
+    "id": "688",
+    "type": "Cushion",
+    "location": "30 Caledon Avenue",
+    "x": 590697.4652,
+    "y": 4786736.8277,
+    "lat": 43.227973239641926,
+    "lng": -79.88312817263922
+  },
+  {
+    "id": "689",
+    "type": "Cushion",
+    "location": "239 - 238 First Road West",
+    "x": 599129.4791,
+    "y": 4782787.9877,
+    "lat": 43.19136222886469,
+    "lng": -79.78002515337222
+  },
+  {
+    "id": "690",
+    "type": "Cushion",
+    "location": "105 Caledon Avenue",
+    "x": 590581.6341,
+    "y": 4786501.7917,
+    "lat": 43.225871120793315,
+    "lng": -79.88459286890895
+  },
+  {
+    "id": "691",
+    "type": "Cushion",
+    "location": "27 Isaac Brock Drive",
+    "x": 598862.7385,
+    "y": 4782509.8437,
+    "lat": 43.18889312107661,
+    "lng": -79.78335691737554
+  },
+  {
+    "id": "692",
+    "type": "Cushion",
+    "location": "302 Caledon Avenue",
+    "x": 590534.3761,
+    "y": 4786346.7808,
+    "lat": 43.224481225337655,
+    "lng": -79.88520012176167
+  },
+  {
+    "id": "693",
+    "type": "Cushion",
+    "location": "63/65 Isaac Brock Drive",
+    "x": 598627.3522,
+    "y": 4782578.0184,
+    "lat": 43.18953764724096,
+    "lng": -79.78624087106634
+  },
+  {
+    "id": "694",
+    "type": "Cushion",
+    "location": "15-16 Arno Street",
+    "x": 593656.4117,
+    "y": 4783560.4917,
+    "lat": 43.1990154144102,
+    "lng": -79.84723687832265
+  },
+  {
+    "id": "695",
+    "type": "Cushion",
+    "location": "87 Folkestone Ave",
+    "x": 593369.4718,
+    "y": 4785182.4713,
+    "lat": 43.213653543725755,
+    "lng": -79.85049376155072
+  },
+  {
+    "id": "696",
+    "type": "Cushion",
+    "location": "141/145 Folkestone Ave",
+    "x": 593264.3884,
+    "y": 4785248.5998,
+    "lat": 43.21426188548395,
+    "lng": -79.85177605655264
+  },
+  {
+    "id": "697",
+    "type": "Cushion",
+    "location": "31/30 Craigmiller Avenue",
+    "x": 596019.0636,
+    "y": 4789634.0135,
+    "lat": 43.25339750721443,
+    "lng": -79.81710540223692
+  },
+  {
+    "id": "698",
+    "type": "Cushion",
+    "location": "23/22 Carrick Avenue",
+    "x": 594599.9144,
+    "y": 4789259.6892,
+    "lat": 43.250206964154934,
+    "lng": -79.83464911908358
+  },
+  {
+    "id": "699",
+    "type": "Cushion",
+    "location": "103/104 Carrick Avenue",
+    "x": 594515.8273,
+    "y": 4788984.167,
+    "lat": 43.247737030064506,
+    "lng": -79.83573200790369
+  },
+  {
+    "id": "700",
+    "type": "Cushion",
+    "location": "179 Folkestone Ave",
+    "x": 593300.4975,
+    "y": 4785355.5881,
+    "lat": 43.2152206321857,
+    "lng": -79.8513135062256
+  },
+  {
+    "id": "701",
+    "type": "Cushion",
+    "location": "87/90 Leinster Avenue South",
+    "x": 594817.4381,
+    "y": 4788874.9905,
+    "lat": 43.246716262911725,
+    "lng": -79.83203623368074
+  },
+  {
+    "id": "702",
+    "type": "Cushion",
+    "location": "164 Brucedale Avenue East",
+    "x": 591714.6151,
+    "y": 4787846.7761,
+    "lat": 43.237843111256865,
+    "lng": -79.87042053746607
+  },
+  {
+    "id": "703",
+    "type": "Cushion",
+    "location": "279/278 East 8th Street",
+    "x": 591751.2318,
+    "y": 4787721.8758,
+    "lat": 43.236714185105086,
+    "lng": -79.86999042490956
+  },
+  {
+    "id": "704",
+    "type": "Cushion",
+    "location": "216/215 East 8th Street",
+    "x": 591813.284,
+    "y": 4787925.1655,
+    "lat": 43.23853684278546,
+    "lng": -79.86919248705178
+  },
+  {
+    "id": "705",
+    "type": "Permanent",
+    "location": "1037 Scenic Dr",
+    "x": 587300.9388,
+    "y": 4788655.7419,
+    "lat": 43.245650135900185,
+    "lng": -79.92464271744724
+  },
+  {
+    "id": "706",
+    "type": "Permanent",
+    "location": "881 Scenic Dr",
+    "x": 587886.3214,
+    "y": 4788490.5102,
+    "lat": 43.2440945348222,
+    "lng": -79.91745968242073
+  },
+  {
+    "id": "707",
+    "type": "Permanent",
+    "location": "739 Scenic Dr",
+    "x": 588325.9572,
+    "y": 4788488.1563,
+    "lat": 43.24402197341233,
+    "lng": -79.91204579801277
+  },
+  {
+    "id": "708",
+    "type": "Permanent",
+    "location": "631 Scenic Dr",
+    "x": 588477.9759,
+    "y": 4788627.1259,
+    "lat": 43.24525530459101,
+    "lng": -79.91015133482878
+  },
+  {
+    "id": "709",
+    "type": "Cushion",
+    "location": "581_583 - 580_584 Tuscarora Dr",
+    "x": 584261.9267,
+    "y": 4786608.4135,
+    "lat": 43.227563298652726,
+    "lng": -79.96238342488599
+  },
+  {
+    "id": "710",
+    "type": "Cushion",
+    "location": "651_657 - 654 Hiawatha Blvd",
+    "x": 584480.0817,
+    "y": 4786897.9981,
+    "lat": 43.23014610316055,
+    "lng": -79.95965311295375
+  },
+  {
+    "id": "711",
+    "type": "Cushion",
+    "location": "107 - 108 Seneca Dr",
+    "x": 584679.4002,
+    "y": 4786711.9996,
+    "lat": 43.22844916865069,
+    "lng": -79.9572275143135
+  },
+  {
+    "id": "712",
+    "type": "Cushion",
+    "location": "165_157 - 162 Cayuga Ave",
+    "x": 584339.0644,
+    "y": 4786871.7057,
+    "lat": 43.22992516449119,
+    "lng": -79.96139343851874
+  },
+  {
+    "id": "713",
+    "type": "Cushion",
+    "location": "135_127 Cayuga Ave",
+    "x": 584403.6482,
+    "y": 4786764.5579,
+    "lat": 43.22895326385874,
+    "lng": -79.96061463327479
+  },
+  {
+    "id": "714",
+    "type": "Cushion",
+    "location": "78_76 - 79 Oneida Blvd",
+    "x": 584501.0228,
+    "y": 4786436.9941,
+    "lat": 43.225993227010605,
+    "lng": -79.95946588187007
+  },
+  {
+    "id": "715",
+    "type": "Cushion",
+    "location": "90_96 - 93_95 Oneida Blvd",
+    "x": 584635.7154,
+    "y": 4786483.5474,
+    "lat": 43.226397260834034,
+    "lng": -79.95780042323887
+  },
+  {
+    "id": "716",
+    "type": "Cushion",
+    "location": "118_116 - 117_119 Oneida Blvd",
+    "x": 584806.1983,
+    "y": 4786741.3135,
+    "lat": 43.228698846027434,
+    "lng": -79.95566182498028
+  },
+  {
+    "id": "717",
+    "type": "Cushion",
+    "location": "55 Albright Rd",
+    "x": 598460.4385,
+    "y": 4785657.7868,
+    "lat": 43.217285806968945,
+    "lng": -79.78774560603415
+  },
+  {
+    "id": "718",
+    "type": "Cushion",
+    "location": "51 Helen St and Dundas Driving Park Rd",
+    "x": 585280.1738,
+    "y": 4791458.728,
+    "lat": 43.271117147494344,
+    "lng": -79.94909602609475
+  },
+  {
+    "id": "719",
+    "type": "Cushion",
+    "location": "Bendamere Ave (beside 120 West 26th St)",
+    "x": 588815.3147,
+    "y": 4787846.7968,
+    "lat": 43.238190291788534,
+    "lng": -79.9061225348523
+  },
+  {
+    "id": "720",
+    "type": "Cushion",
+    "location": "Bendamere Ave (beside 483 West 26th St)",
+    "x": 588872.54,
+    "y": 4787827.8936,
+    "lat": 43.23801336391548,
+    "lng": -79.90542090276439
+  },
+  {
+    "id": "721",
+    "type": "Cushion",
+    "location": "106 West 27th St",
+    "x": 588772.5047,
+    "y": 4787942.5207,
+    "lat": 43.239057140995826,
+    "lng": -79.90663429102828
+  },
+  {
+    "id": "722",
+    "type": "Cushion",
+    "location": "92 West 27th St",
+    "x": 588791.2408,
+    "y": 4788002.762,
+    "lat": 43.239597291976125,
+    "lng": -79.90639386827341
+  },
+  {
+    "id": "723",
+    "type": "Cushion",
+    "location": "22 San Antonio Dr",
+    "x": 587152.4896,
+    "y": 4788220.4239,
+    "lat": 43.241748088069755,
+    "lng": -79.926539796337
+  },
+  {
+    "id": "724",
+    "type": "Cushion",
+    "location": "48_52 Karen Cres",
+    "x": 587262.961,
+    "y": 4788216.8513,
+    "lat": 43.2417031481717,
+    "lng": -79.92517991647033
+  },
+  {
+    "id": "725",
+    "type": "Cushion",
+    "location": "Gemini Dr Approx. 15 m west of Gardiner Ave",
+    "x": 588427.2756,
+    "y": 4785863.6298,
+    "lat": 43.22038123889608,
+    "lng": -79.91121878611106
+  },
+  {
+    "id": "726",
+    "type": "Cushion",
+    "location": "Gemini Dr Approx. 15 m east of Gillard st",
+    "x": 588264.1131,
+    "y": 4785920.1254,
+    "lat": 43.22090897628274,
+    "lng": -79.91321837217471
+  },
+  {
+    "id": "727",
+    "type": "Cushion",
+    "location": "107 - 108 Gemini Dr",
+    "x": 588167.9601,
+    "y": 4785901.5656,
+    "lat": 43.22075312005576,
+    "lng": -79.91440504487846
+  },
+  {
+    "id": "728",
+    "type": "Cushion",
+    "location": "15 -16 Howard Blvd",
+    "x": 589479.3512,
+    "y": 4797828.4866,
+    "lat": 43.32797667819903,
+    "lng": -79.89632203221967
+  },
+  {
+    "id": "729",
+    "type": "Cushion",
+    "location": "72 Stanley Ave",
+    "x": 590455.2989,
+    "y": 4789327.3786,
+    "lat": 43.251325059129584,
+    "lng": -79.8856847221735
+  },
+  {
+    "id": "730",
+    "type": "Cushion",
+    "location": "25 Stanley Ave",
+    "x": 590614.6803,
+    "y": 4789280.3386,
+    "lat": 43.25088241787854,
+    "lng": -79.88372940947589
+  },
+  {
+    "id": "731",
+    "type": "Cushion",
+    "location": "81 Oak Ave",
+    "x": 593304.3839,
+    "y": 4790224.3512,
+    "lat": 43.259053146652874,
+    "lng": -79.85044187036588
+  },
+  {
+    "id": "732",
+    "type": "Cushion",
+    "location": "268 Nashville Cir",
+    "x": 599639.5049,
+    "y": 4785203.0469,
+    "lat": 43.21303719488657,
+    "lng": -79.77331414318655
+  },
+  {
+    "id": "733",
+    "type": "Cushion",
+    "location": "34 Laurendale Ave",
+    "x": 589881.3044,
+    "y": 4799542.0857,
+    "lat": 43.34335604557243,
+    "lng": -79.89108435172517
+  },
+  {
+    "id": "734",
+    "type": "Cushion",
+    "location": "27 Laurendale Avenue",
+    "x": 589870.1672,
+    "y": 4799486.8082,
+    "lat": 43.342859722053355,
+    "lng": -79.89123079016484
+  },
+  {
+    "id": "735",
+    "type": "Cushion",
+    "location": "78 \u2013 77_79 Mountain Ave N",
+    "x": 601188.4563,
+    "y": 4786332.6801,
+    "lat": 43.223000803843625,
+    "lng": -79.7540419380702
+  },
+  {
+    "id": "736",
+    "type": "Cushion",
+    "location": "26 Robroy Ave",
+    "x": 598784.6568,
+    "y": 4786764.649,
+    "lat": 43.22720819794247,
+    "lng": -79.7835565510749
+  },
+  {
+    "id": "737",
+    "type": "Cushion",
+    "location": "70 - 69 Greenford Dr",
+    "x": 599963.0024,
+    "y": 4786701.9499,
+    "lat": 43.226488542580775,
+    "lng": -79.76906091799158
+  },
+  {
+    "id": "738",
+    "type": "Cushion",
+    "location": "1085 Harrogate Drive",
+    "x": 586084.5626,
+    "y": 4786535.7907,
+    "lat": 43.226703703921025,
+    "lng": -79.93995421583176
+  },
+  {
+    "id": "739",
+    "type": "Cushion",
+    "location": "1111 Harrogate Drive",
+    "x": 586201.9124,
+    "y": 4786519.9209,
+    "lat": 43.226547427027214,
+    "lng": -79.93851189223135
+  },
+  {
+    "id": "740",
+    "type": "Cushion",
+    "location": "71 Cloverleaf Drive",
+    "x": 585934.9741,
+    "y": 4786388.0424,
+    "lat": 43.225390549669804,
+    "lng": -79.94181895286586
+  },
+  {
+    "id": "741",
+    "type": "Cushion",
+    "location": "Cloerleaf Dr (beside 76 Playfair Crt)",
+    "x": 586090.0778,
+    "y": 4786107.8732,
+    "lat": 43.22285045147212,
+    "lng": -79.93995307697932
+  },
+  {
+    "id": "742",
+    "type": "Cushion",
+    "location": "34-35 Crooks Street",
+    "x": 590878.6581,
+    "y": 4790954.8169,
+    "lat": 43.26592590270922,
+    "lng": -79.88020185040479
+  },
+  {
+    "id": "743",
+    "type": "Cushion",
+    "location": "64-65 Crooks Street",
+    "x": 590904.1522,
+    "y": 4791043.884,
+    "lat": 43.266724693658354,
+    "lng": -79.87987306886491
+  },
+  {
+    "id": "744",
+    "type": "Cushion",
+    "location": "155-156 Ray Street North",
+    "x": 591005.5692,
+    "y": 4790848.6276,
+    "lat": 43.26495456868721,
+    "lng": -79.87865590768331
+  },
+  {
+    "id": "745",
+    "type": "Cushion",
+    "location": "187-188 Ray Street North",
+    "x": 591033.3358,
+    "y": 4790946.6427,
+    "lat": 43.26583363893028,
+    "lng": -79.87829763599481
+  },
+  {
+    "id": "746",
+    "type": "Cushion",
+    "location": "34- 35_39 Dalewood Crescent",
+    "x": 588256.5916,
+    "y": 4790388.5571,
+    "lat": 43.26113953179799,
+    "lng": -79.91259566118516
+  },
+  {
+    "id": "747",
+    "type": "Cushion",
+    "location": "57 Haddon Avenue S",
+    "x": 588334.3699,
+    "y": 4790121.8372,
+    "lat": 43.258729125638645,
+    "lng": -79.91168030433215
+  },
+  {
+    "id": "748",
+    "type": "Cushion",
+    "location": "133-138 Ewen Road",
+    "x": 586832.1156,
+    "y": 4789296.8978,
+    "lat": 43.251476679350226,
+    "lng": -79.9303155888739
+  },
+  {
+    "id": "749",
+    "type": "Cushion",
+    "location": "147-158 Ewen Road",
+    "x": 586853.0196,
+    "y": 4789209.5982,
+    "lat": 43.250688302370705,
+    "lng": -79.93007187641066
+  },
+  {
+    "id": "750",
+    "type": "Cushion",
+    "location": "97-98 Stroud Road",
+    "x": 587985.0171,
+    "y": 4789721.1719,
+    "lat": 43.255162773456284,
+    "lng": -79.91604772618645
+  },
+  {
+    "id": "751",
+    "type": "Cushion",
+    "location": "28 Stroud Road",
+    "x": 588047.3482,
+    "y": 4789915.6355,
+    "lat": 43.25690626432406,
+    "lng": -79.91524887857621
+  },
+  {
+    "id": "752",
+    "type": "Cushion",
+    "location": "3 - 4 Laurendale Ave",
+    "x": 589797.7332,
+    "y": 4799264.4896,
+    "lat": 43.34086687703898,
+    "lng": -79.89216067518541
+  },
+  {
+    "id": "753",
+    "type": "Cushion",
+    "location": "124/126 Markland St",
+    "x": 591029.3289,
+    "y": 4789111.7465,
+    "lat": 43.24931463415704,
+    "lng": -79.87865021304165
+  },
+  {
+    "id": "754",
+    "type": "Cushion",
+    "location": "280 Park Street",
+    "x": 591261.1358,
+    "y": 4789098.9386,
+    "lat": 43.249171300520636,
+    "lng": -79.87579734646584
+  },
+  {
+    "id": "755",
+    "type": "Cushion",
+    "location": "Pinehill Drive (btwn #168 & #172 Pinehill Dr)",
+    "x": 596431.669,
+    "y": 4781385.93,
+    "lat": 43.179088890177965,
+    "lng": -79.81346423548963
+  },
+  {
+    "id": "756",
+    "type": "Cushion",
+    "location": "53 Mistywood Drive",
+    "x": 598224.5318,
+    "y": 4783475.3791,
+    "lat": 43.19766886532416,
+    "lng": -79.79103762017323
+  },
+  {
+    "id": "757",
+    "type": "Cushion",
+    "location": "30 meters west of 215 Skinner Road",
+    "x": 591039.0051,
+    "y": 4799253.8643,
+    "lat": 43.34062187681025,
+    "lng": -79.87685167187395
+  },
+  {
+    "id": "758",
+    "type": "Cushion",
+    "location": "350/356-349 Caledon Avenue",
+    "x": 590471.6637,
+    "y": 4786130.7108,
+    "lat": 43.22254346194567,
+    "lng": -79.88600761567874
+  },
+  {
+    "id": "759",
+    "type": "Cushion",
+    "location": "22/27 Connaught Avenue North",
+    "x": 595062.4104,
+    "y": 4789175.0605,
+    "lat": 43.24938689116809,
+    "lng": -79.8289675182229
+  }
+]
