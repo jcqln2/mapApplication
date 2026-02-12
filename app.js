@@ -46,18 +46,22 @@ function initMap() {
     document.getElementById('addLocationForm').addEventListener('submit', handleFormSubmit);
 }
 
-// Load speed hump data from JSON file
+// Load speed hump data (from embedded script when opening file://, or fetch when on a server)
 async function loadSpeedHumps() {
     try {
-        const response = await fetch('speedHumps.json');
-        speedHumpsData = await response.json();
-        
+        if (typeof window.speedHumpsData !== 'undefined' && Array.isArray(window.speedHumpsData)) {
+            speedHumpsData = window.speedHumpsData;
+        } else {
+            const response = await fetch('speedHumps.json');
+            speedHumpsData = await response.json();
+        }
+
         // Create markers for all speed humps
         createMarkers();
-        
+
         // Update statistics
         updateStats();
-        
+
         // Populate destination dropdown
         populateDestinationDropdown();
     } catch (error) {
