@@ -102,7 +102,7 @@ function createMarkers() {
 
 // Get custom marker icon based on type
 function getMarkerIcon(type) {
-    const color = type === 'Cushion' ? '#2196F3' : '#9C27B0';
+    const color = type === 'Cushion' ? '#FFC107' : '#DC3545';
     const label = type === 'Cushion' ? 'C' : 'P';
     
     // Create SVG marker icon instead of using Google Charts API
@@ -220,8 +220,8 @@ function showUserLocation() {
                     infoWindow.setContent(`
                         <div style="padding: 10px;">
                             <h6 style="color: #2c5f7c;">Your Current Location</h6>
-                            <p>Latitude: ${userLocation.lat.toFixed(6)}</p>
-                            <p>Longitude: ${userLocation.lng.toFixed(6)}</p>
+                            <p style="color: #333; margin-bottom: 5px;">Latitude: ${userLocation.lat.toFixed(6)}</p>
+                            <p style="color: #333; margin-bottom: 0;">Longitude: ${userLocation.lng.toFixed(6)}</p>
                         </div>
                     `);
                     infoWindow.open(map, userMarker);
@@ -259,7 +259,7 @@ function findNearbyHumps(userLocation) {
         infoWindow.setContent(`
             <div style="padding: 10px;">
                 <h6 style="color: #2c5f7c;">Nearby Speed Humps</h6>
-                <p>${message}</p>
+                <p style="color: #333; font-weight: 500;">${message}</p>
             </div>
         `);
         infoWindow.setPosition(userLocation);
@@ -345,7 +345,7 @@ function handleFormSubmit(e) {
             infoWindow.setContent(`
                 <div style="padding: 10px;">
                     <h6 style="color: #28a745;">Success!</h6>
-                    <p>Speed hump location added to the map.</p>
+                    <p style="color: #333;">Speed hump location added to the map.</p>
                 </div>
             `);
             infoWindow.setPosition({ lat: newHump.lat, lng: newHump.lng });
@@ -421,8 +421,8 @@ function getDirections() {
             infoWindow.setContent(`
                 <div style="padding: 10px;">
                     <h6 style="color: #2c5f7c;">Route Information</h6>
-                    <p><strong>Distance:</strong> ${route.distance.text}</p>
-                    <p><strong>Duration:</strong> ${route.duration.text}</p>
+                    <p style="color: #333; margin-bottom: 5px;"><strong>Distance:</strong> ${route.distance.text}</p>
+                    <p style="color: #333; margin-bottom: 0;"><strong>Duration:</strong> ${route.duration.text}</p>
                 </div>
             `);
             infoWindow.setPosition(destination);
@@ -460,9 +460,9 @@ function directionsToMarker(humpId) {
             infoWindow.setContent(`
                 <div style="padding: 10px;">
                     <h6 style="color: #2c5f7c;">Route from Your Location</h6>
-                    <p><strong>Distance:</strong> ${route.distance.text}</p>
-                    <p><strong>Duration:</strong> ${route.duration.text}</p>
-                    <p><strong>Destination:</strong> ${destinationMarker.humpData.location}</p>
+                    <p style="color: #333; margin-bottom: 5px;"><strong>Distance:</strong> ${route.distance.text}</p>
+                    <p style="color: #333; margin-bottom: 5px;"><strong>Duration:</strong> ${route.duration.text}</p>
+                    <p style="color: #333; margin-bottom: 0;"><strong>Destination:</strong> ${destinationMarker.humpData.location}</p>
                 </div>
             `);
             infoWindow.setPosition(destination);
