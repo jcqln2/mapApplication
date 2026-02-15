@@ -1,8 +1,8 @@
 /*StAuth10244: I Jacqueline Robinson, 000967585 certify that this material is my original work. No other person's work has been used without due acknowledgement. I have not made my work available to anyone else.-->
 */
 :root {
-    --primary-color: #2c5f7c;
-    --secondary-color: #4a90b8;
+    --primary-color: #b3fbf0;
+    --secondary-color: #0b9486;
     --accent-color: #ff6b6b;
 }
 
@@ -20,7 +20,7 @@ body {
 
 .header-section {
     background: linear-gradient(135deg, var(--primary-color) 0%, var(--secondary-color) 100%);
-    color: white;
+    color: rgb(14, 13, 13);
     padding: 2rem 0;
     margin-bottom: 2rem;
     box-shadow: 0 2px 4px rgba(0,0,0,0.1);
