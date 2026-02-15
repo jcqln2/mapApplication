@@ -1,3 +1,5 @@
+/*StAuth10244: I Jacqueline Robinson, 000967585 certify that this material is my original work. No other person's work has been used without due acknowledgement. I have not made my work available to anyone else.-->
+*/
 :root {
     --primary-color: #2c5f7c;
     --secondary-color: #4a90b8;
@@ -126,7 +128,7 @@ body {
         padding: 1rem 0;
     }
 
-    .header-section h1 {
+    .header-section h2 {
         font-size: 1.5rem;
     }
 
