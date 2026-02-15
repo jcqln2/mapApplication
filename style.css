@@ -175,6 +175,9 @@ body {
     background-color: #9C27B0;
     color: white;
 }
+p{
+color: black;
+}
 
 .legend {
     background: var(--bg-card);
