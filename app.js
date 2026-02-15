@@ -101,12 +101,23 @@ function createMarkers() {
 
 // Get custom marker icon based on type
 function getMarkerIcon(type) {
-    const color = type === 'Cushion' ? 'FFC107' : 'DC3545';
+    const color = type === 'Cushion' ? '#FFC107' : '#DC3545';
     const label = type === 'Cushion' ? 'C' : 'P';
     
+    // Create SVG marker icon instead of using Google Charts API
+    const svg = `
+        <svg xmlns="http://www.w3.org/2000/svg" width="32" height="48" viewBox="0 0 32 48">
+            <path fill="${color}" stroke="#000" stroke-width="1.5" 
+                d="M16,0 C7.2,0 0,7.2 0,16 C0,28 16,48 16,48 S32,28 32,16 C32,7.2 24.8,0 16,0 Z"/>
+            <circle cx="16" cy="16" r="10" fill="white"/>
+            <text x="16" y="21" font-size="14" font-weight="bold" text-anchor="middle" fill="${color}">${label}</text>
+        </svg>
+    `;
+    
     return {
-        url: `https://chart.googleapis.com/chart?chst=d_map_pin_letter&chld=${label}|${color}|000000`,
-        scaledSize: new google.maps.Size(35, 56)
+        url: 'data:image/svg+xml;charset=UTF-8,' + encodeURIComponent(svg),
+        scaledSize: new google.maps.Size(32, 48),
+        anchor: new google.maps.Point(16, 48)
     };
 }
 
@@ -142,7 +153,18 @@ function filterMarkers(filterType) {
     document.querySelectorAll('.filter-buttons .btn').forEach(btn => {
         btn.classList.remove('active');
     });
-    event.target.classList.add('active');
+    
+    // Find and activate the correct button based on filter type
+    const buttons = document.querySelectorAll('.filter-buttons .btn');
+    buttons.forEach(btn => {
+        const btnText = btn.textContent.trim();
+        if ((filterType === 'all' && btnText.includes('Show All')) ||
+            (filterType === 'Cushion' && btnText.includes('Cushion')) ||
+            (filterType === 'Permanent' && btnText.includes('Permanent')) ||
+            (filterType === 'user' && btnText.includes('My Locations'))) {
+            btn.classList.add('active');
+        }
+    });
 
     markers.forEach(marker => {
         const humpData = marker.humpData;
