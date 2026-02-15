@@ -96,12 +96,12 @@ body {
 }
 
 .cushion-badge {
-    background-color: #ffc107;
+    background-color: #2196F3;  /* Blue to match Cushion markers */
     color: white;
 }
 
 .permanent-badge {
-    background-color: #dc3545;
+    background-color: #9C27B0;  /* Purple to match Permanent markers */
     color: white;
 }
 

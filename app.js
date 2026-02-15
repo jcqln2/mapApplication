@@ -102,7 +102,7 @@ function createMarkers() {
 
 // Get custom marker icon based on type
 function getMarkerIcon(type) {
-    const color = type === 'Cushion' ? '#FFC107' : '#DC3545';
+    const color = type === 'Cushion' ? '#2196F3' : '#9C27B0';
     const label = type === 'Cushion' ? 'C' : 'P';
     
     // Create SVG marker icon instead of using Google Charts API
