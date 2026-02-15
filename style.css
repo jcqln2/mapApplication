@@ -1,37 +1,52 @@
-/*StAuth10244: I Jacqueline Robinson, 000967585 certify that this material is my original work. No other person's work has been used without due acknowledgement. I have not made my work available to anyone else.-->
+/*StAuth10244: I Jacqueline Robinson, 000967585 certify that this material is my original work. No other person's work has been used without due acknowledgement. I have not made my work available to anyone else.
 */
 :root {
-    --primary-color: #b3fbf0;
+    --primary-color: #00d4bd;
     --secondary-color: #0b9486;
     --accent-color: #ff6b6b;
+    
+    /* Dark mode colors */
+    --bg-dark: #1a1a1a;
+    --bg-card: #2d2d2d;
+    --bg-card-hover: #363636;
+    --text-primary: #e0e0e0;
+    --text-secondary: #b0b0b0;
+    --border-color: #404040;
 }
 
 body {
     font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
-    background-color: #f8f9fa;
+    background-color: var(--bg-dark);
+    color: var(--text-primary);
 }
 
 #map {
     height: 600px;
     width: 100%;
     border-radius: 8px;
-    box-shadow: 0 2px 8px rgba(0,0,0,0.1);
+    box-shadow: 0 4px 12px rgba(0,0,0,0.5);
+    border: 1px solid var(--border-color);
 }
 
 .header-section {
     background: linear-gradient(135deg, var(--primary-color) 0%, var(--secondary-color) 100%);
-    color: rgb(14, 13, 13);
+    color: #1a1a1a;
     padding: 2rem 0;
     margin-bottom: 2rem;
-    box-shadow: 0 2px 4px rgba(0,0,0,0.1);
+    box-shadow: 0 2px 4px rgba(0,0,0,0.3);
 }
 
 .info-card {
-    background: white;
+    background: var(--bg-card);
     border-radius: 8px;
     padding: 1.5rem;
     margin-bottom: 1.5rem;
-    box-shadow: 0 2px 4px rgba(0,0,0,0.08);
+    box-shadow: 0 2px 8px rgba(0,0,0,0.3);
+    border: 1px solid var(--border-color);
+}
+
+.info-card h5 {
+    color: var(--primary-color);
 }
 
 .filter-buttons .btn {
@@ -40,29 +55,52 @@ body {
     padding: 0.5rem 1.5rem;
     font-weight: 500;
     transition: all 0.3s ease;
+    color: var(--text-primary);
 }
 
 .filter-buttons .btn:hover {
     transform: translateY(-2px);
-    box-shadow: 0 4px 8px rgba(0,0,0,0.15);
+    box-shadow: 0 4px 12px rgba(0,0,0,0.4);
+    background-color: var(--bg-card-hover) !important;
 }
 
 .btn-primary {
     background-color: var(--primary-color);
     border-color: var(--primary-color);
+    color: #1a1a1a;
 }
 
 .btn-primary:hover {
-    background-color: #1e4559;
-    border-color: #1e4559;
+    background-color: var(--secondary-color);
+    border-color: var(--secondary-color);
+    color: #1a1a1a;
+}
+
+.btn-warning {
+    background-color: #ff9800;
+    border-color: #ff9800;
+    color: #1a1a1a;
+}
+
+.btn-danger {
+    background-color: #f44336;
+    border-color: #f44336;
+    color: white;
+}
+
+.btn-success {
+    background-color: #4caf50;
+    border-color: #4caf50;
+    color: #1a1a1a;
 }
 
 .stat-card {
-    background: white;
+    background: var(--bg-card);
     border-radius: 8px;
     padding: 1rem;
     text-align: center;
-    box-shadow: 0 2px 4px rgba(0,0,0,0.08);
+    box-shadow: 0 2px 8px rgba(0,0,0,0.3);
+    border: 1px solid var(--border-color);
     margin-bottom: 1rem;
 }
 
@@ -73,16 +111,49 @@ body {
 }
 
 .stat-label {
-    color: #6c757d;
+    color: var(--text-secondary);
     font-size: 0.9rem;
 }
 
 .form-section {
-    background: white;
+    background: var(--bg-card);
     border-radius: 8px;
     padding: 1.5rem;
     margin-bottom: 1.5rem;
-    box-shadow: 0 2px 4px rgba(0,0,0,0.08);
+    box-shadow: 0 2px 8px rgba(0,0,0,0.3);
+    border: 1px solid var(--border-color);
+}
+
+.form-section h5 {
+    color: var(--primary-color);
+}
+
+/* Form inputs dark mode styling */
+.form-control,
+.form-select {
+    background-color: #1a1a1a;
+    border-color: var(--border-color);
+    color: var(--text-primary);
+}
+
+.form-control:focus,
+.form-select:focus {
+    background-color: #1a1a1a;
+    border-color: var(--primary-color);
+    color: var(--text-primary);
+    box-shadow: 0 0 0 0.2rem rgba(0, 212, 189, 0.25);
+}
+
+.form-control::placeholder {
+    color: #666;
+}
+
+.form-label {
+    color: var(--text-secondary);
+}
+
+.text-muted {
+    color: var(--text-secondary) !important;
 }
 
 .icon-badge {
@@ -96,26 +167,82 @@ body {
 }
 
 .cushion-badge {
-    background-color: #2196F3;  /* Blue to match Cushion markers */
+    background-color: #2196F3;
     color: white;
 }
 
 .permanent-badge {
-    background-color: #9C27B0;  /* Purple to match Permanent markers */
+    background-color: #9C27B0;
     color: white;
 }
 
 .legend {
-    background: white;
+    background: var(--bg-card);
     border-radius: 8px;
     padding: 1rem;
-    box-shadow: 0 2px 4px rgba(0,0,0,0.08);
+    box-shadow: 0 2px 8px rgba(0,0,0,0.3);
+    border: 1px solid var(--border-color);
+}
+
+.legend h6 {
+    color: var(--primary-color);
 }
 
 .legend-item {
     margin-bottom: 0.5rem;
     display: flex;
     align-items: center;
+    color: var(--text-primary);
+}
+
+/* Modal dark mode */
+.modal-content {
+    background-color: var(--bg-card);
+    border: 1px solid var(--border-color);
+}
+
+.modal-header {
+    border-bottom-color: var(--border-color);
+}
+
+.modal-title {
+    color: var(--primary-color);
+}
+
+.modal-body {
+    color: var(--text-primary);
+}
+
+.modal-body h6 {
+    color: var(--primary-color);
+}
+
+.btn-close {
+    filter: invert(1);
+}
+
+/* Button styling for light button in header */
+.btn-light {
+    background-color: rgba(255, 255, 255, 0.9);
+    color: #1a1a1a;
+    border-color: transparent;
+}
+
+.btn-light:hover {
+    background-color: white;
+    color: #1a1a1a;
+}
+
+/* Secondary button */
+.btn-secondary {
+    background-color: #555;
+    border-color: #555;
+    color: var(--text-primary);
+}
+
+.btn-secondary:hover {
+    background-color: #666;
+    border-color: #666;
 }
 
 @media (max-width: 768px) {
@@ -128,7 +255,7 @@ body {
         padding: 1rem 0;
     }
 
-    .header-section h2 {
+    .header-section h3 {
         font-size: 1.5rem;
     }
 
